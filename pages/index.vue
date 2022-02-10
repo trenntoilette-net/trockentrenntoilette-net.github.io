@@ -1,51 +1,12 @@
 <template>
   <div>
     <Header />
-
-    <!-- Carousel Start -->
-    <div class="container-fluid p-0 mb-5">
-        <div class="owl-carousel header-carousel position-relative">
-            <div class="owl-carousel-item position-relative">
-                <img class="img-fluid" src="assets/images/img/carousel-1.jpg" alt="">
-                <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" style="background: rgba(24, 29, 56, .7);">
-                    <div class="container">
-                        <div class="row justify-content-start">
-                            <div class="col-sm-10 col-lg-8">
-                                <h5 class="text-primary text-uppercase mb-3 animated slideInDown">Best Online Courses</h5>
-                                <h1 class="display-3 text-white animated slideInDown">The Best Online Learning Platform</h1>
-                                <p class="fs-5 text-white mb-4 pb-2">Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea sanctus eirmod elitr.</p>
-                                <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Read More</a>
-                                <a href="" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Join Now</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="owl-carousel-item position-relative">
-                <img class="img-fluid" src="assets/images/img/carousel-2.jpg" alt="">
-                <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" style="background: rgba(24, 29, 56, .7);">
-                    <div class="container">
-                        <div class="row justify-content-start">
-                            <div class="col-sm-10 col-lg-8">
-                                <h5 class="text-primary text-uppercase mb-3 animated slideInDown">Best Online Courses</h5>
-                                <h1 class="display-3 text-white animated slideInDown">Get Educated Online From Your Home</h1>
-                                <p class="fs-5 text-white mb-4 pb-2">Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea sanctus eirmod elitr.</p>
-                                <a href="" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Read More</a>
-                                <a href="" class="btn btn-light py-md-3 px-md-5 animated slideInRight">Join Now</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Carousel End -->
-
+    
     <!-- Service Start -->
     <div class="container-xxl py-5">
       <div class="container">
         <div class="row g-4">
-          <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
+          <div class="col-lg-3 col-sm-6 fadeInUp">
             <div class="service-item text-center pt-3">
               <div class="p-4">
                 <i class="fa fa-3x fa-graduation-cap text-primary mb-4"></i>
@@ -57,7 +18,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
+          <div class="col-lg-3 col-sm-6 fadeInUp">
             <div class="service-item text-center pt-3">
               <div class="p-4">
                 <i class="fa fa-3x fa-globe text-primary mb-4"></i>
@@ -69,7 +30,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
+          <div class="col-lg-3 col-sm-6 fadeInUp">
             <div class="service-item text-center pt-3">
               <div class="p-4">
                 <i class="fa fa-3x fa-home text-primary mb-4"></i>
@@ -81,7 +42,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
+          <div class="col-lg-3 col-sm-6 fadeInUp">
             <div class="service-item text-center pt-3">
               <div class="p-4">
                 <i class="fa fa-3x fa-book-open text-primary mb-4"></i>
@@ -103,8 +64,8 @@
       <div class="container">
         <div class="row g-5">
           <div
-            class="col-lg-6 wow fadeInUp"
-            data-wow-delay="0.1s"
+            class="col-lg-6 fadeInUp"
+           
             style="min-height: 400px"
           >
             <div class="position-relative h-100">
@@ -116,7 +77,7 @@
               />
             </div>
           </div>
-          <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
+          <div class="col-lg-6 fadeInUp">
             <h6 class="section-title bg-white text-start text-primary pe-3">
               About Us
             </h6>
@@ -178,7 +139,7 @@
     <!-- Categories Start -->
     <div class="container-xxl py-5 category">
       <div class="container">
-        <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+        <div class="text-center fadeInUp">
           <h6 class="section-title bg-white text-center text-primary px-3">
             Categories
           </h6>
@@ -187,7 +148,7 @@
         <div class="row g-3">
           <div class="col-lg-7 col-md-6">
             <div class="row g-3">
-              <div class="col-lg-12 col-md-12 wow zoomIn" data-wow-delay="0.1s">
+              <div class="col-lg-12 col-md-12 zoomIn">
                 <a class="position-relative d-block overflow-hidden" href="">
                   <img
                     class="img-fluid"
@@ -211,7 +172,7 @@
                   </div>
                 </a>
               </div>
-              <div class="col-lg-6 col-md-12 wow zoomIn" data-wow-delay="0.3s">
+              <div class="col-lg-6 col-md-12 zoomIn">
                 <a class="position-relative d-block overflow-hidden" href="">
                   <img
                     class="img-fluid"
@@ -235,7 +196,7 @@
                   </div>
                 </a>
               </div>
-              <div class="col-lg-6 col-md-12 wow zoomIn" data-wow-delay="0.5s">
+              <div class="col-lg-6 col-md-12 zoomIn">
                 <a class="position-relative d-block overflow-hidden" href="">
                   <img
                     class="img-fluid"
@@ -262,8 +223,8 @@
             </div>
           </div>
           <div
-            class="col-lg-5 col-md-6 wow zoomIn"
-            data-wow-delay="0.7s"
+            class="col-lg-5 col-md-6 zoomIn"
+           
             style="min-height: 350px"
           >
             <a class="position-relative d-block h-100 overflow-hidden" href="">
@@ -298,14 +259,14 @@
     <!-- Courses Start -->
     <div class="container-xxl py-5">
       <div class="container">
-        <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+        <div class="text-center fadeInUp">
           <h6 class="section-title bg-white text-center text-primary px-3">
             Courses
           </h6>
           <h1 class="mb-5">Popular Courses</h1>
         </div>
         <div class="row g-4 justify-content-center">
-          <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+          <div class="col-lg-4 col-md-6 fadeInUp">
             <div class="course-item bg-light">
               <div class="position-relative overflow-hidden">
                 <img
@@ -367,7 +328,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+          <div class="col-lg-4 col-md-6 fadeInUp">
             <div class="course-item bg-light">
               <div class="position-relative overflow-hidden">
                 <img
@@ -429,7 +390,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+          <div class="col-lg-4 col-md-6 fadeInUp">
             <div class="course-item bg-light">
               <div class="position-relative overflow-hidden">
                 <img
@@ -499,14 +460,14 @@
     <!-- Team Start -->
     <div class="container-xxl py-5">
       <div class="container">
-        <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+        <div class="text-center fadeInUp">
           <h6 class="section-title bg-white text-center text-primary px-3">
             Instructors
           </h6>
           <h1 class="mb-5">Expert Instructors</h1>
         </div>
         <div class="row g-4">
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+          <div class="col-lg-3 col-md-6 fadeInUp">
             <div class="team-item bg-light">
               <div class="overflow-hidden">
                 <img
@@ -537,7 +498,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+          <div class="col-lg-3 col-md-6 fadeInUp">
             <div class="team-item bg-light">
               <div class="overflow-hidden">
                 <img
@@ -568,7 +529,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+          <div class="col-lg-3 col-md-6 fadeInUp">
             <div class="team-item bg-light">
               <div class="overflow-hidden">
                 <img
@@ -599,7 +560,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+          <div class="col-lg-3 col-md-6 fadeInUp">
             <div class="team-item bg-light">
               <div class="overflow-hidden">
                 <img
@@ -634,81 +595,6 @@
       </div>
     </div>
     <!-- Team End -->
-
-    <!-- Testimonial Start -->
-    <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
-      <div class="container">
-        <div class="text-center">
-          <h6 class="section-title bg-white text-center text-primary px-3">
-            Testimonial
-          </h6>
-          <h1 class="mb-5">Our Students Say!</h1>
-        </div>
-        <div class="owl-carousel testimonial-carousel position-relative">
-          <div class="testimonial-item text-center">
-            <img
-              class="border rounded-circle p-2 mx-auto mb-3"
-              src="assets/images/img/testimonial-1.jpg"
-              style="width: 80px; height: 80px"
-            />
-            <h5 class="mb-0">Client Name</h5>
-            <p>Profession</p>
-            <div class="testimonial-text bg-light text-center p-4">
-              <p class="mb-0">
-                Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam
-                amet diam et eos. Clita erat ipsum et lorem et sit.
-              </p>
-            </div>
-          </div>
-          <div class="testimonial-item text-center">
-            <img
-              class="border rounded-circle p-2 mx-auto mb-3"
-              src="assets/images/img/testimonial-2.jpg"
-              style="width: 80px; height: 80px"
-            />
-            <h5 class="mb-0">Client Name</h5>
-            <p>Profession</p>
-            <div class="testimonial-text bg-light text-center p-4">
-              <p class="mb-0">
-                Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam
-                amet diam et eos. Clita erat ipsum et lorem et sit.
-              </p>
-            </div>
-          </div>
-          <div class="testimonial-item text-center">
-            <img
-              class="border rounded-circle p-2 mx-auto mb-3"
-              src="assets/images/img/testimonial-3.jpg"
-              style="width: 80px; height: 80px"
-            />
-            <h5 class="mb-0">Client Name</h5>
-            <p>Profession</p>
-            <div class="testimonial-text bg-light text-center p-4">
-              <p class="mb-0">
-                Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam
-                amet diam et eos. Clita erat ipsum et lorem et sit.
-              </p>
-            </div>
-          </div>
-          <div class="testimonial-item text-center">
-            <img
-              class="border rounded-circle p-2 mx-auto mb-3"
-              src="assets/images/img/testimonial-4.jpg"
-              style="width: 80px; height: 80px"
-            />
-            <h5 class="mb-0">Client Name</h5>
-            <p>Profession</p>
-            <div class="testimonial-text bg-light text-center p-4">
-              <p class="mb-0">
-                Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit diam
-                amet diam et eos. Clita erat ipsum et lorem et sit.
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- Testimonial End -->
 
     <Footer />
   </div>
