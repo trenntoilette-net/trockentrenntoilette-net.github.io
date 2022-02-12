@@ -16,7 +16,7 @@
         class="navbar-brand d-flex align-items-center px-4 px-lg-5"
       >
         <h2 class="m-0 text-primary">
-          <i class="fa fa-book me-3"></i>eLEARNING
+          <i class="fa fa-book me-3"></i>Trockentrenntoilette
         </h2>
       </a>
       <button
@@ -30,8 +30,8 @@
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <div class="navbar-nav ms-auto p-4 p-lg-0">
           <a href="index.html" class="nav-item nav-link active">Home</a>
-          <a href="about.html" class="nav-item nav-link">About</a>
-          <a href="courses.html" class="nav-item nav-link">Courses</a>
+          <a href="#anbieter" class="nav-item nav-link">Anbieter</a>
+          <a href="#produkte" class="nav-item nav-link">Produkte</a>
           <div class="nav-item dropdown">
             <a
               href="#"

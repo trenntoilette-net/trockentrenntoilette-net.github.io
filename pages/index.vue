@@ -137,13 +137,13 @@
     <!-- About End -->
 
     <!-- Categories Start -->
-    <div class="container-xxl py-5 category">
+    <div class="container-xxl py-5 category" id="anbieter">
       <div class="container">
         <div class="text-center fadeInUp">
           <h6 class="section-title bg-white text-center text-primary px-3">
-            Categories
+            Anbieter für
           </h6>
-          <h1 class="mb-5">Courses Categories</h1>
+          <h1 class="mb-5">Trockentrenntoiletten</h1>
         </div>
         <div class="row g-3">
           <div class="col-lg-7 col-md-6">
@@ -261,9 +261,9 @@
       <div class="container">
         <div class="text-center fadeInUp">
           <h6 class="section-title bg-white text-center text-primary px-3">
-            Courses
+            Produkte
           </h6>
-          <h1 class="mb-5">Popular Courses</h1>
+          <h1 class="mb-5">Trockentrenntoiletten</h1>
         </div>
         <div class="row g-4 justify-content-center">
           <div class="col-lg-4 col-md-6 fadeInUp">
