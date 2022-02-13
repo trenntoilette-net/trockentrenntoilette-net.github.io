@@ -593,7 +593,7 @@
     <!-- Team End -->
 
     <!-- Courses Start -->
-    <div class="container-xxl py-5" id="testsieger">
+    <div class="container-xxl py-5" id="produkte">
       <div class="container">
         <div class="text-center fadeInUp">
           <h6 class="section-title bg-white text-center text-primary px-3">
@@ -770,7 +770,7 @@
     <!-- Courses End -->
 
     <!-- Courses Start -->
-    <div class="container-xxl py-5" id="testsieger">
+    <div class="container-xxl py-5">
       <div class="container">
         <div class="text-center fadeInUp">
           <h6 class="section-title bg-white text-center text-primary px-3">
@@ -947,7 +947,7 @@
     <!-- Courses End -->
 
     <!-- Courses Start -->
-    <div class="container-xxl py-5" id="testsieger">
+    <div class="container-xxl py-5">
       <div class="container">
         <div class="text-center fadeInUp">
           <h6 class="section-title bg-white text-center text-primary px-3">
