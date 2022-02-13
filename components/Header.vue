@@ -15,8 +15,8 @@
         href="index.html"
         class="navbar-brand d-flex align-items-center px-4 px-lg-5"
       >
-        <h2 class="m-0 text-primary">
-          <i class="fa fa-book me-3"></i>Trockentrenntoilette
+        <h2 class="m-0 text-primary" style="font-size: 18px;">
+          <i class="fa fa-toilet me-3"></i>Trockentrenntoilette.net
         </h2>
       </a>
       <button

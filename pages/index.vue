@@ -14,9 +14,9 @@
             <div class="position-relative h-100">
               <img
                 class="img-fluid position-absolute w-100 h-100"
-                src="assets/images/img/about.jpg"
+                src="assets/images/feature-trockentrenntoilette-trobolo-luweblœm.webp"
                 alt=""
-                style="object-fit: cover"
+                style="object-fit: cover; object-position: center bottom;"
               />
             </div>
           </div>
@@ -26,7 +26,7 @@
             </h6>
             <h1 class="mb-4">Trockentrenntoiletten</h1>
             <p class="mb-4">
-              Wir informieren über Produkte und Anbieter, testen diese und liefern dir die Infos die du benötigst um die richtige Trockentrenntoilette zu finden.
+              Wir sind dein Ratgeber für Trockentrenntoiletten. Wir testen Anbieter, Produkte und liefern dir die Infos die du benötigst, um die passende Trockentrenntoilette zu finden.
             </p>
             <p class="mb-4">
               Unsere Tests beinhalten mehrere Kriterien denen wir gründlich auf den Grund gehen. Dabei kommen folgende Testkritieren zum Einsatz:
@@ -61,11 +61,11 @@
               <div class="col-sm-6">
                 <p class="mb-0">
                   <i class="fa fa-arrow-right text-primary me-2"></i
-                  >Installation
+                  >Entsorgung & Hygiene
                 </p>
               </div>
             </div>
-            <a class="btn btn-primary py-3 px-5 mt-2" href="">UVM</a>
+            <a class="btn btn-primary py-3 px-5 mt-2" href="#testsieger">Zu den Testsiegern</a>
           </div>
         </div>
       </div>
@@ -256,13 +256,13 @@
     <!-- Categories Start -->
 
     <!-- Courses Start -->
-    <div class="container-xxl py-5">
+    <div class="container-xxl py-5" id="testsieger">
       <div class="container">
         <div class="text-center fadeInUp">
           <h6 class="section-title bg-white text-center text-primary px-3">
             Trockentrenntoiletten
           </h6>
-          <h1 class="mb-5">Produkte</h1>
+          <h1 class="mb-5">Testsieger</h1>
         </div>
         <div class="row g-4 justify-content-center">
           <div class="col-lg-4 col-md-6 fadeInUp">
@@ -270,7 +270,7 @@
               <div class="position-relative overflow-hidden">
                 <img
                   class="img-fluid"
-                  src="assets/images/img/course-1.jpg"
+                  src="assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp"
                   alt=""
                 />
                 <div
@@ -288,34 +288,33 @@
                     href="#"
                     class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
                     style="border-radius: 30px 0 0 30px"
-                    >Read More</a
+                    >Mehr erfahren</a
                   >
                   <a
                     href="#"
                     class="flex-shrink-0 btn btn-sm btn-primary px-3"
                     style="border-radius: 0 30px 30px 0"
-                    >Join Now</a
+                    >Bestellen</a
                   >
                 </div>
               </div>
               <div class="text-center p-4 pb-0">
-                <h3 class="mb-0">$149.00</h3>
+                <h3 class="mb-0">429,00 €</h3>
                 <div class="mb-3">
                   <small class="fa fa-star text-primary"></small>
                   <small class="fa fa-star text-primary"></small>
                   <small class="fa fa-star text-primary"></small>
                   <small class="fa fa-star text-primary"></small>
                   <small class="fa fa-star text-primary"></small>
-                  <small>(123)</small>
+                  <small>(429)</small>
                 </div>
                 <h5 class="mb-4">
-                  Web Design & Development Course for Beginners
+                  TROBOLO® TeraBlœm
                 </h5>
               </div>
               <div class="d-flex border-top">
                 <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-user-tie text-primary me-2"></i>John
-                  Doe</small
+                  ><i class="fa fa-user-tie text-primary me-2"></i>TROBOLO</small
                 >
                 <small class="flex-fill text-center border-end py-2"
                   ><i class="fa fa-clock text-primary me-2"></i>1.49 Hrs</small
@@ -332,7 +331,7 @@
               <div class="position-relative overflow-hidden">
                 <img
                   class="img-fluid"
-                  src="assets/images/img/course-2.jpg"
+                  src="assets/images/trockentrenntoiletten/trockentrenntoilette-trelino-trelino.webp"
                   alt=""
                 />
                 <div
@@ -350,34 +349,33 @@
                     href="#"
                     class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
                     style="border-radius: 30px 0 0 30px"
-                    >Read More</a
+                    >Mehr erfahren</a
                   >
                   <a
                     href="#"
                     class="flex-shrink-0 btn btn-sm btn-primary px-3"
                     style="border-radius: 0 30px 30px 0"
-                    >Join Now</a
+                    >Bestellen</a
                   >
                 </div>
               </div>
               <div class="text-center p-4 pb-0">
-                <h3 class="mb-0">$149.00</h3>
+                <h3 class="mb-0">659,91 €</h3>
                 <div class="mb-3">
                   <small class="fa fa-star text-primary"></small>
                   <small class="fa fa-star text-primary"></small>
                   <small class="fa fa-star text-primary"></small>
                   <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small>(123)</small>
+                  <small class="fa fa-star text-default"></small>
+                  <small>(299)</small>
                 </div>
                 <h5 class="mb-4">
-                  Web Design & Development Course for Beginners
+                  Trelino Trelino
                 </h5>
               </div>
               <div class="d-flex border-top">
                 <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-user-tie text-primary me-2"></i>John
-                  Doe</small
+                  ><i class="fa fa-user-tie text-primary me-2"></i>Trelino</small
                 >
                 <small class="flex-fill text-center border-end py-2"
                   ><i class="fa fa-clock text-primary me-2"></i>1.49 Hrs</small
@@ -394,7 +392,7 @@
               <div class="position-relative overflow-hidden">
                 <img
                   class="img-fluid"
-                  src="assets/images/img/course-3.jpg"
+                  src="assets/images/trockentrenntoiletten/trockentrenntoilette-kildwick-miniloo.webp"
                   alt=""
                 />
                 <div
@@ -412,34 +410,33 @@
                     href="#"
                     class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
                     style="border-radius: 30px 0 0 30px"
-                    >Read More</a
+                    >Mehr erfahren</a
                   >
                   <a
                     href="#"
                     class="flex-shrink-0 btn btn-sm btn-primary px-3"
                     style="border-radius: 0 30px 30px 0"
-                    >Join Now</a
+                    >Bestellen</a
                   >
                 </div>
               </div>
               <div class="text-center p-4 pb-0">
-                <h3 class="mb-0">$149.00</h3>
+                <h3 class="mb-0">399,90 €</h3>
                 <div class="mb-3">
                   <small class="fa fa-star text-primary"></small>
                   <small class="fa fa-star text-primary"></small>
                   <small class="fa fa-star text-primary"></small>
                   <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small>(123)</small>
+                  <small class="fa fa-star text-default"></small>
+                  <small>(189)</small>
                 </div>
                 <h5 class="mb-4">
-                  Web Design & Development Course for Beginners
+                  Kildwick MiniLoo
                 </h5>
               </div>
               <div class="d-flex border-top">
                 <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-user-tie text-primary me-2"></i>John
-                  Doe</small
+                  ><i class="fa fa-user-tie text-primary me-2"></i>Kildwick</small
                 >
                 <small class="flex-fill text-center border-end py-2"
                   ><i class="fa fa-clock text-primary me-2"></i>1.49 Hrs</small
@@ -461,9 +458,9 @@
       <div class="container">
         <div class="text-center fadeInUp">
           <h6 class="section-title bg-white text-center text-primary px-3">
-            Instructors
+            Team
           </h6>
-          <h1 class="mb-5">Expert Instructors</h1>
+          <h1 class="mb-5">Unsere Experten</h1>
         </div>
         <div class="row g-4">
           <div class="col-lg-3 col-md-6 fadeInUp">
@@ -492,8 +489,8 @@
                 </div>
               </div>
               <div class="text-center p-4">
-                <h5 class="mb-0">Instructor Name</h5>
-                <small>Designation</small>
+                <h5 class="mb-0">Ringo Hülsmann</h5>
+                <small>Der "Toilettenkönig"</small>
               </div>
             </div>
           </div>
@@ -523,8 +520,8 @@
                 </div>
               </div>
               <div class="text-center p-4">
-                <h5 class="mb-0">Instructor Name</h5>
-                <small>Designation</small>
+                <h5 class="mb-0">Leonie Meyer</h5>
+                <small>Biologin</small>
               </div>
             </div>
           </div>
@@ -554,8 +551,8 @@
                 </div>
               </div>
               <div class="text-center p-4">
-                <h5 class="mb-0">Instructor Name</h5>
-                <small>Designation</small>
+                <h5 class="mb-0">Markus Baum</h5>
+                <small>Ökologe</small>
               </div>
             </div>
           </div>
@@ -585,8 +582,8 @@
                 </div>
               </div>
               <div class="text-center p-4">
-                <h5 class="mb-0">Instructor Name</h5>
-                <small>Designation</small>
+                <h5 class="mb-0">Anh Tanaka</h5>
+                <small>Innenarchitektin</small>
               </div>
             </div>
           </div>
@@ -594,6 +591,537 @@
       </div>
     </div>
     <!-- Team End -->
+
+    <!-- Courses Start -->
+    <div class="container-xxl py-5" id="testsieger">
+      <div class="container">
+        <div class="text-center fadeInUp">
+          <h6 class="section-title bg-white text-center text-primary px-3">
+            Trockentrenntoiletten
+          </h6>
+          <h1 class="mb-5">Innenbereich</h1>
+        </div>
+        <div class="row g-4 justify-content-center">
+          <div class="col-lg-4 col-md-6 fadeInUp">
+            <div class="course-item bg-light">
+              <div class="position-relative overflow-hidden">
+                <img
+                  class="img-fluid"
+                  src="assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp"
+                  alt=""
+                />
+                <div
+                  class="
+                    w-100
+                    d-flex
+                    justify-content-center
+                    position-absolute
+                    bottom-0
+                    start-0
+                    mb-4
+                  "
+                >
+                  <a
+                    href="#"
+                    class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
+                    style="border-radius: 30px 0 0 30px"
+                    >Testbericht</a
+                  >
+                  <a
+                    href="#"
+                    class="flex-shrink-0 btn btn-sm btn-primary px-3"
+                    style="border-radius: 0 30px 30px 0"
+                    >Bestellen</a
+                  >
+                </div>
+              </div>
+              <div class="text-center p-4 pb-0">
+                <h3 class="mb-0">429,00 €</h3>
+                <div class="mb-3">
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small>(429)</small>
+                </div>
+                <h5 class="mb-4">
+                  TROBOLO® TeraBlœm
+                </h5>
+              </div>
+              <div class="d-flex border-top">
+                <small class="flex-fill text-center border-end py-2"
+                  ><i class="fa fa-link text-primary me-2"></i>Testbericht</small
+                >
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 fadeInUp">
+            <div class="course-item bg-light">
+              <div class="position-relative overflow-hidden">
+                <img
+                  class="img-fluid"
+                  src="assets/images/trockentrenntoiletten/trockentrenntoilette-trelino-trelino.webp"
+                  alt=""
+                />
+                <div
+                  class="
+                    w-100
+                    d-flex
+                    justify-content-center
+                    position-absolute
+                    bottom-0
+                    start-0
+                    mb-4
+                  "
+                >
+                  <a
+                    href="#"
+                    class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
+                    style="border-radius: 30px 0 0 30px"
+                    >Testbericht</a
+                  >
+                  <a
+                    href="#"
+                    class="flex-shrink-0 btn btn-sm btn-primary px-3"
+                    style="border-radius: 0 30px 30px 0"
+                    >Bestellen</a
+                  >
+                </div>
+              </div>
+              <div class="text-center p-4 pb-0">
+                <h3 class="mb-0">659,91 €</h3>
+                <div class="mb-3">
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-default"></small>
+                  <small>(299)</small>
+                </div>
+                <h5 class="mb-4">
+                  Trelino Trelino
+                </h5>
+              </div>
+              <div class="d-flex border-top">
+                <small class="flex-fill text-center border-end py-2"
+                  ><i class="fa fa-link text-primary me-2"></i>Testbericht</small
+                >
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 fadeInUp">
+            <div class="course-item bg-light">
+              <div class="position-relative overflow-hidden">
+                <img
+                  class="img-fluid"
+                  src="assets/images/trockentrenntoiletten/trockentrenntoilette-kildwick-miniloo.webp"
+                  alt=""
+                />
+                <div
+                  class="
+                    w-100
+                    d-flex
+                    justify-content-center
+                    position-absolute
+                    bottom-0
+                    start-0
+                    mb-4
+                  "
+                >
+                  <a
+                    href="#"
+                    class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
+                    style="border-radius: 30px 0 0 30px"
+                    >Testbericht</a
+                  >
+                  <a
+                    href="#"
+                    class="flex-shrink-0 btn btn-sm btn-primary px-3"
+                    style="border-radius: 0 30px 30px 0"
+                    >Bestellen</a
+                  >
+                </div>
+              </div>
+              <div class="text-center p-4 pb-0">
+                <h3 class="mb-0">399,90 €</h3>
+                <div class="mb-3">
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-default"></small>
+                  <small>(189)</small>
+                </div>
+                <h5 class="mb-4">
+                  Kildwick MiniLoo
+                </h5>
+              </div>
+              <div class="d-flex border-top">
+                <small class="flex-fill text-center border-end py-2"
+                  ><i class="fa fa-link text-primary me-2"></i>Testbericht</small
+                >
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Courses End -->
+
+    <!-- Courses Start -->
+    <div class="container-xxl py-5" id="testsieger">
+      <div class="container">
+        <div class="text-center fadeInUp">
+          <h6 class="section-title bg-white text-center text-primary px-3">
+            Trockentrenntoiletten
+          </h6>
+          <h1 class="mb-5">Garten Toiletten</h1>
+        </div>
+        <div class="row g-4 justify-content-center">
+          <div class="col-lg-4 col-md-6 fadeInUp">
+            <div class="course-item bg-light">
+              <div class="position-relative overflow-hidden">
+                <img
+                  class="img-fluid"
+                  src="assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp"
+                  alt=""
+                />
+                <div
+                  class="
+                    w-100
+                    d-flex
+                    justify-content-center
+                    position-absolute
+                    bottom-0
+                    start-0
+                    mb-4
+                  "
+                >
+                  <a
+                    href="#"
+                    class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
+                    style="border-radius: 30px 0 0 30px"
+                    >Testbericht</a
+                  >
+                  <a
+                    href="#"
+                    class="flex-shrink-0 btn btn-sm btn-primary px-3"
+                    style="border-radius: 0 30px 30px 0"
+                    >Bestellen</a
+                  >
+                </div>
+              </div>
+              <div class="text-center p-4 pb-0">
+                <h3 class="mb-0">429,00 €</h3>
+                <div class="mb-3">
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small>(429)</small>
+                </div>
+                <h5 class="mb-4">
+                  TROBOLO® TeraBlœm
+                </h5>
+              </div>
+              <div class="d-flex border-top">
+                <small class="flex-fill text-center border-end py-2"
+                  ><i class="fa fa-link text-primary me-2"></i>Testbericht</small
+                >
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 fadeInUp">
+            <div class="course-item bg-light">
+              <div class="position-relative overflow-hidden">
+                <img
+                  class="img-fluid"
+                  src="assets/images/trockentrenntoiletten/trockentrenntoilette-trelino-trelino.webp"
+                  alt=""
+                />
+                <div
+                  class="
+                    w-100
+                    d-flex
+                    justify-content-center
+                    position-absolute
+                    bottom-0
+                    start-0
+                    mb-4
+                  "
+                >
+                  <a
+                    href="#"
+                    class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
+                    style="border-radius: 30px 0 0 30px"
+                    >Testbericht</a
+                  >
+                  <a
+                    href="#"
+                    class="flex-shrink-0 btn btn-sm btn-primary px-3"
+                    style="border-radius: 0 30px 30px 0"
+                    >Bestellen</a
+                  >
+                </div>
+              </div>
+              <div class="text-center p-4 pb-0">
+                <h3 class="mb-0">659,91 €</h3>
+                <div class="mb-3">
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-default"></small>
+                  <small>(299)</small>
+                </div>
+                <h5 class="mb-4">
+                  Trelino Trelino
+                </h5>
+              </div>
+              <div class="d-flex border-top">
+                <small class="flex-fill text-center border-end py-2"
+                  ><i class="fa fa-link text-primary me-2"></i>Testbericht</small
+                >
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 fadeInUp">
+            <div class="course-item bg-light">
+              <div class="position-relative overflow-hidden">
+                <img
+                  class="img-fluid"
+                  src="assets/images/trockentrenntoiletten/trockentrenntoilette-kildwick-miniloo.webp"
+                  alt=""
+                />
+                <div
+                  class="
+                    w-100
+                    d-flex
+                    justify-content-center
+                    position-absolute
+                    bottom-0
+                    start-0
+                    mb-4
+                  "
+                >
+                  <a
+                    href="#"
+                    class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
+                    style="border-radius: 30px 0 0 30px"
+                    >Testbericht</a
+                  >
+                  <a
+                    href="#"
+                    class="flex-shrink-0 btn btn-sm btn-primary px-3"
+                    style="border-radius: 0 30px 30px 0"
+                    >Bestellen</a
+                  >
+                </div>
+              </div>
+              <div class="text-center p-4 pb-0">
+                <h3 class="mb-0">399,90 €</h3>
+                <div class="mb-3">
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-default"></small>
+                  <small>(189)</small>
+                </div>
+                <h5 class="mb-4">
+                  Kildwick MiniLoo
+                </h5>
+              </div>
+              <div class="d-flex border-top">
+                <small class="flex-fill text-center border-end py-2"
+                  ><i class="fa fa-link text-primary me-2"></i>Testbericht</small
+                >
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Courses End -->
+
+    <!-- Courses Start -->
+    <div class="container-xxl py-5" id="testsieger">
+      <div class="container">
+        <div class="text-center fadeInUp">
+          <h6 class="section-title bg-white text-center text-primary px-3">
+            Trockentrenntoiletten
+          </h6>
+          <h1 class="mb-5">Camping Toiletten</h1>
+        </div>
+        <div class="row g-4 justify-content-center">
+          <div class="col-lg-4 col-md-6 fadeInUp">
+            <div class="course-item bg-light">
+              <div class="position-relative overflow-hidden">
+                <img
+                  class="img-fluid"
+                  src="assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp"
+                  alt=""
+                />
+                <div
+                  class="
+                    w-100
+                    d-flex
+                    justify-content-center
+                    position-absolute
+                    bottom-0
+                    start-0
+                    mb-4
+                  "
+                >
+                  <a
+                    href="#"
+                    class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
+                    style="border-radius: 30px 0 0 30px"
+                    >Testbericht</a
+                  >
+                  <a
+                    href="#"
+                    class="flex-shrink-0 btn btn-sm btn-primary px-3"
+                    style="border-radius: 0 30px 30px 0"
+                    >Bestellen</a
+                  >
+                </div>
+              </div>
+              <div class="text-center p-4 pb-0">
+                <h3 class="mb-0">429,00 €</h3>
+                <div class="mb-3">
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small>(429)</small>
+                </div>
+                <h5 class="mb-4">
+                  TROBOLO® TeraBlœm
+                </h5>
+              </div>
+              <div class="d-flex border-top">
+                <small class="flex-fill text-center border-end py-2"
+                  ><i class="fa fa-link text-primary me-2"></i>Testbericht</small
+                >
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 fadeInUp">
+            <div class="course-item bg-light">
+              <div class="position-relative overflow-hidden">
+                <img
+                  class="img-fluid"
+                  src="assets/images/trockentrenntoiletten/trockentrenntoilette-trelino-trelino.webp"
+                  alt=""
+                />
+                <div
+                  class="
+                    w-100
+                    d-flex
+                    justify-content-center
+                    position-absolute
+                    bottom-0
+                    start-0
+                    mb-4
+                  "
+                >
+                  <a
+                    href="#"
+                    class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
+                    style="border-radius: 30px 0 0 30px"
+                    >Testbericht</a
+                  >
+                  <a
+                    href="#"
+                    class="flex-shrink-0 btn btn-sm btn-primary px-3"
+                    style="border-radius: 0 30px 30px 0"
+                    >Bestellen</a
+                  >
+                </div>
+              </div>
+              <div class="text-center p-4 pb-0">
+                <h3 class="mb-0">659,91 €</h3>
+                <div class="mb-3">
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-default"></small>
+                  <small>(299)</small>
+                </div>
+                <h5 class="mb-4">
+                  Trelino Trelino
+                </h5>
+              </div>
+              <div class="d-flex border-top">
+                <small class="flex-fill text-center border-end py-2"
+                  ><i class="fa fa-link text-primary me-2"></i>Testbericht</small
+                >
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 fadeInUp">
+            <div class="course-item bg-light">
+              <div class="position-relative overflow-hidden">
+                <img
+                  class="img-fluid"
+                  src="assets/images/trockentrenntoiletten/trockentrenntoilette-kildwick-miniloo.webp"
+                  alt=""
+                />
+                <div
+                  class="
+                    w-100
+                    d-flex
+                    justify-content-center
+                    position-absolute
+                    bottom-0
+                    start-0
+                    mb-4
+                  "
+                >
+                  <a
+                    href="#"
+                    class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
+                    style="border-radius: 30px 0 0 30px"
+                    >Testbericht</a
+                  >
+                  <a
+                    href="#"
+                    class="flex-shrink-0 btn btn-sm btn-primary px-3"
+                    style="border-radius: 0 30px 30px 0"
+                    >Bestellen</a
+                  >
+                </div>
+              </div>
+              <div class="text-center p-4 pb-0">
+                <h3 class="mb-0">399,90 €</h3>
+                <div class="mb-3">
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-default"></small>
+                  <small>(189)</small>
+                </div>
+                <h5 class="mb-4">
+                  Kildwick MiniLoo
+                </h5>
+              </div>
+              <div class="d-flex border-top">
+                <small class="flex-fill text-center border-end py-2"
+                  ><i class="fa fa-link text-primary me-2"></i>Testbericht</small
+                >
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Courses End -->
 
     <Footer />
   </div>
