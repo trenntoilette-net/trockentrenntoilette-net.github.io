@@ -2,63 +2,6 @@
   <div>
     <Header />
     
-    <!-- Service Start -->
-    <div class="container-xxl py-5">
-      <div class="container">
-        <div class="row g-4">
-          <div class="col-lg-3 col-sm-6 fadeInUp">
-            <div class="service-item text-center pt-3">
-              <div class="p-4">
-                <i class="fa fa-3x fa-graduation-cap text-primary mb-4"></i>
-                <h5 class="mb-3">Skilled Instructors</h5>
-                <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-sm-6 fadeInUp">
-            <div class="service-item text-center pt-3">
-              <div class="p-4">
-                <i class="fa fa-3x fa-globe text-primary mb-4"></i>
-                <h5 class="mb-3">Online Classes</h5>
-                <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-sm-6 fadeInUp">
-            <div class="service-item text-center pt-3">
-              <div class="p-4">
-                <i class="fa fa-3x fa-home text-primary mb-4"></i>
-                <h5 class="mb-3">Home Projects</h5>
-                <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-sm-6 fadeInUp">
-            <div class="service-item text-center pt-3">
-              <div class="p-4">
-                <i class="fa fa-3x fa-book-open text-primary mb-4"></i>
-                <h5 class="mb-3">Book Library</h5>
-                <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- Service End -->
-
     <!-- About Start -->
     <div class="container-xxl py-5">
       <div class="container">
@@ -79,71 +22,127 @@
           </div>
           <div class="col-lg-6 fadeInUp">
             <h6 class="section-title bg-white text-start text-primary pe-3">
-              About Us
+              Das Informationsportal für
             </h6>
-            <h1 class="mb-4">Welcome to eLEARNING</h1>
+            <h1 class="mb-4">Trockentrenntoiletten</h1>
             <p class="mb-4">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-              diam amet diam et eos. Clita erat ipsum et lorem et sit.
+              Wir informieren über Produkte und Anbieter, testen diese und liefern dir die Infos die du benötigst um die richtige Trockentrenntoilette zu finden.
             </p>
             <p class="mb-4">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-              diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet
-              lorem sit clita duo justo magna dolore erat amet
+              Unsere Tests beinhalten mehrere Kriterien denen wir gründlich auf den Grund gehen. Dabei kommen folgende Testkritieren zum Einsatz:
             </p>
             <div class="row gy-2 gx-4 mb-4">
               <div class="col-sm-6">
                 <p class="mb-0">
-                  <i class="fa fa-arrow-right text-primary me-2"></i>Skilled
-                  Instructors
+                  <i class="fa fa-arrow-right text-primary me-2"></i>Funktionalität
                 </p>
               </div>
               <div class="col-sm-6">
                 <p class="mb-0">
-                  <i class="fa fa-arrow-right text-primary me-2"></i>Online
-                  Classes
-                </p>
-              </div>
-              <div class="col-sm-6">
-                <p class="mb-0">
-                  <i class="fa fa-arrow-right text-primary me-2"></i
-                  >International Certificate
-                </p>
-              </div>
-              <div class="col-sm-6">
-                <p class="mb-0">
-                  <i class="fa fa-arrow-right text-primary me-2"></i>Skilled
-                  Instructors
-                </p>
-              </div>
-              <div class="col-sm-6">
-                <p class="mb-0">
-                  <i class="fa fa-arrow-right text-primary me-2"></i>Online
-                  Classes
+                  <i class="fa fa-arrow-right text-primary me-2"></i>Materialien
                 </p>
               </div>
               <div class="col-sm-6">
                 <p class="mb-0">
                   <i class="fa fa-arrow-right text-primary me-2"></i
-                  >International Certificate
+                  >Nachhaltigkeit
+                </p>
+              </div>
+              <div class="col-sm-6">
+                <p class="mb-0">
+                  <i class="fa fa-arrow-right text-primary me-2"></i>Geruchsentwicklung
+                </p>
+              </div>
+              <div class="col-sm-6">
+                <p class="mb-0">
+                  <i class="fa fa-arrow-right text-primary me-2"></i>Komfort
+                </p>
+              </div>
+              <div class="col-sm-6">
+                <p class="mb-0">
+                  <i class="fa fa-arrow-right text-primary me-2"></i
+                  >Installation
                 </p>
               </div>
             </div>
-            <a class="btn btn-primary py-3 px-5 mt-2" href="">Read More</a>
+            <a class="btn btn-primary py-3 px-5 mt-2" href="">UVM</a>
           </div>
         </div>
       </div>
     </div>
     <!-- About End -->
 
+    <!-- Service Start -->
+    <div class="container-xxl py-5">
+      <div class="container">
+        <div class="text-center fadeInUp">
+          <h6 class="section-title bg-white text-center text-primary px-3">
+            Gründe
+          </h6>
+          <h1 class="mb-5">Vorteile von Trockentrenntoiletten</h1>
+        </div>
+        <div class="row g-4">
+          <div class="col-lg-3 col-sm-6 fadeInUp">
+            <div class="service-item text-center pt-3">
+              <div class="p-4">
+                <i class="fa fa-3x fa-graduation-cap text-primary mb-4"></i>
+                <h5 class="mb-3">Wasserfrei</h5>
+                <p>
+                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
+                  amet diam
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-sm-6 fadeInUp">
+            <div class="service-item text-center pt-3">
+              <div class="p-4">
+                <i class="fa fa-3x fa-globe text-primary mb-4"></i>
+                <h5 class="mb-3">Autark</h5>
+                <p>
+                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
+                  amet diam
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-sm-6 fadeInUp">
+            <div class="service-item text-center pt-3">
+              <div class="p-4">
+                <i class="fa fa-3x fa-home text-primary mb-4"></i>
+                <h5 class="mb-3">Keine Chemie</h5>
+                <p>
+                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
+                  amet diam
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-sm-6 fadeInUp">
+            <div class="service-item text-center pt-3">
+              <div class="p-4">
+                <i class="fa fa-3x fa-book-open text-primary mb-4"></i>
+                <h5 class="mb-3">Umweltfreundlich</h5>
+                <p>
+                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
+                  amet diam
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Service End -->
+
     <!-- Categories Start -->
     <div class="container-xxl py-5 category" id="anbieter">
       <div class="container">
         <div class="text-center fadeInUp">
           <h6 class="section-title bg-white text-center text-primary px-3">
-            Anbieter für
+            Trockentrenntoiletten
           </h6>
-          <h1 class="mb-5">Trockentrenntoiletten</h1>
+          <h1 class="mb-5">Anbieter</h1>
         </div>
         <div class="row g-3">
           <div class="col-lg-7 col-md-6">
@@ -261,9 +260,9 @@
       <div class="container">
         <div class="text-center fadeInUp">
           <h6 class="section-title bg-white text-center text-primary px-3">
-            Produkte
+            Trockentrenntoiletten
           </h6>
-          <h1 class="mb-5">Trockentrenntoiletten</h1>
+          <h1 class="mb-5">Produkte</h1>
         </div>
         <div class="row g-4 justify-content-center">
           <div class="col-lg-4 col-md-6 fadeInUp">
