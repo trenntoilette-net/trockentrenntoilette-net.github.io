@@ -1,7 +1,5 @@
 <template>
-  <div>
-    <Header />
-    
+  <div>  
     <!-- About Start -->
     <div class="container-xxl py-5">
       <div class="container">
@@ -1124,8 +1122,6 @@
       </div>
     </div>
     <!-- Courses End -->
-
-    <Footer />
   </div>
 </template>
 
@@ -1133,9 +1129,9 @@
 export default {
   name: "IndexPage",
   head: {
-    title: 'Trockentrenntoiletten - Produkte & Testsieger',
+    title: 'Trockentrenntoilette - Produkte & Testsieger',
     meta: [
-      { hid: 'description', name: 'description', content: 'Testberichte und Empfehlungen für Trockentrenntoiletten. Anbieter und Produktvergleich. Vor dem Kauf informieren. Das Vergleichsportal.' }
+      { hid: 'description', name: 'description', content: 'Testberichte und Empfehlungen für die richtige Trockentrenntoilette. Anbieter und Produktvergleich. Vor dem Kauf informieren. Das Vergleichsportal.' }
     ]
   }
 };

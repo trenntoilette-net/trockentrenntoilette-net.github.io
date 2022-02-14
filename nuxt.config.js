@@ -17,7 +17,7 @@ export default {
     link: [
       { rel: 'preconnect', href: 'https://fonts.googleapis.com' },
       { rel: 'preconnect', href: 'https://fonts.gstatic.com' },
-      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600&family=Nunito:wght@600;700;800&display=swap' },
+      // { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600&family=Nunito:wght@600;700;800&display=swap' },
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css' },
       { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css' }
@@ -28,6 +28,10 @@ export default {
       { type: 'text/javascript', src: 'assets/js/main.js', body: true} 
 
     ]
+  },
+
+  generate: {
+    dir: 'docs'
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
@@ -48,6 +52,7 @@ export default {
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
     'nuxt-purgecss',
+    '@nuxtjs/google-fonts'
   ],
 
   purgeCSS: {
@@ -60,7 +65,34 @@ export default {
     '@nuxtjs/robots'
   ],
 
+  // Sitemap
+  sitemap: {
+    hostname: 'https://www.trockentrenntoilette.net',
+    gzip: true
+  },
+
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+  },
+
+  googleFonts: {
+    display: 'swap',
+    base64: true,
+    download: true,
+    families: {
+      Heebo: {
+        wght: [400, 500, 600]
+      },
+      Nunito: {
+        wght: [600, 700, 800]
+      },
+      Roboto: true,
+      'Josefin+Sans': true,
+      Lato: [100, 300],
+      Raleway: {
+        wght: [100, 400],
+        ital: [100]
+      },
+    }
   }
 }
