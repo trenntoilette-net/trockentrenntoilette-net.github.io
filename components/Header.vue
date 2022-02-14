@@ -47,7 +47,7 @@
           </div>
           <a href="contact.html" class="nav-item nav-link">Kontakt</a>
         </div>
-        <a href="" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block"
+        <a href="#testsieger" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block"
           >Testsieger<i class="fa fa-arrow-right ms-3"></i
         ></a>
       </div>

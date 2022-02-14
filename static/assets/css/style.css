@@ -285,3 +285,38 @@
     padding-right: 0;
     border-right: none;
 }
+
+/* grey out on mouseover */
+
+.grayscale {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #021218;
+  }
+  
+  .grayscaleContainer:hover .overlay {
+    opacity: 0.8;
+  }
+  
+  .overlayText {
+    color: white;
+    font-size: 3.5vw;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
