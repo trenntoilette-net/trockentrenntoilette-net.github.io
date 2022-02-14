@@ -285,67 +285,6 @@
               <div class="position-relative overflow-hidden">
                 <img
                   class="img-fluid"
-                  src="assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp"
-                  alt="TROBOLO TeraBlœm"
-                />
-                <div
-                  class="
-                    w-100
-                    d-flex
-                    justify-content-center
-                    position-absolute
-                    bottom-0
-                    start-0
-                    mb-4
-                  "
-                >
-                  <a
-                    href="#"
-                    class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
-                    style="border-radius: 30px 0 0 30px"
-                    >Mehr erfahren</a
-                  >
-                  <a
-                    href="#"
-                    class="flex-shrink-0 btn btn-sm btn-primary px-3"
-                    style="border-radius: 0 30px 30px 0"
-                    >Bestellen</a
-                  >
-                </div>
-              </div>
-              <div class="text-center p-4 pb-0">
-                <h3 class="mb-0">429,00 €</h3>
-                <div class="mb-3">
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small>(429)</small>
-                </div>
-                <h5 class="mb-4">
-                  TROBOLO® TeraBlœm
-                </h5>
-              </div>
-              <div class="d-flex border-top">
-                <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-user-tie text-primary me-2"></i>TROBOLO</small
-                >
-                <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-clock text-primary me-2"></i>1.49 Hrs</small
-                >
-                <small class="flex-fill text-center py-2"
-                  ><i class="fa fa-user text-primary me-2"></i>30
-                  Students</small
-                >
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 fadeInUp">
-            <div class="course-item bg-light">
-              <div class="position-relative overflow-hidden">
-                <img
-                  class="img-fluid"
                   src="assets/images/trockentrenntoiletten/trockentrenntoilette-trelino-trelino.webp"
                   alt="Trelino Trelino"
                 />
@@ -390,14 +329,67 @@
               </div>
               <div class="d-flex border-top">
                 <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-user-tie text-primary me-2"></i>Trelino</small
+                  ><i class="fa fa-toilet text-primary me-2"></i>Trelino</small
                 >
                 <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-clock text-primary me-2"></i>1.49 Hrs</small
+                  ><i class="fa fa-check text-primary me-2"></i>Platz 2</small
                 >
-                <small class="flex-fill text-center py-2"
-                  ><i class="fa fa-user text-primary me-2"></i>30
-                  Students</small
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 fadeInUp">
+            <div class="course-item bg-light">
+              <div class="position-relative overflow-hidden">
+                <img
+                  class="img-fluid"
+                  src="assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp"
+                  alt="TROBOLO TeraBlœm"
+                />
+                <div
+                  class="
+                    w-100
+                    d-flex
+                    justify-content-center
+                    position-absolute
+                    bottom-0
+                    start-0
+                    mb-4
+                  "
+                >
+                  <a
+                    href="#"
+                    class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
+                    style="border-radius: 30px 0 0 30px"
+                    >Mehr erfahren</a
+                  >
+                  <a
+                    href="#"
+                    class="flex-shrink-0 btn btn-sm btn-primary px-3"
+                    style="border-radius: 0 30px 30px 0"
+                    >Bestellen</a
+                  >
+                </div>
+              </div>
+              <div class="text-center p-4 pb-0">
+                <h3 class="mb-0">429,00 €</h3>
+                <div class="mb-3">
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small>(429)</small>
+                </div>
+                <h5 class="mb-4">
+                  TROBOLO® TeraBlœm
+                </h5>
+              </div>
+              <div class="d-flex border-top">
+                <small class="flex-fill text-center border-end py-2"
+                  ><i class="fa fa-toilet text-primary me-2"></i>TROBOLO</small
+                >
+                <small class="flex-fill text-center border-end py-2"
+                  ><i class="fa fa-check text-primary me-2"></i>Platz 1</small
                 >
               </div>
             </div>
@@ -451,14 +443,10 @@
               </div>
               <div class="d-flex border-top">
                 <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-user-tie text-primary me-2"></i>Kildwick</small
+                  ><i class="fa fa-toilet text-primary me-2"></i>Kildwick</small
                 >
                 <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-clock text-primary me-2"></i>1.49 Hrs</small
-                >
-                <small class="flex-fill text-center py-2"
-                  ><i class="fa fa-user text-primary me-2"></i>30
-                  Students</small
+                  ><i class="fa fa-check text-primary me-2"></i>Platz 3</small
                 >
               </div>
             </div>
@@ -491,13 +479,13 @@
                 style="margin-top: -23px"
               >
                 <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                  <a class="btn btn-sm-square btn-primary mx-1" href=""
+                  <a class="btn btn-sm-square btn-primary mx-1"
                     ><i class="fab fa-facebook-f"></i
                   ></a>
-                  <a class="btn btn-sm-square btn-primary mx-1" href=""
+                  <a class="btn btn-sm-square btn-primary mx-1"
                     ><i class="fab fa-twitter"></i
                   ></a>
-                  <a class="btn btn-sm-square btn-primary mx-1" href=""
+                  <a class="btn btn-sm-square btn-primary mx-1"
                     ><i class="fab fa-instagram"></i
                   ></a>
                 </div>
@@ -522,13 +510,13 @@
                 style="margin-top: -23px"
               >
                 <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                  <a class="btn btn-sm-square btn-primary mx-1" href=""
+                  <a class="btn btn-sm-square btn-primary mx-1"
                     ><i class="fab fa-facebook-f"></i
                   ></a>
-                  <a class="btn btn-sm-square btn-primary mx-1" href=""
+                  <a class="btn btn-sm-square btn-primary mx-1"
                     ><i class="fab fa-twitter"></i
                   ></a>
-                  <a class="btn btn-sm-square btn-primary mx-1" href=""
+                  <a class="btn btn-sm-square btn-primary mx-1"
                     ><i class="fab fa-instagram"></i
                   ></a>
                 </div>
@@ -553,13 +541,13 @@
                 style="margin-top: -23px"
               >
                 <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                  <a class="btn btn-sm-square btn-primary mx-1" href=""
+                  <a class="btn btn-sm-square btn-primary mx-1"
                     ><i class="fab fa-facebook-f"></i
                   ></a>
-                  <a class="btn btn-sm-square btn-primary mx-1" href=""
+                  <a class="btn btn-sm-square btn-primary mx-1"
                     ><i class="fab fa-twitter"></i
                   ></a>
-                  <a class="btn btn-sm-square btn-primary mx-1" href=""
+                  <a class="btn btn-sm-square btn-primary mx-1"
                     ><i class="fab fa-instagram"></i
                   ></a>
                 </div>
@@ -584,13 +572,13 @@
                 style="margin-top: -23px"
               >
                 <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                  <a class="btn btn-sm-square btn-primary mx-1" href=""
+                  <a class="btn btn-sm-square btn-primary mx-1"
                     ><i class="fab fa-facebook-f"></i
                   ></a>
-                  <a class="btn btn-sm-square btn-primary mx-1" href=""
+                  <a class="btn btn-sm-square btn-primary mx-1"
                     ><i class="fab fa-twitter"></i
                   ></a>
-                  <a class="btn btn-sm-square btn-primary mx-1" href=""
+                  <a class="btn btn-sm-square btn-primary mx-1"
                     ><i class="fab fa-instagram"></i
                   ></a>
                 </div>
