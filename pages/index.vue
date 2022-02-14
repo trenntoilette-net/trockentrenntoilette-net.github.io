@@ -1148,5 +1148,11 @@
 <script>
 export default {
   name: "IndexPage",
+  head: {
+    title: 'Trockentrenntoiletten - Produkte & Testsieger',
+    meta: [
+      { hid: 'description', name: 'description', content: 'Testberichte und Empfehlungen für Trockentrenntoiletten. Anbieter und Produktvergleich. Vor dem Kauf informieren. Das Vergleichsportal.' }
+    ]
+  }
 };
 </script>

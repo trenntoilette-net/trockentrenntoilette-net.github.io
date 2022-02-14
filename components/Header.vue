@@ -12,7 +12,7 @@
       "
     >
       <a
-        href="index.html"
+        href="/"
         class="navbar-brand d-flex align-items-center px-4 px-lg-5"
       >
         <h2 class="m-0 text-primary" style="font-size: 18px;">
@@ -29,7 +29,7 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <div class="navbar-nav ms-auto p-4 p-lg-0">
-          <a href="index.html" class="nav-item nav-link active">Home</a>
+          <a href="/" class="nav-item nav-link active">Home</a>
           <a href="#produkte" class="nav-item nav-link">Produkte</a>
           <a href="#anbieter" class="nav-item nav-link">Anbieter</a>
           <div class="nav-item dropdown">
