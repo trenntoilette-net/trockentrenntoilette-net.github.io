@@ -13,6 +13,7 @@
     >
       <a
         href="/"
+        title="Trockentrenntoilette"
         class="navbar-brand d-flex align-items-center px-4 px-lg-5"
       >
         <h2 class="m-0 text-primary" style="font-size: 18px;">
@@ -45,7 +46,7 @@
               <a href="#campingtoiletten" class="dropdown-item">Camping Toiletten</a>
             </div>
           </div>
-          <a href="contact.html" class="nav-item nav-link">Kontakt</a>
+          <a href="#kontakt" class="nav-item nav-link">Kontakt</a>
         </div>
         <a href="#testsieger" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block"
           >Testsieger<i class="fa fa-arrow-right ms-3"></i
