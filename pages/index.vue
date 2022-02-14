@@ -85,11 +85,10 @@
           <div class="col-lg-3 col-sm-6 fadeInUp">
             <div class="service-item text-center pt-3">
               <div class="p-4">
-                <i class="fa fa-3x fa-graduation-cap text-primary mb-4"></i>
+                <i class="fa fa-3x fa-water text-primary mb-4"></i>
                 <h5 class="mb-3">Wasserfrei</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                  Eine Trockentrenntoilette kommt komplett ohne Wasser aus
                 </p>
               </div>
             </div>
@@ -97,11 +96,10 @@
           <div class="col-lg-3 col-sm-6 fadeInUp">
             <div class="service-item text-center pt-3">
               <div class="p-4">
-                <i class="fa fa-3x fa-globe text-primary mb-4"></i>
+                <i class="fa fa-3x fa-sun text-primary mb-4"></i>
                 <h5 class="mb-3">Autark</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                  Sie benötigen keine zusätzlichen Sanitären Anschlüsse
                 </p>
               </div>
             </div>
@@ -109,11 +107,10 @@
           <div class="col-lg-3 col-sm-6 fadeInUp">
             <div class="service-item text-center pt-3">
               <div class="p-4">
-                <i class="fa fa-3x fa-home text-primary mb-4"></i>
+                <i class="fa fa-3x fa-ban text-primary mb-4"></i>
                 <h5 class="mb-3">Keine Chemie</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                  Dank Trenneinsatz ist keine Chemie notwendig
                 </p>
               </div>
             </div>
@@ -121,11 +118,10 @@
           <div class="col-lg-3 col-sm-6 fadeInUp">
             <div class="service-item text-center pt-3">
               <div class="p-4">
-                <i class="fa fa-3x fa-book-open text-primary mb-4"></i>
-                <h5 class="mb-3">Umweltfreundlich</h5>
+                <i class="fa fa-3x fa-recycle text-primary mb-4"></i>
+                <h5 class="mb-3">Nachhaltig</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                  Benutzen Sie die Ausscheidungen als nährstoffreichen Kompost
                 </p>
               </div>
             </div>
@@ -708,13 +704,13 @@
                 </div>
               </div>
               <div class="text-center p-4 pb-0">
-                <h3 class="mb-0">659,91 €</h3>
+                <h3 class="mb-0">649,00 €</h3>
                 <div class="mb-3">
                   <small class="fa fa-star text-primary"></small>
                   <small class="fa fa-star text-primary"></small>
                   <small class="fa fa-star text-primary"></small>
                   <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-default"></small>
+                  <small class="fa fa-star text-primary"></small>
                   <small>(299)</small>
                 </div>
                 <h5 class="mb-4">
@@ -802,7 +798,7 @@
               <div class="position-relative overflow-hidden">
                 <img
                   class="img-fluid"
-                  src="assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp"
+                  src="assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-kitaboem.webp"
                   alt=""
                 />
                 <div
@@ -831,17 +827,17 @@
                 </div>
               </div>
               <div class="text-center p-4 pb-0">
-                <h3 class="mb-0">429,00 €</h3>
+                <h3 class="mb-0">2.389,00 €</h3>
                 <div class="mb-3">
                   <small class="fa fa-star text-primary"></small>
                   <small class="fa fa-star text-primary"></small>
                   <small class="fa fa-star text-primary"></small>
                   <small class="fa fa-star text-primary"></small>
                   <small class="fa fa-star text-primary"></small>
-                  <small>(429)</small>
+                  <small>(145)</small>
                 </div>
                 <h5 class="mb-4">
-                  TROBOLO® TeraBlœm
+                  TROBOLO® KitaBœm
                 </h5>
               </div>
               <div class="d-flex border-top">
@@ -892,7 +888,7 @@
                   <small class="fa fa-star text-primary"></small>
                   <small class="fa fa-star text-primary"></small>
                   <small class="fa fa-star text-default"></small>
-                  <small>(299)</small>
+                  <small>(199)</small>
                 </div>
                 <h5 class="mb-4">
                   MeineTrenntoilette Trelino L
@@ -945,8 +941,8 @@
                   <small class="fa fa-star text-primary"></small>
                   <small class="fa fa-star text-primary"></small>
                   <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-default"></small>
-                  <small>(189)</small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small>(132)</small>
                 </div>
                 <h5 class="mb-4">
                   TROBOLO KersaBœm
@@ -1014,8 +1010,8 @@
                   <small class="fa fa-star text-primary"></small>
                   <small class="fa fa-star text-primary"></small>
                   <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small>(429)</small>
+                  <small class="fa fa-star text-default"></small>
+                  <small>(342)</small>
                 </div>
                 <h5 class="mb-4">
                   Kildwick MiniLoo Dry
@@ -1068,8 +1064,8 @@
                   <small class="fa fa-star text-primary"></small>
                   <small class="fa fa-star text-primary"></small>
                   <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-default"></small>
-                  <small>(299)</small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small>(334)</small>
                 </div>
                 <h5 class="mb-4">
                   TROBOLO IndiBlœm
