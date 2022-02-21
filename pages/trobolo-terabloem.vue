@@ -92,7 +92,7 @@
               Zu erwähnen sei, das die TeraBlœm Trockentrenntoilette von
               TROBOLO, als vorgefertigter Bausatz geliefert wird. Es muss also
               selbst handangelegt werden, ein großes handwerkliches Können oder
-              Wissen war dafür aber zugegebener maßen nicht notwendig. Im
+              Wissen war dafür aber zugegebenermaßen nicht notwendig. Im
               Gegenteil, die Zusammensetzung erwies sich als sehr einfach.
               Zumindest haben wir so aber das Gefühl, wir hätten unseren
               Trockentrenntoilette selbst gebaut.
