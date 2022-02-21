@@ -1,20 +1,16 @@
 <template>
-  <div>  
+  <div>
     <!-- About Start -->
     <div class="container-xxl py-5">
       <div class="container">
         <div class="row g-5">
-          <div
-            class="col-lg-6 fadeInUp"
-           
-            style="min-height: 400px"
-          >
+          <div class="col-lg-6 fadeInUp" style="min-height: 400px">
             <div class="position-relative h-100">
               <img
                 class="img-fluid position-absolute w-100 h-100"
                 src="assets/images/feature-trockentrenntoilette-trobolo-luweblœm.webp"
                 alt="TROBOLO LuweBlœm"
-                style="object-fit: cover; object-position: center bottom;"
+                style="object-fit: cover; object-position: center bottom"
               />
             </div>
           </div>
@@ -24,15 +20,19 @@
             </h6>
             <h1 class="mb-4">Trockentrenntoiletten</h1>
             <p class="mb-4">
-              Wir sind dein Ratgeber für Trockentrenntoiletten. Wir testen Anbieter, Produkte und liefern dir die Infos die du benötigst, um die passende Trockentrenntoilette zu finden.
+              Wir sind dein Ratgeber für Trockentrenntoiletten. Wir testen
+              Anbieter, Produkte und liefern dir die Infos die du benötigst, um
+              die passende Trockentrenntoilette zu finden.
             </p>
             <p class="mb-4">
-              Unsere Tests beinhalten mehrere Kriterien denen wir gründlich auf den Grund gehen. Dabei kommen folgende Testkritieren zum Einsatz:
+              Unsere Tests beinhalten mehrere Kriterien denen wir gründlich auf
+              den Grund gehen. Dabei kommen folgende Testkritieren zum Einsatz:
             </p>
             <div class="row gy-2 gx-4 mb-4">
               <div class="col-sm-6">
                 <p class="mb-0">
-                  <i class="fa fa-arrow-right text-primary me-2"></i>Funktionalität
+                  <i class="fa fa-arrow-right text-primary me-2"></i
+                  >Funktionalität
                 </p>
               </div>
               <div class="col-sm-6">
@@ -48,7 +48,8 @@
               </div>
               <div class="col-sm-6">
                 <p class="mb-0">
-                  <i class="fa fa-arrow-right text-primary me-2"></i>Geruchsentwicklung
+                  <i class="fa fa-arrow-right text-primary me-2"></i
+                  >Geruchsentwicklung
                 </p>
               </div>
               <div class="col-sm-6">
@@ -58,12 +59,14 @@
               </div>
               <div class="col-sm-6">
                 <p class="mb-0">
-                  <i class="fa fa-arrow-right text-primary me-2"></i
-                  >Entsorgung & Hygiene
+                  <i class="fa fa-arrow-right text-primary me-2"></i>Entsorgung
+                  & Hygiene
                 </p>
               </div>
             </div>
-            <a class="btn btn-primary py-3 px-5 mt-2" href="#testsieger">Zu den Testsiegern</a>
+            <a class="btn btn-primary py-3 px-5 mt-2" href="#testsieger"
+              >Zu den Testsiegern</a
+            >
           </div>
         </div>
       </div>
@@ -85,9 +88,7 @@
               <div class="p-4">
                 <i class="fa fa-3x fa-water text-primary mb-4"></i>
                 <h5 class="mb-3">Wasserfrei</h5>
-                <p>
-                  Eine Trockentrenntoilette kommt komplett ohne Wasser aus
-                </p>
+                <p>Eine Trockentrenntoilette kommt komplett ohne Wasser aus</p>
               </div>
             </div>
           </div>
@@ -96,9 +97,7 @@
               <div class="p-4">
                 <i class="fa fa-3x fa-sun text-primary mb-4"></i>
                 <h5 class="mb-3">Autark</h5>
-                <p>
-                  Sie benötigen keine zusätzlichen Sanitären Anschlüsse
-                </p>
+                <p>Sie benötigen keine zusätzlichen Sanitären Anschlüsse</p>
               </div>
             </div>
           </div>
@@ -107,9 +106,7 @@
               <div class="p-4">
                 <i class="fa fa-3x fa-ban text-primary mb-4"></i>
                 <h5 class="mb-3">Keine Chemie</h5>
-                <p>
-                  Dank Trenneinsatz ist keine Chemie notwendig
-                </p>
+                <p>Dank Trenneinsatz ist keine Chemie notwendig</p>
               </div>
             </div>
           </div>
@@ -144,14 +141,14 @@
               <div class="col-lg-12 col-md-12 zoomIn">
                 <a class="position-relative d-block overflow-hidden" href="">
                   <div class="grayscaleContainer">
-                  <img
-                    class="img-fluid grayscale"
-                    src="assets/images/anbieter/trobolo.webp"
-                    alt="TROBOLO"
-                  />
-                  <div class="overlay">
-                    <div class="overlayText">TROBOLO</div>
-                  </div>
+                    <img
+                      class="img-fluid grayscale"
+                      src="assets/images/anbieter/trobolo.webp"
+                      alt="TROBOLO"
+                    />
+                    <div class="overlay">
+                      <div class="overlayText">TROBOLO</div>
+                    </div>
                   </div>
                   <div
                     class="
@@ -173,14 +170,14 @@
               <div class="col-lg-6 col-md-12 zoomIn">
                 <a class="position-relative d-block overflow-hidden" href="">
                   <div class="grayscaleContainer">
-                  <img
-                    class="img-fluid grayscale"
-                    src="assets/images/anbieter/trelino.webp"
-                    alt="Trelino"
-                  />
-                  <div class="overlay">
-                    <div class="overlayText">Trelino</div>
-                  </div>
+                    <img
+                      class="img-fluid grayscale"
+                      src="assets/images/anbieter/trelino.webp"
+                      alt="Trelino"
+                    />
+                    <div class="overlay">
+                      <div class="overlayText">Trelino</div>
+                    </div>
                   </div>
                   <div
                     class="
@@ -202,14 +199,14 @@
               <div class="col-lg-6 col-md-12 zoomIn">
                 <a class="position-relative d-block overflow-hidden" href="">
                   <div class="grayscaleContainer">
-                  <img
-                    class="img-fluid grayscale"
-                    src="assets/images/anbieter/kildwick.webp"
-                    alt="Kildwick"
-                  />
-                  <div class="overlay">
-                    <div class="overlayText">Kildwick</div>
-                  </div>
+                    <img
+                      class="img-fluid grayscale"
+                      src="assets/images/anbieter/kildwick.webp"
+                      alt="Kildwick"
+                    />
+                    <div class="overlay">
+                      <div class="overlayText">Kildwick</div>
+                    </div>
                   </div>
                   <div
                     class="
@@ -230,22 +227,18 @@
               </div>
             </div>
           </div>
-          <div
-            class="col-lg-5 col-md-6 zoomIn"
-           
-            style="min-height: 350px"
-          >
+          <div class="col-lg-5 col-md-6 zoomIn" style="min-height: 350px">
             <a class="position-relative d-block h-100 overflow-hidden" href="">
               <div class="grayscaleContainer">
-                  <img
-                    class="img-fluid grayscale"
-                    src="assets/images/anbieter/meinetrenntoilette.webp"
-                    alt="MeineTrenntoilette"
-                  />
-                  <div class="overlay">
-                    <div class="overlayText">Meine Trenntoilette</div>
-                  </div>
-                  </div>
+                <img
+                  class="img-fluid grayscale"
+                  src="assets/images/anbieter/meinetrenntoilette.webp"
+                  alt="MeineTrenntoilette"
+                />
+                <div class="overlay">
+                  <div class="overlayText">Meine Trenntoilette</div>
+                </div>
+              </div>
               <div
                 class="
                   bg-white
@@ -301,7 +294,7 @@
                     href="#"
                     class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
                     style="border-radius: 30px 0 0 30px"
-                    >Mehr erfahren</a
+                    >Testbericht</a
                   >
                   <a
                     href="#"
@@ -321,9 +314,7 @@
                   <small class="fa fa-star text-default"></small>
                   <small>(299)</small>
                 </div>
-                <h5 class="mb-4">
-                  Trelino Trelino
-                </h5>
+                <h5 class="mb-4">Trelino Trelino</h5>
               </div>
               <div class="d-flex border-top">
                 <small class="flex-fill text-center border-end py-2"
@@ -338,11 +329,13 @@
           <div class="col-lg-4 col-md-6 fadeInUp">
             <div class="course-item bg-light">
               <div class="position-relative overflow-hidden">
-                <img
-                  class="img-fluid"
-                  src="assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp"
-                  alt="TROBOLO TeraBlœm"
-                />
+                <NuxtLink to="/trobolo-terabloem">
+                  <img
+                    class="img-fluid"
+                    src="assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp"
+                    alt="TROBOLO TeraBlœm"
+                  />
+                </NuxtLink>
                 <div
                   class="
                     w-100
@@ -354,16 +347,19 @@
                     mb-4
                   "
                 >
-                  <a
-                    href="#"
+                  <NuxtLink
+                    to="/trobolo-terabloem"
                     class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
                     style="border-radius: 30px 0 0 30px"
-                    >Mehr erfahren</a
+                    title="TROBOLO TeraBlœm Test"
+                    >Testbericht</NuxtLink
                   >
                   <a
-                    href="#"
+                    href="https://trobolo.com/de/produkte/terabloem/"
                     class="flex-shrink-0 btn btn-sm btn-primary px-3"
                     style="border-radius: 0 30px 30px 0"
+                    target="_blank"
+                    rel=" nofollow noopener"
                     >Bestellen</a
                   >
                 </div>
@@ -378,9 +374,7 @@
                   <small class="fa fa-star text-primary"></small>
                   <small>(429)</small>
                 </div>
-                <h5 class="mb-4">
-                  TROBOLO® TeraBlœm
-                </h5>
+                <h5 class="mb-4">TROBOLO® TeraBlœm</h5>
               </div>
               <div class="d-flex border-top">
                 <small class="flex-fill text-center border-end py-2"
@@ -415,7 +409,7 @@
                     href="#"
                     class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
                     style="border-radius: 30px 0 0 30px"
-                    >Mehr erfahren</a
+                    >Testbericht</a
                   >
                   <a
                     href="#"
@@ -435,9 +429,7 @@
                   <small class="fa fa-star text-default"></small>
                   <small>(189)</small>
                 </div>
-                <h5 class="mb-4">
-                  Kildwick MiniLoo
-                </h5>
+                <h5 class="mb-4">Kildwick MiniLoo</h5>
               </div>
               <div class="d-flex border-top">
                 <small class="flex-fill text-center border-end py-2"
@@ -645,13 +637,12 @@
                   <small class="fa fa-star text-primary"></small>
                   <small>(429)</small>
                 </div>
-                <h5 class="mb-4">
-                  TROBOLO® TeraBlœm
-                </h5>
+                <h5 class="mb-4">TROBOLO® TeraBlœm</h5>
               </div>
               <div class="d-flex border-top">
                 <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-link text-primary me-2"></i>Testbericht</small
+                  ><i class="fa fa-link text-primary me-2"></i
+                  >Testbericht</small
                 >
               </div>
             </div>
@@ -699,13 +690,12 @@
                   <small class="fa fa-star text-primary"></small>
                   <small>(299)</small>
                 </div>
-                <h5 class="mb-4">
-                  TROBOLO LuweBlœm
-                </h5>
+                <h5 class="mb-4">TROBOLO LuweBlœm</h5>
               </div>
               <div class="d-flex border-top">
                 <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-link text-primary me-2"></i>Testbericht</small
+                  ><i class="fa fa-link text-primary me-2"></i
+                  >Testbericht</small
                 >
               </div>
             </div>
@@ -753,13 +743,12 @@
                   <small class="fa fa-star text-default"></small>
                   <small>(189)</small>
                 </div>
-                <h5 class="mb-4">
-                  MeineTrenntoilette Separett Tiny
-                </h5>
+                <h5 class="mb-4">MeineTrenntoilette Separett Tiny</h5>
               </div>
               <div class="d-flex border-top">
                 <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-link text-primary me-2"></i>Testbericht</small
+                  ><i class="fa fa-link text-primary me-2"></i
+                  >Testbericht</small
                 >
               </div>
             </div>
@@ -822,13 +811,12 @@
                   <small class="fa fa-star text-primary"></small>
                   <small>(145)</small>
                 </div>
-                <h5 class="mb-4">
-                  TROBOLO® KitaBœm
-                </h5>
+                <h5 class="mb-4">TROBOLO® KitaBœm</h5>
               </div>
               <div class="d-flex border-top">
                 <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-link text-primary me-2"></i>Testbericht</small
+                  ><i class="fa fa-link text-primary me-2"></i
+                  >Testbericht</small
                 >
               </div>
             </div>
@@ -876,13 +864,12 @@
                   <small class="fa fa-star text-default"></small>
                   <small>(199)</small>
                 </div>
-                <h5 class="mb-4">
-                  MeineTrenntoilette Trelino L
-                </h5>
+                <h5 class="mb-4">MeineTrenntoilette Trelino L</h5>
               </div>
               <div class="d-flex border-top">
                 <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-link text-primary me-2"></i>Testbericht</small
+                  ><i class="fa fa-link text-primary me-2"></i
+                  >Testbericht</small
                 >
               </div>
             </div>
@@ -930,13 +917,12 @@
                   <small class="fa fa-star text-primary"></small>
                   <small>(132)</small>
                 </div>
-                <h5 class="mb-4">
-                  TROBOLO KersaBœm
-                </h5>
+                <h5 class="mb-4">TROBOLO KersaBœm</h5>
               </div>
               <div class="d-flex border-top">
                 <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-link text-primary me-2"></i>Testbericht</small
+                  ><i class="fa fa-link text-primary me-2"></i
+                  >Testbericht</small
                 >
               </div>
             </div>
@@ -999,13 +985,12 @@
                   <small class="fa fa-star text-default"></small>
                   <small>(342)</small>
                 </div>
-                <h5 class="mb-4">
-                  Kildwick MiniLoo Dry
-                </h5>
+                <h5 class="mb-4">Kildwick MiniLoo Dry</h5>
               </div>
               <div class="d-flex border-top">
                 <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-link text-primary me-2"></i>Testbericht</small
+                  ><i class="fa fa-link text-primary me-2"></i
+                  >Testbericht</small
                 >
               </div>
             </div>
@@ -1053,13 +1038,12 @@
                   <small class="fa fa-star text-primary"></small>
                   <small>(334)</small>
                 </div>
-                <h5 class="mb-4">
-                  TROBOLO IndiBlœm
-                </h5>
+                <h5 class="mb-4">TROBOLO IndiBlœm</h5>
               </div>
               <div class="d-flex border-top">
                 <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-link text-primary me-2"></i>Testbericht</small
+                  ><i class="fa fa-link text-primary me-2"></i
+                  >Testbericht</small
                 >
               </div>
             </div>
@@ -1107,13 +1091,12 @@
                   <small class="fa fa-star text-default"></small>
                   <small>(189)</small>
                 </div>
-                <h5 class="mb-4">
-                  MeineTrenntoilette Trelino M (weiss)
-                </h5>
+                <h5 class="mb-4">MeineTrenntoilette Trelino M (weiss)</h5>
               </div>
               <div class="d-flex border-top">
                 <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-link text-primary me-2"></i>Testbericht</small
+                  ><i class="fa fa-link text-primary me-2"></i
+                  >Testbericht</small
                 >
               </div>
             </div>
@@ -1129,10 +1112,15 @@
 export default {
   name: "IndexPage",
   head: {
-    title: 'Trockentrenntoilette - Produkte & Testsieger',
+    title: "Trockentrenntoilette - Produkte & Testsieger",
     meta: [
-      { hid: 'description', name: 'description', content: 'Testberichte und Empfehlungen für die richtige Trockentrenntoilette. Anbieter und Produktvergleich. Vor dem Kauf informieren. Das Vergleichsportal.' }
-    ]
-  }
+      {
+        hid: "description",
+        name: "description",
+        content:
+          "Testberichte und Empfehlungen für die richtige Trockentrenntoilette. Anbieter und Produktvergleich. Vor dem Kauf informieren. Das Vergleichsportal.",
+      },
+    ],
+  },
 };
 </script>
