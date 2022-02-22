@@ -101,7 +101,7 @@
             <p>
               Aufgrund der Funktionalität, dem hohen Komfort, der Nachhaltigkeit
               des Produktes, der Einfacheit der Entleerung sowie der Hygiene,
-              vergeben wir der TeraBlœm eine Bestnote.
+              vergeben wir der TeraBlœm von TROBOLO eine Bestnote.
             </p>
 
             <div class="row gy-2 gx-4 mb-5 mt-5">
@@ -177,7 +177,7 @@
                 </ul>
                 <div class="sidebar-contatct-info mt-4">
                   <p class="mb-0">Preis</p>
-                  <h3>1879,00 EUR</h3>
+                  <h3>429,00 EUR</h3>
                 </div>
               </div>
             </div>

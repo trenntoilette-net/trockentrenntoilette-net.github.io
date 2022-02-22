@@ -61,7 +61,7 @@
             <div class="copyright">
                 <div class="row">
                     <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                        &copy; <a class="border-bottom" href="/" title="Trockentrenntoilette">Trockentrenntoiletten.net</a> - Alle Rechte vorbehalten.
+                        &copy; <a class="border-bottom" href="/" title="Trockentrenntoilette">Trockentrenntoilette.net</a> - Alle Rechte vorbehalten.
                     </div>
                     <div class="col-md-6 text-center text-md-end">
                         <div class="footer-menu">
