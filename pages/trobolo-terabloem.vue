@@ -152,25 +152,25 @@
                   <li class="d-flex justify-content-between align-items-center">
                     <a href="#">Marke</a> <span>TROBOLO®</span>
                   </li>
-                  <hr>
+                  <hr />
                   <li class="d-flex justify-content-between align-items-center">
                     <a href="#">Material</a>
                     <span>15 mm massives Kiefernholz</span>
                   </li>
-                  <hr>
+                  <hr />
                   <li class="d-flex justify-content-between align-items-center">
                     <a href="#">Maße</a>
                     <span>Höhe 497 - Tiefe 470 - Breite 330</span>
                   </li>
-                  <hr>
+                  <hr />
                   <li class="d-flex justify-content-between align-items-center">
                     <a href="#">Gewicht</a> <span>160 kg</span>
                   </li>
-                  <hr>
+                  <hr />
                   <li class="d-flex justify-content-between align-items-center">
                     <a href="#">Traglast</a> <span>200 kg</span>
                   </li>
-                  <hr>
+                  <hr />
                   <li class="d-flex justify-content-between align-items-center">
                     <a href="#">Funktion</a> <span>Trennsystem</span>
                   </li>
@@ -189,14 +189,14 @@
               />
             </div>
             <div class="mt-5">
-                <a
-              class="btn btn-primary py-3 px-5"
-              target="_blank"
-              rel="nofollow noopener"
-              href="https://trobolo.com/de/produkte/terabloem/"
-              style="display: block; width: 100%;"
-              >TROBOLO Online Shop</a
-            >
+              <a
+                class="btn btn-primary py-3 px-5"
+                target="_blank"
+                rel="nofollow noopener"
+                href="https://trobolo.com/de/produkte/terabloem/"
+                style="display: block; width: 100%"
+                >TROBOLO Online Shop</a
+              >
             </div>
           </div>
         </div>
@@ -219,6 +219,50 @@ export default {
           "Trockentrenntoilette TROBOLO TeraBlœm im Test. Vorteile und Nachteile. Kriterien: Geruchtsentwicklung, Komfort, Hygiene, Entlerrung und Preis.",
       },
     ],
+  },
+  jsonld() {
+    return {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      name: "TROBOLO TeraBlœm",
+      image: [
+        "https://www.trockentrenntoilette.net/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp",
+      ],
+      description:
+        "TROBOLO TeraBlœm - Handgefertigte Trockentrenntoilette mit Trennsystem für den Innenbereich.",
+      sku: "S5XX1392ES",
+      mpn: "24542",
+      brand: {
+        "@type": "Brand",
+        name: "TROBOLO",
+      },
+      review: {
+        "@type": "Review",
+        reviewRating: {
+          "@type": "Rating",
+          ratingValue: "5",
+          bestRating: "5",
+        },
+        author: {
+          "@type": "Person",
+          name: "Trockentrenntoilette.net",
+        },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "72",
+      },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.trockentrenntoilette.net/trobolo-terabloem",
+        priceCurrency: "EUR",
+        price: "429.00",
+        priceValidUntil: "2024-11-20",
+        itemCondition: "https://schema.org/NewCondition",
+        availability: "https://schema.org/InStock",
+      },
+    };
   },
 };
 </script>
