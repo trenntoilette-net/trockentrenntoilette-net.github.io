@@ -320,3 +320,38 @@
     transform: translate(-50%, -50%);
     text-align: center;
   }
+
+.sidebar-widget.schedule-widget {
+    background: #f4f9fc;
+    padding: 25px;
+}
+.sidebar-widget {
+    margin-bottom: 30px;
+    padding-bottom: 35px;
+}
+
+.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
+
+.sidebar-widget h5 {
+    margin-bottom: 30px;
+    position: relative;
+    padding-bottom: 15px;
+}
+
+.sidebar-widget h5:before {
+    position: absolute;
+    content: "";
+    left: 0;
+    bottom: 0;
+    width: 35px;
+    height: 3px;
+    background: #06BBCC;
+}
+
+.justify-content-between {
+    -ms-flex-pack: justify!important;
+    justify-content: space-between!important;
+}
