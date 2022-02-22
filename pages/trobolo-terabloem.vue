@@ -222,46 +222,73 @@ export default {
   },
   jsonld() {
     return {
-      "@context": "https://schema.org/",
-      "@type": "Product",
-      name: "TROBOLO TeraBlœm",
-      image: [
-        "https://www.trockentrenntoilette.net/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp",
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@context": "https://schema.org/",
+          "@type": "Product",
+          name: "TROBOLO TeraBlœm",
+          image: [
+            "https://www.trockentrenntoilette.net/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp",
+          ],
+          description:
+            "TROBOLO TeraBlœm - Handgefertigte Trockentrenntoilette mit Trennsystem für den Innenbereich.",
+          sku: "S5XX1392ES",
+          mpn: "24542",
+          brand: {
+            "@type": "Brand",
+            name: "TROBOLO",
+          },
+          review: {
+            "@type": "Review",
+            reviewRating: {
+              "@type": "Rating",
+              ratingValue: "5",
+              bestRating: "5",
+            },
+            author: {
+              "@type": "Organization",
+              name: "Trockentrenntoilette.net",
+            },
+          },
+          aggregateRating: {
+            "@type": "AggregateRating",
+            ratingValue: "4.8",
+            reviewCount: "72",
+          },
+          offers: {
+            "@type": "Offer",
+            url: "https://www.trockentrenntoilette.net/trobolo-terabloem",
+            priceCurrency: "EUR",
+            price: "429.00",
+            priceValidUntil: "2024-11-20",
+            itemCondition: "https://schema.org/NewCondition",
+            availability: "https://schema.org/InStock",
+          },
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          itemListElement: [
+            {
+              "@type": "ListItem",
+              position: 1,
+              item: {
+                "@id": "https://www.trockentrenntoilette.net/",
+                name: "Trockentrenntoiletten"
+              }
+            },
+            {
+              "@type": "ListItem",
+              position: 2,
+              item: {
+                "@id": "https://www.trockentrenntoilette.net/trobolo-terabloem",
+                name: "TROBOLO TeraBlœm"
+              }
+            },
+          ],
+        },
       ],
-      description:
-        "TROBOLO TeraBlœm - Handgefertigte Trockentrenntoilette mit Trennsystem für den Innenbereich.",
-      sku: "S5XX1392ES",
-      mpn: "24542",
-      brand: {
-        "@type": "Brand",
-        name: "TROBOLO",
-      },
-      review: {
-        "@type": "Review",
-        reviewRating: {
-          "@type": "Rating",
-          ratingValue: "5",
-          bestRating: "5",
-        },
-        author: {
-          "@type": "Person",
-          name: "Trockentrenntoilette.net",
-        },
-      },
-      aggregateRating: {
-        "@type": "AggregateRating",
-        ratingValue: "4.8",
-        reviewCount: "72",
-      },
-      offers: {
-        "@type": "Offer",
-        url: "https://www.trockentrenntoilette.net/trobolo-terabloem",
-        priceCurrency: "EUR",
-        price: "429.00",
-        priceValidUntil: "2024-11-20",
-        itemCondition: "https://schema.org/NewCondition",
-        availability: "https://schema.org/InStock",
-      },
     };
   },
 };
