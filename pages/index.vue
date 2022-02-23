@@ -329,7 +329,7 @@
           <div class="col-lg-4 col-md-6 fadeInUp">
             <div class="course-item bg-light">
               <div class="position-relative overflow-hidden">
-                <NuxtLink to="/trobolo-terabloem" title="TROBOLO TeraBlœm Test">
+                <NuxtLink to="/trobolo-terabloem/" title="TROBOLO TeraBlœm Test">
                   <img
                     class="img-fluid"
                     src="assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp"
@@ -348,7 +348,7 @@
                   "
                 >
                   <NuxtLink
-                    to="/trobolo-terabloem"
+                    to="/trobolo-terabloem/"
                     class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
                     style="border-radius: 30px 0 0 30px"
                     title="TROBOLO TeraBlœm Test"

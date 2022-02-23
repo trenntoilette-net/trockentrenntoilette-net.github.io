@@ -97,6 +97,6 @@ export default {
     }
   },
   router: {
-    trailingSlash: false
+    trailingSlash: true
   }
 }
