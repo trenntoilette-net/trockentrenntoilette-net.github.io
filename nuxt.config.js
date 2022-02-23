@@ -95,5 +95,8 @@ export default {
         ital: [100]
       },
     }
+  },
+  router: {
+    trailingSlash: false
   }
 }
