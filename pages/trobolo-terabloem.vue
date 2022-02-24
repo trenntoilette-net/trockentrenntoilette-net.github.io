@@ -3,6 +3,7 @@
     <ProductHeader
       productName="TROBOLO® TeraBlœm"
       textContent="Die TeraBlœm ist eine Trockentrenntoilette aus dem Hause TROBOLO's. Sie ist eine aus 15mm Erlen Mehrschichtholz handgefertigte Trockentrenntoilette für den Innenbereich."
+      productImage="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp"
     ></ProductHeader>
 
     <!-- About Start -->

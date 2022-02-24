@@ -8,7 +8,7 @@
             <div class="position-relative h-100">
               <img
                 class="img-fluid position-absolute w-100 h-100"
-                src="assets/images/feature-trockentrenntoilette-trobolo-luweblœm.webp"
+                src="/assets/images/feature-trockentrenntoilette-trobolo-luweblœm.webp"
                 alt="TROBOLO LuweBlœm"
                 style="object-fit: cover; object-position: center bottom"
               />
@@ -143,7 +143,7 @@
                   <div class="grayscaleContainer">
                     <img
                       class="img-fluid grayscale"
-                      src="assets/images/anbieter/trobolo.webp"
+                      src="/assets/images/anbieter/trobolo.webp"
                       alt="TROBOLO"
                     />
                     <div class="overlay">
@@ -172,7 +172,7 @@
                   <div class="grayscaleContainer">
                     <img
                       class="img-fluid grayscale"
-                      src="assets/images/anbieter/trelino.webp"
+                      src="/assets/images/anbieter/trelino.webp"
                       alt="Trelino"
                     />
                     <div class="overlay">
@@ -201,7 +201,7 @@
                   <div class="grayscaleContainer">
                     <img
                       class="img-fluid grayscale"
-                      src="assets/images/anbieter/kildwick.webp"
+                      src="/assets/images/anbieter/kildwick.webp"
                       alt="Kildwick"
                     />
                     <div class="overlay">
@@ -232,7 +232,7 @@
               <div class="grayscaleContainer">
                 <img
                   class="img-fluid grayscale"
-                  src="assets/images/anbieter/meinetrenntoilette.webp"
+                  src="/assets/images/anbieter/meinetrenntoilette.webp"
                   alt="MeineTrenntoilette"
                 />
                 <div class="overlay">
@@ -276,7 +276,7 @@
               <div class="position-relative overflow-hidden">
                 <img
                   class="img-fluid"
-                  src="assets/images/trockentrenntoiletten/trockentrenntoilette-trelino-trelino.webp"
+                  src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trelino-trelino.webp"
                   alt="Trelino Trelino"
                 />
                 <div
@@ -332,7 +332,7 @@
                 <NuxtLink to="/trobolo-terabloem/" title="TROBOLO TeraBlœm Test">
                   <img
                     class="img-fluid"
-                    src="assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp"
+                    src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp"
                     alt="TROBOLO TeraBlœm"
                   />
                 </NuxtLink>
@@ -391,7 +391,7 @@
               <div class="position-relative overflow-hidden">
                 <img
                   class="img-fluid"
-                  src="assets/images/trockentrenntoiletten/trockentrenntoilette-kildwick-miniloo.webp"
+                  src="/assets/images/trockentrenntoiletten/trockentrenntoilette-kildwick-miniloo.webp"
                   alt="Kildwick MiniLoo"
                 />
                 <div
@@ -460,7 +460,7 @@
               <div class="overflow-hidden">
                 <img
                   class="img-fluid"
-                  src="assets/images/img/team-1.jpg"
+                  src="/assets/images/img/team-1.jpg"
                   alt=""
                 />
               </div>
@@ -491,7 +491,7 @@
               <div class="overflow-hidden">
                 <img
                   class="img-fluid"
-                  src="assets/images/img/team-2.jpg"
+                  src="/assets/images/img/team-2.jpg"
                   alt=""
                 />
               </div>
@@ -522,7 +522,7 @@
               <div class="overflow-hidden">
                 <img
                   class="img-fluid"
-                  src="assets/images/img/team-3.jpg"
+                  src="/assets/images/img/team-3.jpg"
                   alt=""
                 />
               </div>
@@ -553,7 +553,7 @@
               <div class="overflow-hidden">
                 <img
                   class="img-fluid"
-                  src="assets/images/img/team-4.jpg"
+                  src="/assets/images/img/team-4.jpg"
                   alt=""
                 />
               </div>
@@ -599,7 +599,7 @@
               <div class="position-relative overflow-hidden">
                 <img
                   class="img-fluid"
-                  src="assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp"
+                  src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp"
                   alt="TROBOLO TeraBlœm"
                 />
                 <div
@@ -652,7 +652,7 @@
               <div class="position-relative overflow-hidden">
                 <img
                   class="img-fluid"
-                  src="assets/images/trockentrenntoiletten/trenntoilette-trobolo-luwebloem.webp"
+                  src="/assets/images/trockentrenntoiletten/trenntoilette-trobolo-luwebloem.webp"
                   alt="TROBOLO LuweBlœm"
                 />
                 <div
@@ -705,7 +705,7 @@
               <div class="position-relative overflow-hidden">
                 <img
                   class="img-fluid"
-                  src="assets/images/trockentrenntoiletten/trockentrenntoilette-meinetrenntoilette-separett-tiny.webp"
+                  src="/assets/images/trockentrenntoiletten/trockentrenntoilette-meinetrenntoilette-separett-tiny.webp"
                   alt="Separett Tiny"
                 />
                 <div
@@ -773,7 +773,7 @@
               <div class="position-relative overflow-hidden">
                 <img
                   class="img-fluid"
-                  src="assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-kitaboem.webp"
+                  src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-kitaboem.webp"
                   alt="TROBOLO KitaBœm"
                 />
                 <div
@@ -826,7 +826,7 @@
               <div class="position-relative overflow-hidden">
                 <img
                   class="img-fluid"
-                  src="assets/images/trockentrenntoiletten/trockentrenntoilette-meinetrenntoilette-trelino-l.webp"
+                  src="/assets/images/trockentrenntoiletten/trockentrenntoilette-meinetrenntoilette-trelino-l.webp"
                   alt="Trelino L"
                 />
                 <div
@@ -879,7 +879,7 @@
               <div class="position-relative overflow-hidden">
                 <img
                   class="img-fluid"
-                  src="assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-kersaboem.webp"
+                  src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-kersaboem.webp"
                   alt="TROBOLO Kersabœm"
                 />
                 <div
@@ -947,7 +947,7 @@
               <div class="position-relative overflow-hidden">
                 <img
                   class="img-fluid"
-                  src="assets/images/trockentrenntoiletten/trockentrenntoilette-kildwick-miniloo-dry.webp"
+                  src="/assets/images/trockentrenntoiletten/trockentrenntoilette-kildwick-miniloo-dry.webp"
                   alt="Kildwick MiniLoo Dry"
                 />
                 <div
@@ -1000,7 +1000,7 @@
               <div class="position-relative overflow-hidden">
                 <img
                   class="img-fluid"
-                  src="assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-indiebloem.webp"
+                  src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-indiebloem.webp"
                   alt="TROBOLO IndieBlœm"
                 />
                 <div
@@ -1053,7 +1053,7 @@
               <div class="position-relative overflow-hidden">
                 <img
                   class="img-fluid"
-                  src="assets/images/trockentrenntoiletten/trockentrenntoilette-meinetrenntoilette-trelino-m-weiss.webp"
+                  src="/assets/images/trockentrenntoiletten/trockentrenntoilette-meinetrenntoilette-trelino-m-weiss.webp"
                   alt="Trelino M in weiss"
                 />
                 <div

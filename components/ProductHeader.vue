@@ -8,8 +8,8 @@
             <div class="position-relative h-100">
               <img
                 class="img-fluid position-absolute w-100 h-100"
-                src="assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp"
-                alt="TROBOLO LuweBlœm"
+                :src="productImage"
+                :alt="productName"
                 style="object-fit: cover; object-position: center bottom"
               />
             </div>
@@ -79,6 +79,7 @@ export default {
   props: {
     productName: String,
     textContent: String,
+    productImage: String
   },
 };
 </script>
