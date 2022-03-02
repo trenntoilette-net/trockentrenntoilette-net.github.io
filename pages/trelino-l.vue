@@ -18,7 +18,7 @@
 
             <h5 class="mb-3 mt-5">Komfort</h5>
 
-            <p>Die Trelino L hat einen ausgezeichneten Sitzkomfort und steht, wie auch bei der <NuxtLink to="/trobolo-terablom/" title="TROBOLO TeraBlœm im Test">TROBOLO TeraBlœm</NuxtLink>, einer herkömmlichen Toilette aus Keramik nichts nach. Die Trockentrenntoilette ist sehr kompakt, hat aber eine normale Toilettensitz-Größe. Durch das HPL veredelte Birkenholz hatten wir stehts ein sehr gutes Sitzgefühl.</p>
+            <p>Die Trelino L hat einen ausgezeichneten Sitzkomfort und steht, wie auch bei der <NuxtLink to="/trobolo-terabloem/" title="TROBOLO TeraBlœm im Test">TROBOLO TeraBlœm</NuxtLink>, einer herkömmlichen Toilette aus Keramik nichts nach. Die Trockentrenntoilette ist sehr kompakt, hat aber eine normale Toilettensitz-Größe. Durch das HPL veredelte Birkenholz hatten wir stehts ein sehr gutes Sitzgefühl.</p>
 
             <h5 class="mb-3 mt-5">Eckdaten</h5>
 
