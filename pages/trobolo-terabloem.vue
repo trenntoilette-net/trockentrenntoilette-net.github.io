@@ -183,11 +183,11 @@
               </div>
             </div>
             <div>
-              <img
+              <!-- <img
                 class="img-fluid"
                 src="assets/images/feature-trockentrenntoilette-trobolo-luweblœm.webp"
                 alt="TROBOLO LuweBlœm"
-              />
+              /> -->
             </div>
             <div class="mt-5">
               <a
@@ -259,7 +259,7 @@ export default {
           },
           offers: {
             "@type": "Offer",
-            url: "https://www.trockentrenntoilette.net/trobolo-terabloem",
+            url: "https://www.trockentrenntoilette.net/trobolo-terabloem/",
             priceCurrency: "EUR",
             price: "429.00",
             priceValidUntil: "2024-11-20",
@@ -283,7 +283,7 @@ export default {
               "@type": "ListItem",
               position: 2,
               item: {
-                "@id": "https://www.trockentrenntoilette.net/trobolo-terabloem",
+                "@id": "https://www.trockentrenntoilette.net/trobolo-terabloem/",
                 name: "TROBOLO TeraBlœm"
               }
             },
