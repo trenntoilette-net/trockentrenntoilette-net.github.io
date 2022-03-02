@@ -276,16 +276,17 @@ export default {
               position: 1,
               item: {
                 "@id": "https://www.trockentrenntoilette.net/",
-                name: "Trockentrenntoiletten"
-              }
+                name: "Trockentrenntoiletten",
+              },
             },
             {
               "@type": "ListItem",
               position: 2,
               item: {
-                "@id": "https://www.trockentrenntoilette.net/trobolo-terabloem/",
-                name: "TROBOLO TeraBlœm"
-              }
+                "@id":
+                  "https://www.trockentrenntoilette.net/trobolo-terabloem/",
+                name: "TROBOLO TeraBlœm",
+              },
             },
           ],
         },
