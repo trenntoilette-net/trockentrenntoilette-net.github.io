@@ -414,15 +414,17 @@
                   "
                 >
                   <a
-                    href="#"
+                    href="/kildwick-miniloo/"
                     class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
                     style="border-radius: 30px 0 0 30px"
                     >Testbericht</a
                   >
                   <a
-                    href="#"
+                    href="https://www.kildwick.com/Kildwick-Bausatz-Campingtoilette-Komposttoilette-MiniLoo"
                     class="flex-shrink-0 btn btn-sm btn-primary px-3"
                     style="border-radius: 0 30px 30px 0"
+                    target="_blank"
+                    rel="nofollow noopener"
                     >Bestellen</a
                   >
                 </div>
