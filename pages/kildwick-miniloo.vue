@@ -207,7 +207,7 @@
 export default {
   name: "Kildwick MiniLoo",
   head: {
-    title: "MiniLoo Campingtoilette von Kildwick",
+    title: "MiniLoo Campingtoilette von Kildwick im Test",
     meta: [
       {
         hid: "description",
