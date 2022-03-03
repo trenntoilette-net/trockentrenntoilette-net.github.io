@@ -161,7 +161,7 @@
                   <hr />
                   <li class="d-flex justify-content-between align-items-center">
                     <a href="#">Maße</a>
-                    <span>Höhe 497 - Tiefe 470 - Breite 330</span>
+                    <span>Höhe 497 - Tiefe 470 - Breite 330 mm</span>
                   </li>
                   <hr />
                   <li class="d-flex justify-content-between align-items-center">

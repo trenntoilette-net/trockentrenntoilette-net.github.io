@@ -137,31 +137,31 @@
               class="btn btn-primary py-3 px-5"
               target="_blank"
               rel="nofollow noopener"
-              href="https://www.meinetrenntoilette.de/collections/zubehoer-fuer-trenntoilette/products/trelino-luefter-zubehoer-set-trenntoilette"
+              href="https://www.kildwick.com/Kildwick-Bausatz-Campingtoilette-Komposttoilette-MiniLoo"
               >Bestellen</a
             >
           </div>
           <div class="col-lg-4 fadeInUp">
             <div>
               <div class="sidebar-widget schedule-widget mt-5">
-                <h5 class="mb-4">Trelino L mit HPL Veredelung</h5>
+                <h5 class="mb-4">Kildwick MiniLoo Campingtoilette</h5>
                 <ul class="list-unstyled">
                   <li class="d-flex justify-content-between align-items-center">
-                    <a href="#">Marke</a> <span>Trelino</span>
+                    <a href="#">Marke</a> <span>Kildwick</span>
                   </li>
                   <hr />
                   <li class="d-flex justify-content-between align-items-center">
                     <a href="#">Material</a>
-                    <span>Mehrschichtiges Birkenholz</span>
+                    <span>Birkensperrholz</span>
                   </li>
                   <hr />
                   <li class="d-flex justify-content-between align-items-center">
                     <a href="#">Maße</a>
-                    <span>Höhe 468 - Tiefe 386 - Breite 316</span>
+                    <span>Höhe 445 - Tiefe 386 - Breite 337 mm</span>
                   </li>
                   <hr />
                   <li class="d-flex justify-content-between align-items-center">
-                    <a href="#">Gewicht</a> <span>8,2 kg</span>
+                    <a href="#">Gewicht</a> <span>7,7 kg</span>
                   </li>
                   <hr />
                   <li class="d-flex justify-content-between align-items-center">
@@ -174,7 +174,7 @@
                 </ul>
                 <div class="sidebar-contatct-info mt-4">
                   <p class="mb-0">Preis</p>
-                  <h3>799,00 EUR</h3>
+                  <h3>399,00 EUR</h3>
                 </div>
               </div>
             </div>
@@ -190,9 +190,9 @@
                 class="btn btn-primary py-3 px-5"
                 target="_blank"
                 rel="nofollow noopener"
-                href="https://www.meinetrenntoilette.de/collections/zubehoer-fuer-trenntoilette/products/trelino-luefter-zubehoer-set-trenntoilette"
+                href="https://www.kildwick.com/Kildwick-Bausatz-Campingtoilette-Komposttoilette-MiniLoo"
                 style="display: block; width: 100%"
-                >Trelino Online Shop</a
+                >Kildwick Online Shop</a
               >
             </div>
           </div>
@@ -207,13 +207,13 @@
 export default {
   name: "Kildwick MiniLoo",
   head: {
-    title: "Trelino L mit HPL Veredelung im Test",
+    title: "MiniLoo Campingtoilette von Kildwick",
     meta: [
       {
         hid: "description",
         name: "description",
         content:
-          "Trockentrenntoilette Trelino L mit HPL Veredelung im Test. Vorteile und Nachteile. Kriterien: Geruchtsentwicklung, Komfort, Hygiene, Entlerrung und Preis.",
+          "Die MiniLoo Campingtoilette von Kildwick ist eine sehr kompakte Trockentrenntoilette, welche als vorgefertiger Bausatz geliefert wird. Lesen Sie unseren Testbericht.",
       },
     ],
   },
@@ -224,17 +224,17 @@ export default {
         {
           "@context": "https://schema.org/",
           "@type": "Product",
-          name: "Trelino L mit HPL Veredelung",
+          name: "Kildwick MiniLoo",
           image: [
-            "https://www.trockentrenntoilette.net/assets/images/trockentrenntoiletten/trockentrenntoilette-trelino-l-hpl-veredelung.webp",
+            "https://www.trockentrenntoilette.net/assets/images/trockentrenntoiletten/trockentrenntoilette-kildwick-miniloo.webp",
           ],
           description:
-            "Trelino L - Trockentrenntoilette mit HPL Veredelung für den mobilen Einsatz wie Camping, Tiny Häuser, Wohnmobile und Vans.",
-          sku: "T1-02502",
+            "Die MiniLoo Campingtoilette von Kildwick ist eine sehr kompakte Trockentrenntoilette, welche als vorgefertiger Bausatz geliefert wird. Lesen Sie unseren Testbericht.",
+          sku: "1000221",
           // mpn: "24542",
           brand: {
             "@type": "Brand",
-            name: "Trelino",
+            name: "Kildwick",
           },
           review: {
             "@type": "Review",
@@ -250,14 +250,14 @@ export default {
           },
           aggregateRating: {
             "@type": "AggregateRating",
-            ratingValue: "4.2",
-            reviewCount: "122",
+            ratingValue: "4.0",
+            reviewCount: "136",
           },
           offers: {
             "@type": "Offer",
-            url: "https://www.trockentrenntoilette.net/trelino-l/",
+            url: "https://www.trockentrenntoilette.net/kildwick-miniloo/",
             priceCurrency: "EUR",
-            price: "799.00",
+            price: "399.00",
             priceValidUntil: "2024-11-20",
             itemCondition: "https://schema.org/NewCondition",
             availability: "https://schema.org/InStock",
@@ -279,8 +279,8 @@ export default {
               "@type": "ListItem",
               position: 2,
               item: {
-                "@id": "https://www.trockentrenntoilette.net/trelino-l/",
-                name: "Trelino L",
+                "@id": "https://www.trockentrenntoilette.net/kildwick-miniloo/",
+                name: "Kildwick MiniLoo",
               },
             },
           ],

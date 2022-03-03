@@ -153,7 +153,7 @@
               class="btn btn-primary py-3 px-5"
               target="_blank"
               rel="nofollow noopener"
-              href="https://www.meinetrenntoilette.de/collections/zubehoer-fuer-trenntoilette/products/trelino-luefter-zubehoer-set-trenntoilette"
+              href="https://www.trelino.com/de/products/trelino-l-wood-hpl-composting-toilet"
               >Bestellen</a
             >
           </div>
@@ -173,7 +173,7 @@
                   <hr />
                   <li class="d-flex justify-content-between align-items-center">
                     <a href="#">Maße</a>
-                    <span>Höhe 468 - Tiefe 386 - Breite 316</span>
+                    <span>Höhe 468 - Tiefe 386 - Breite 316 mm</span>
                   </li>
                   <hr />
                   <li class="d-flex justify-content-between align-items-center">
@@ -206,7 +206,7 @@
                 class="btn btn-primary py-3 px-5"
                 target="_blank"
                 rel="nofollow noopener"
-                href="https://www.meinetrenntoilette.de/collections/zubehoer-fuer-trenntoilette/products/trelino-luefter-zubehoer-set-trenntoilette"
+                href="https://www.trelino.com/de/products/trelino-l-wood-hpl-composting-toilet"
                 style="display: block; width: 100%"
                 >Trelino Online Shop</a
               >
