@@ -893,11 +893,13 @@
           <div class="col-lg-4 col-md-6 fadeInUp">
             <div class="course-item bg-light">
               <div class="position-relative overflow-hidden">
+                <NuxtLink to="/trobolo-kersaboem/" title="TROBOLO KersaBœm Gartentoilette im Test">
                 <img
                   class="img-fluid"
                   src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-kersaboem.webp"
-                  alt="TROBOLO Kersabœm"
+                  alt="TROBOLO KersaBœm"
                 />
+                </NuxtLink>
                 <div
                   class="
                     w-100
@@ -909,16 +911,19 @@
                     mb-4
                   "
                 >
-                  <a
-                    href="#"
+                  <NuxtLink
+                    to="/trobolo-kersaboem/"
                     class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
                     style="border-radius: 30px 0 0 30px"
-                    >Testbericht</a
+                    title="TROBOLO KersaBœm Gartentoilette im Test"
+                    >Testbericht</NuxtLink
                   >
                   <a
-                    href="#"
+                    href="https://trobolo.com/de/produkte/kersaboem/"
                     class="flex-shrink-0 btn btn-sm btn-primary px-3"
                     style="border-radius: 0 30px 30px 0"
+                    target="_blank"
+                    rel="nofollow noopener"
                     >Bestellen</a
                   >
                 </div>
@@ -931,7 +936,7 @@
                   <small class="fa fa-star text-primary"></small>
                   <small class="fa fa-star text-primary"></small>
                   <small class="fa fa-star text-primary"></small>
-                  <small>(132)</small>
+                  <small>(412)</small>
                 </div>
                 <h5 class="mb-4">TROBOLO KersaBœm</h5>
               </div>
