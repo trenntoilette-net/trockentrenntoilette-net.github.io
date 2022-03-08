@@ -82,7 +82,7 @@
               class="btn btn-primary py-3 px-5 mt-5"
               target="_blank"
               rel="nofollow noopener"
-              href="https://www.kildwick.com/Kildwick-Bausatz-Campingtoilette-Komposttoilette-MiniLoo"
+              href="https://www.kildwick.com/"
               >zu Kildwick</a
             >
           </div>
