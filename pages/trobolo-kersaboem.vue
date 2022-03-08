@@ -125,7 +125,7 @@
               Verarbeitung des KersaBœm ist ausgezeichnet. Die Dichtungen sind
               hervorragend und somit kann die Trockentrenntoilette zu jeder
               Jahreszeit genutzt werden. Die Auswahl an Zubehör ist groß und das
-              Preis- Leistungsverhältniss ist in Anbetracht der Handarbeit sehr
+              Preis-Leistungs-Verhältnis ist in Anbetracht der Handarbeit sehr
               gut.
             </p>
 

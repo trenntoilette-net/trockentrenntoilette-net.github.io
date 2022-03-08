@@ -143,7 +143,7 @@
                   <div class="grayscaleContainer">
                     <img
                       class="img-fluid grayscale"
-                      src="/assets/images/anbieter/trobolo.webp"
+                      src="/assets/images/hersteller/trobolo.webp"
                       alt="TROBOLO"
                     />
                     <div class="overlay">
@@ -172,7 +172,7 @@
                   <div class="grayscaleContainer">
                     <img
                       class="img-fluid grayscale"
-                      src="/assets/images/anbieter/trelino.webp"
+                      src="/assets/images/hersteller/trelino.webp"
                       alt="Trelino"
                     />
                     <div class="overlay">
@@ -197,17 +197,18 @@
                 </a>
               </div>
               <div class="col-lg-6 col-md-12 zoomIn">
-                <a class="position-relative d-block overflow-hidden" href="">
+                <NuxtLink class="position-relative d-block overflow-hidden" to="/hersteller/kildwick/" title="Kildwick">
                   <div class="grayscaleContainer">
                     <img
                       class="img-fluid grayscale"
-                      src="/assets/images/anbieter/kildwick.webp"
+                      src="/assets/images/hersteller/kildwick.webp"
                       alt="Kildwick"
                     />
                     <div class="overlay">
                       <div class="overlayText">Kildwick</div>
                     </div>
                   </div>
+                </NuxtLink>
                   <div
                     class="
                       bg-white
@@ -232,7 +233,7 @@
               <div class="grayscaleContainer">
                 <img
                   class="img-fluid grayscale"
-                  src="/assets/images/anbieter/meinetrenntoilette.webp"
+                  src="/assets/images/hersteller/meinetrenntoilette.webp"
                   alt="MeineTrenntoilette"
                 />
                 <div class="overlay">
