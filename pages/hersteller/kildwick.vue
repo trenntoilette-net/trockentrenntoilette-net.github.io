@@ -17,11 +17,11 @@
               Kildwick ist ein junges, deutsches Unternehmen mit einem Ursprung
               in Großbritannien. Im Grunde genommen bietet Kildwick drei
               Trockentrenntoiletten an, die EasyLoo, die FancyLoo und die
-              MiniLoo, welche aufgrund ihrer Kompaktheit und dem geringen
+              <NuxtLink to="/kildwick-miniloo/" title="Kildwick MiniLoo im Test">MiniLoo</NuxtLink>, welche aufgrund ihrer Kompaktheit und dem geringen
               Gewicht ideal für mobile Einsatzzwecke geeignet sind.
             </p>
 
-            <h5 class="mb-3 mt-5">Das Unternehmen</h5>
+            <h5 class="mb-3 mt-5">Unternehmen</h5>
 
             <p>
               Der Ursprung von Kildwick liegt in Großbritannien und ist nur
@@ -50,17 +50,17 @@
               hohe Nachhaltigkeit.
             </p>
 
-            <h5 class="mb-3 mt-5">Die Produkte</h5>
+            <h5 class="mb-3 mt-5">Produkte</h5>
 
             <p>
               Kildwick bietet drei unterschiedliche Trockentrenntoiletten an:
               Die EasyLoo, welche als Erscheinung einer klassischen Toilette am
               nächsten kommt, die FancyLoo, welche als Premium Model daherkommt,
-              oder die MiniLoo, welche für den mobilen Einsatzzweck wie Camper,
+              oder die <NuxtLink to="/kildwick-miniloo/" title="Kildwick MiniLoo im Test">MiniLoo</NuxtLink>, welche für den mobilen Einsatzzweck wie Camper,
               Vans, Wohnwagen, Tiny House oder Gartenhaus konzipiert worden ist.
             </p>
 
-            <h5 class="mb-3 mt-5">Das Preis-Leistungs-Verhältnis</h5>
+            <h5 class="mb-3 mt-5">Preis-Leistungs-Verhältnis</h5>
 
             <p>
               Das Preis-Leistungs-Verhältnis von Kildwick ist gut. Das per
@@ -92,29 +92,35 @@
                 <h5 class="mb-4">Kildwick</h5>
                 <ul class="list-unstyled">
                   <li class="d-flex justify-content-between align-items-center">
-                    <a href="#">Firmensitz</a> <span>Leipzig</span>
+                    <a>Firmensitz</a> <span>Leipzig</span>
                   </li>
                   <hr />
                   <li class="d-flex justify-content-between align-items-center">
-                    <a href="#">Produkte</a>
+                    <a>Produkte</a>
                     <span>Trockentrenntoiletten</span>
                   </li>
                   <hr />
                   <li class="d-flex justify-content-between align-items-center">
-                    <a href="#">Email</a> <span>hello@kildwick.com</span>
+                    <a>Email</a> <span>hello@kildwick.com</span>
                   </li>
                   <hr />
                   <li class="d-flex justify-content-between align-items-center">
-                    <a href="#">Telefon</a> <span>+49 341 355 21 876</span>
+                    <a>Telefon</a> <span>+49 341 355 21 876</span>
                   </li>
                   <hr />
                   <li class="d-flex justify-content-between align-items-center">
-                    <a href="#">Webseite</a> <span>www.kildwick.com</span>
+                    <a>Webseite</a> <span>www.kildwick.com</span>
                   </li>
                 </ul>
                 <div class="sidebar-contatct-info mt-4">
                   <p class="mb-0">Preis-Leistungs-Verhältnis</p>
-                  <h3>Gut</h3>
+                  <div class="mb-3">
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-default"></small>
+                </div>
                 </div>
               </div>
             </div>
@@ -171,7 +177,7 @@ export default {
       priceRange: "$$",
       aggregateRating: {
         "@type": "AggregateRating",
-        ratingValue: "4.5",
+        ratingValue: "4.2",
         reviewCount: "31",
       },
       address: {
