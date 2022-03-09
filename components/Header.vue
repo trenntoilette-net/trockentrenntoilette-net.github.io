@@ -32,7 +32,7 @@
         <div class="navbar-nav ms-auto p-4 p-lg-0">
           <a href="/" class="nav-item nav-link active">Home</a>
           <a href="/#produkte" class="nav-item nav-link">Produkte</a>
-          <a href="/#anbieter" class="nav-item nav-link">Anbieter</a>
+          <a href="/#hersteller" class="nav-item nav-link">Hersteller</a>
           <div class="nav-item dropdown">
             <a
               href="#"

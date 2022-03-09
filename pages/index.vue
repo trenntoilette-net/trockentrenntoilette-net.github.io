@@ -21,8 +21,8 @@
             <h1 class="mb-4">Trockentrenntoiletten</h1>
             <p class="mb-4">
               Wir sind dein Ratgeber für Trockentrenntoiletten. Wir testen
-              Anbieter, Produkte und liefern dir die Infos die du benötigst, um
-              die passende Trockentrenntoilette zu finden.
+              Hersteller, Produkte und liefern dir die Infos die du benötigst,
+              um die passende Trockentrenntoilette zu finden.
             </p>
             <p class="mb-4">
               Unsere Tests beinhalten mehrere Kriterien denen wir gründlich auf
@@ -127,13 +127,13 @@
     <!-- Service End -->
 
     <!-- Categories Start -->
-    <div class="container-xxl py-5 category" id="anbieter">
+    <div class="container-xxl py-5 category" id="hersteller">
       <div class="container">
         <div class="text-center fadeInUp">
           <h6 class="section-title bg-white text-center text-primary px-3">
             Trockentrenntoiletten
           </h6>
-          <h1 class="mb-5">Anbieter</h1>
+          <h1 class="mb-5">Hersteller</h1>
         </div>
         <div class="row g-3">
           <div class="col-lg-7 col-md-6">
@@ -197,18 +197,21 @@
                 </a>
               </div>
               <div class="col-lg-6 col-md-12 zoomIn">
-                <NuxtLink class="position-relative d-block overflow-hidden" to="/hersteller/kildwick/" title="Kildwick">
+                <NuxtLink
+                  class="position-relative d-block overflow-hidden"
+                  to="/hersteller/kildwick/"
+                  title="Mehr über Kildwick erfahren"
+                >
                   <div class="grayscaleContainer">
                     <img
                       class="img-fluid grayscale"
                       src="/assets/images/hersteller/kildwick.webp"
-                      alt="Kildwick"
+                      alt="Trelino"
                     />
                     <div class="overlay">
                       <div class="overlayText">Kildwick</div>
                     </div>
                   </div>
-                </NuxtLink>
                   <div
                     class="
                       bg-white
@@ -222,9 +225,9 @@
                     style="margin: 1px"
                   >
                     <h5 class="m-0">Kildwick</h5>
-                    <!-- <small class="text-primary">Deutschland</small> -->
+                    <!-- <small class="text-primary">49 Courses</small> -->
                   </div>
-                </a>
+                </NuxtLink>
               </div>
             </div>
           </div>
@@ -614,11 +617,16 @@
           <div class="col-lg-4 col-md-6 fadeInUp">
             <div class="course-item bg-light">
               <div class="position-relative overflow-hidden">
-                <img
-                  class="img-fluid"
-                  src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp"
-                  alt="TROBOLO TeraBlœm"
-                />
+                <NuxtLink
+                  to="/trobolo-terabloem/"
+                  title="TROBOLO TeraBlœm im Test"
+                >
+                  <img
+                    class="img-fluid"
+                    src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp"
+                    alt="TROBOLO TeraBlœm"
+                  />
+                </NuxtLink>
                 <div
                   class="
                     w-100
@@ -630,16 +638,19 @@
                     mb-4
                   "
                 >
-                  <a
-                    href="#"
+                  <NuxtLink
+                    to="/trobolo-terabloem/"
                     class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
                     style="border-radius: 30px 0 0 30px"
-                    >Testbericht</a
+                    title="TROBOLO TeraBlœm im Test"
+                    >Testbericht</NuxtLink
                   >
                   <a
-                    href="#"
+                    href="https://trobolo.com/de/produkte/terabloem/"
                     class="flex-shrink-0 btn btn-sm btn-primary px-3"
                     style="border-radius: 0 30px 30px 0"
+                    target="_blank"
+                    rel="nofollow noopener"
                     >Bestellen</a
                   >
                 </div>
@@ -894,12 +905,15 @@
           <div class="col-lg-4 col-md-6 fadeInUp">
             <div class="course-item bg-light">
               <div class="position-relative overflow-hidden">
-                <NuxtLink to="/trobolo-kersaboem/" title="TROBOLO KersaBœm Gartentoilette im Test">
-                <img
-                  class="img-fluid"
-                  src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-kersaboem.webp"
-                  alt="TROBOLO KersaBœm"
-                />
+                <NuxtLink
+                  to="/trobolo-kersaboem/"
+                  title="TROBOLO KersaBœm Gartentoilette im Test"
+                >
+                  <img
+                    class="img-fluid"
+                    src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-kersaboem.webp"
+                    alt="TROBOLO KersaBœm"
+                  />
                 </NuxtLink>
                 <div
                   class="
@@ -1140,7 +1154,7 @@ export default {
         hid: "description",
         name: "description",
         content:
-          "Testberichte und Empfehlungen für die richtige Trockentrenntoilette. Anbieter und Produktvergleich. Vor dem Kauf informieren. Das Vergleichsportal.",
+          "Testberichte und Empfehlungen für die richtige Trockentrenntoilette. Hersteller und Produktvergleich. Vor dem Kauf informieren. Das Vergleichsportal.",
       },
     ],
   },
