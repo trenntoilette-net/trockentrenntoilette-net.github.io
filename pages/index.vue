@@ -6,7 +6,7 @@
         <div class="row g-5">
           <div class="col-lg-6 fadeInUp" style="min-height: 400px">
             <div class="position-relative h-100">
-              <img
+              <nuxt-img
                 class="img-fluid position-absolute w-100 h-100"
                 src="/assets/images/feature-trockentrenntoilette-trobolo-luweblœm.webp"
                 alt="TROBOLO LuweBlœm"
@@ -141,7 +141,7 @@
               <div class="col-lg-12 col-md-12 zoomIn">
                 <a class="position-relative d-block overflow-hidden" href="">
                   <div class="grayscaleContainer">
-                    <img
+                    <nuxt-img
                       class="img-fluid grayscale"
                       src="/assets/images/hersteller/trobolo.webp"
                       alt="TROBOLO"
@@ -170,7 +170,7 @@
               <div class="col-lg-6 col-md-12 zoomIn">
                 <a class="position-relative d-block overflow-hidden" href="">
                   <div class="grayscaleContainer">
-                    <img
+                    <nuxt-img
                       class="img-fluid grayscale"
                       src="/assets/images/hersteller/trelino.webp"
                       alt="Trelino"
@@ -203,7 +203,7 @@
                   title="Mehr über Kildwick erfahren"
                 >
                   <div class="grayscaleContainer">
-                    <img
+                    <nuxt-img
                       class="img-fluid grayscale"
                       src="/assets/images/hersteller/kildwick.webp"
                       alt="Trelino"
@@ -234,7 +234,7 @@
           <div class="col-lg-5 col-md-6 zoomIn" style="min-height: 350px">
             <a class="position-relative d-block h-100 overflow-hidden" href="">
               <div class="grayscaleContainer">
-                <img
+                <nuxt-img
                   class="img-fluid grayscale"
                   src="/assets/images/hersteller/meinetrenntoilette.webp"
                   alt="MeineTrenntoilette"
@@ -278,8 +278,8 @@
           <div class="col-lg-4 col-md-6 fadeInUp">
             <div class="course-item bg-light">
               <div class="position-relative overflow-hidden">
-                <NuxtLink to="/trelino-l/" title="Trelino L im Test">
-                  <img
+                <NuxtLink to="/trelino-l/" title="Trelino L mit HPL Veredelung im Test">
+                  <nuxt-img
                     class="img-fluid"
                     src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trelino-l-hpl-veredelung.webp"
                     alt="Trelino L mit HPL Veredelung"
@@ -300,7 +300,7 @@
                     to="/trelino-l/"
                     class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
                     style="border-radius: 30px 0 0 30px"
-                    title="Trelino L im Test"
+                    title="Trelino L mit HPL Veredelung im Test"
                     >Testbericht</NuxtLink
                   >
                   <a
@@ -342,7 +342,7 @@
                   to="/trobolo-terabloem/"
                   title="TROBOLO TeraBlœm im Test"
                 >
-                  <img
+                  <nuxt-img
                     class="img-fluid"
                     src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp"
                     alt="TROBOLO TeraBlœm"
@@ -405,7 +405,7 @@
                   to="/kildwick-miniloo/"
                   title="Kildwick MiniLoo Campingtoilette im Test"
                 >
-                  <img
+                  <nuxt-img
                     class="img-fluid"
                     src="/assets/images/trockentrenntoiletten/trockentrenntoilette-kildwick-miniloo.webp"
                     alt="Kildwick MiniLoo"
@@ -478,7 +478,7 @@
           <div class="col-lg-3 col-md-6 fadeInUp">
             <div class="team-item bg-light">
               <div class="overflow-hidden">
-                <img
+                <nuxt-img
                   class="img-fluid"
                   src="/assets/images/img/team-1.jpg"
                   alt=""
@@ -509,7 +509,7 @@
           <div class="col-lg-3 col-md-6 fadeInUp">
             <div class="team-item bg-light">
               <div class="overflow-hidden">
-                <img
+                <nuxt-img
                   class="img-fluid"
                   src="/assets/images/img/team-2.jpg"
                   alt=""
@@ -540,7 +540,7 @@
           <div class="col-lg-3 col-md-6 fadeInUp">
             <div class="team-item bg-light">
               <div class="overflow-hidden">
-                <img
+                <nuxt-img
                   class="img-fluid"
                   src="/assets/images/img/team-3.jpg"
                   alt=""
@@ -571,7 +571,7 @@
           <div class="col-lg-3 col-md-6 fadeInUp">
             <div class="team-item bg-light">
               <div class="overflow-hidden">
-                <img
+                <nuxt-img
                   class="img-fluid"
                   src="/assets/images/img/team-4.jpg"
                   alt=""
@@ -621,7 +621,7 @@
                   to="/trobolo-terabloem/"
                   title="TROBOLO TeraBlœm im Test"
                 >
-                  <img
+                  <nuxt-img
                     class="img-fluid"
                     src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp"
                     alt="TROBOLO TeraBlœm"
@@ -678,7 +678,7 @@
           <div class="col-lg-4 col-md-6 fadeInUp">
             <div class="course-item bg-light">
               <div class="position-relative overflow-hidden">
-                <img
+                <nuxt-img
                   class="img-fluid"
                   src="/assets/images/trockentrenntoiletten/trenntoilette-trobolo-luwebloem.webp"
                   alt="TROBOLO LuweBlœm"
@@ -731,7 +731,7 @@
           <div class="col-lg-4 col-md-6 fadeInUp">
             <div class="course-item bg-light">
               <div class="position-relative overflow-hidden">
-                <img
+                <nuxt-img
                   class="img-fluid"
                   src="/assets/images/trockentrenntoiletten/trockentrenntoilette-meinetrenntoilette-separett-tiny.webp"
                   alt="Separett Tiny"
@@ -799,7 +799,7 @@
           <div class="col-lg-4 col-md-6 fadeInUp">
             <div class="course-item bg-light">
               <div class="position-relative overflow-hidden">
-                <img
+                <nuxt-img
                   class="img-fluid"
                   src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-kitaboem.webp"
                   alt="TROBOLO KitaBœm"
@@ -852,7 +852,7 @@
           <div class="col-lg-4 col-md-6 fadeInUp">
             <div class="course-item bg-light">
               <div class="position-relative overflow-hidden">
-                <img
+                <nuxt-img
                   class="img-fluid"
                   src="/assets/images/trockentrenntoiletten/trockentrenntoilette-meinetrenntoilette-trelino-l.webp"
                   alt="Trelino L"
@@ -909,7 +909,7 @@
                   to="/trobolo-kersaboem/"
                   title="TROBOLO KersaBœm Gartentoilette im Test"
                 >
-                  <img
+                  <nuxt-img
                     class="img-fluid"
                     src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-kersaboem.webp"
                     alt="TROBOLO KersaBœm"
@@ -981,7 +981,7 @@
           <div class="col-lg-4 col-md-6 fadeInUp">
             <div class="course-item bg-light">
               <div class="position-relative overflow-hidden">
-                <img
+                <nuxt-img
                   class="img-fluid"
                   src="/assets/images/trockentrenntoiletten/trockentrenntoilette-kildwick-miniloo-dry.webp"
                   alt="Kildwick MiniLoo Dry"
@@ -1034,7 +1034,7 @@
           <div class="col-lg-4 col-md-6 fadeInUp">
             <div class="course-item bg-light">
               <div class="position-relative overflow-hidden">
-                <img
+                <nuxt-img
                   class="img-fluid"
                   src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-indiebloem.webp"
                   alt="TROBOLO IndieBlœm"
@@ -1087,7 +1087,7 @@
           <div class="col-lg-4 col-md-6 fadeInUp">
             <div class="course-item bg-light">
               <div class="position-relative overflow-hidden">
-                <img
+                <nuxt-img
                   class="img-fluid"
                   src="/assets/images/trockentrenntoiletten/trockentrenntoilette-meinetrenntoilette-trelino-m-weiss.webp"
                   alt="Trelino M in weiss"

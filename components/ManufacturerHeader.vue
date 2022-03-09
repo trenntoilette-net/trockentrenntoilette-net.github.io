@@ -6,7 +6,7 @@
         <div class="row g-5">
           <div class="col-lg-6 fadeInUp" style="min-height: 400px">
             <div class="position-relative h-100">
-              <img
+              <nuxt-img
                 class="img-fluid position-absolute w-100 h-100"
                 :src="productImage"
                 :alt="productName"
@@ -23,33 +23,53 @@
               {{ textContent }}
             </p>
             <p class="mb-4">
-              In folgendem Artikel stellen wir Euch den Hersteller vor. Zudem informieren wir über:
+              In folgendem Artikel stellen wir Euch den Hersteller vor. Zudem
+              informieren wir über:
             </p>
             <div class="row gy-2 gx-4 mb-4">
               <div class="col-sm-12">
                 <p class="mb-0">
-                  <i class="fa fa-arrow-right text-primary me-2"></i
-                  >Das Unternehmen
+                  <a href="#unternehmen">
+                    <i class="fa fa-arrow-right text-primary me-2"></i>Das
+                    Unternehmen</a
+                  >
                 </p>
               </div>
               <div class="col-sm-12">
                 <p class="mb-0">
-                  <i class="fa fa-arrow-right text-primary me-2"></i>Die Nachhaltigkeit
+                  <a href="#nachhaltigkeit">
+                    <i class="fa fa-arrow-right text-primary me-2"></i>Die
+                    Nachhaltigkeit
+                  </a>
                 </p>
               </div>
               <div class="col-sm-12">
                 <p class="mb-0">
-                  <i class="fa fa-arrow-right text-primary me-2"></i
-                  >Die Produkte
+                  <a href="#produkte">
+                  <i class="fa fa-arrow-right text-primary me-2"></i>Die
+                  Produkte</a>
                 </p>
               </div>
               <div class="col-sm-12">
                 <p class="mb-0">
-                  <i class="fa fa-arrow-right text-primary me-2"></i>Das Preis-Leistungs-Verhältnis
+                  <a href="#preis-leistung">
+                  <i class="fa fa-arrow-right text-primary me-2"></i>Das
+                  Preis-Leistungs-Verhältnis</a>
+                </p>
+              </div>
+              <div class="col-sm-12">
+                <p class="mb-0">
+                  <a href="#fazit">
+                  <i class="fa fa-arrow-right text-primary me-2"></i>Fazit
+                  </a>
                 </p>
               </div>
             </div>
-            <a class="btn btn-primary py-3 px-5 mt-2" target="_blank" rel="nofollow noopener" v-bind:href="websiteUrl"
+            <a
+              class="btn btn-primary py-3 px-5 mt-2"
+              target="_blank"
+              rel="nofollow noopener"
+              v-bind:href="websiteUrl"
               >zu {{ productName }}</a
             >
           </div>
@@ -67,7 +87,7 @@ export default {
     productName: String,
     textContent: String,
     productImage: String,
-    websiteUrl: String
+    websiteUrl: String,
   },
 };
 </script>

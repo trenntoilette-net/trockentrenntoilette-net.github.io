@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/hersteller/kildwick", {data:[{}],fetch:{},mutations:void 0});

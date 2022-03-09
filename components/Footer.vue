@@ -28,22 +28,22 @@
                     <h4 class="text-white mb-3">Gallerie</h4>
                     <div class="row g-2 pt-2">
                         <div class="col-4">
-                            <img class="img-fluid bg-light p-1" src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp" alt="TROBOLO TeraBlœm">
+                            <nuxt-img class="img-fluid bg-light p-1" src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp" alt="TROBOLO TeraBlœm" />
                         </div>
                         <div class="col-4">
-                            <img class="img-fluid bg-light p-1" src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-kersaboem.webp" alt="TROBOLO KersaBœm">
+                            <nuxt-img class="img-fluid bg-light p-1" src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-kersaboem.webp" alt="TROBOLO KersaBœm" />
                         </div>
                         <div class="col-4">
-                            <img class="img-fluid bg-light p-1" src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-indiebloem.webp" alt="TROBOLO IndieBlœm">
+                            <nuxt-img class="img-fluid bg-light p-1" src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-indiebloem.webp" alt="TROBOLO IndieBlœm" />
                         </div>
                         <div class="col-4">
-                            <img class="img-fluid bg-light p-1" src="/assets/images/trockentrenntoiletten/trockentrenntoilette-meinetrenntoilette-trelino-l.webp" alt="Trelino L">
+                            <nuxt-img class="img-fluid bg-light p-1" src="/assets/images/trockentrenntoiletten/trockentrenntoilette-meinetrenntoilette-trelino-l.webp" alt="Trelino L" />
                         </div>
                         <div class="col-4">
-                            <img class="img-fluid bg-light p-1" src="/assets/images/trockentrenntoiletten/trockentrenntoilette-kildwick-miniloo.webp" alt="Kildwick MiniLoo">
+                            <nuxt-img class="img-fluid bg-light p-1" src="/assets/images/trockentrenntoiletten/trockentrenntoilette-kildwick-miniloo.webp" alt="Kildwick MiniLoo" />
                         </div>
                         <div class="col-4">
-                            <img class="img-fluid bg-light p-1" src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-kitaboem.webp" alt="TROBOLO KitaBœm">
+                            <nuxt-img class="img-fluid bg-light p-1" src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-kitaboem.webp" alt="TROBOLO KitaBœm" />
                         </div>
                     </div>
                 </div>

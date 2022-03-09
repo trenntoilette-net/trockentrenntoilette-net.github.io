@@ -42,8 +42,8 @@
             >
             <div class="dropdown-menu fade-down m-0">
               <a href="/#produkte" class="dropdown-item">Innenbereich</a>
-              <a href="/#gartentoiletten" class="dropdown-item">Garten Toiletten</a>
-              <a href="/#campingtoiletten" class="dropdown-item">Camping Toiletten</a>
+              <a href="/#gartentoiletten" class="dropdown-item">Gartentoiletten</a>
+              <a href="/#campingtoiletten" class="dropdown-item">Campingtoiletten</a>
             </div>
           </div>
           <a href="#kontakt" class="nav-item nav-link">Kontakt</a>

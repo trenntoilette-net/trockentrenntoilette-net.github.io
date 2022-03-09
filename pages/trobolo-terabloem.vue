@@ -175,15 +175,26 @@
                   <li class="d-flex justify-content-between align-items-center">
                     <a href="#">Funktion</a> <span>Trennsystem</span>
                   </li>
+                  <hr />
+                  <li class="d-flex justify-content-between align-items-center">
+                    <a href="#">Bewertung</a> <div class="mb-1 mt-3">
+                    <small class="fa fa-star text-primary"></small>
+                    <small class="fa fa-star text-primary"></small>
+                    <small class="fa fa-star text-primary"></small>
+                    <small class="fa fa-star text-primary"></small>
+                    <small class="fa fa-star text-primary"></small>
+                  </div>
+                  </li>
+                  <hr />
                 </ul>
-                <div class="sidebar-contatct-info mt-4">
+                <div class="sidebar-contact-info mt-4">
                   <p class="mb-0">Preis</p>
                   <h3>429,00 EUR</h3>
                 </div>
               </div>
             </div>
             <div>
-              <!-- <img
+              <!-- <nuxt-img
                 class="img-fluid"
                 src="assets/images/feature-trockentrenntoilette-trobolo-luweblœm.webp"
                 alt="TROBOLO LuweBlœm"

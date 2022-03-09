@@ -23,7 +23,7 @@
               ideal für mobile Einsatzzwecke geeignet sind.
             </p>
 
-            <h5 class="mb-3 mt-5">Unternehmen</h5>
+            <h5 class="mb-3 mt-5" id="unternehmen">Unternehmen</h5>
 
             <p>
               Der Ursprung von Kildwick liegt in Großbritannien und ist nur
@@ -35,7 +35,7 @@
               Einsatzzweck eignet.
             </p>
 
-            <h5 class="mb-3 mt-5">Nachhaltigkeit</h5>
+            <h5 class="mb-3 mt-5" id="nachhaltigkeit">Nachhaltigkeit</h5>
 
             <p>
               Kildwick produziert Trockentrenntoiletten die umweltfreundlich,
@@ -52,7 +52,7 @@
               hohe Nachhaltigkeit.
             </p>
 
-            <h5 class="mb-3 mt-5">Produkte</h5>
+            <h5 class="mb-3 mt-5" id="produkte">Produkte</h5>
 
             <p>
               Kildwick bietet drei unterschiedliche Trockentrenntoiletten an:
@@ -65,7 +65,7 @@
               Wohnwagen, Tiny House oder Gartenhaus konzipiert worden ist.
             </p>
 
-            <h5 class="mb-3 mt-5">Preis-Leistungs-Verhältnis</h5>
+            <h5 class="mb-3 mt-5" id="preis-leistung">Preis-Leistungs-Verhältnis</h5>
 
             <p>
               Das Preis-Leistungs-Verhältnis von Kildwick ist gut. Das per
@@ -75,7 +75,7 @@
               Tests stets gut abgeschnitten.
             </p>
 
-            <h5 class="mb-3 mt-5">Fazit</h5>
+            <h5 class="mb-3 mt-5" id="fazit">Fazit</h5>
 
             <p>
               Wer auf der Suche nach einer kompakten und gut verarbeiteten
@@ -117,9 +117,9 @@
                     <a>Webseite</a> <span>www.kildwick.com</span>
                   </li>
                 </ul>
-                <div class="sidebar-contatct-info mt-4">
+                <div class="sidebar-contact-info mt-4">
                   <p class="mb-0">Preis-Leistungs-Verhältnis</p>
-                  <div class="mb-3">
+                  <div class="mb-1 mt-3">
                     <small class="fa fa-star text-primary"></small>
                     <small class="fa fa-star text-primary"></small>
                     <small class="fa fa-star text-primary"></small>
@@ -130,7 +130,7 @@
               </div>
             </div>
             <div>
-              <!-- <img
+              <!-- <nuxt-img
                 class="img-fluid"
                 src="/assets/images/trockentrenntoiletten/trockentrenntoilette-meinetrenntoilette-trelino-l.webp"
                 alt="TROBOLO LuweBlœm"
