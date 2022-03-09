@@ -17,8 +17,10 @@
               Kildwick ist ein junges, deutsches Unternehmen mit einem Ursprung
               in Großbritannien. Im Grunde genommen bietet Kildwick drei
               Trockentrenntoiletten an, die EasyLoo, die FancyLoo und die
-              <NuxtLink to="/kildwick-miniloo/" title="Kildwick MiniLoo im Test">MiniLoo</NuxtLink>, welche aufgrund ihrer Kompaktheit und dem geringen
-              Gewicht ideal für mobile Einsatzzwecke geeignet sind.
+              <NuxtLink to="/kildwick-miniloo/" title="Kildwick MiniLoo im Test"
+                >MiniLoo</NuxtLink
+              >, welche aufgrund ihrer Kompaktheit und dem geringen Gewicht
+              ideal für mobile Einsatzzwecke geeignet sind.
             </p>
 
             <h5 class="mb-3 mt-5">Unternehmen</h5>
@@ -56,8 +58,11 @@
               Kildwick bietet drei unterschiedliche Trockentrenntoiletten an:
               Die EasyLoo, welche als Erscheinung einer klassischen Toilette am
               nächsten kommt, die FancyLoo, welche als Premium Model daherkommt,
-              oder die <NuxtLink to="/kildwick-miniloo/" title="Kildwick MiniLoo im Test">MiniLoo</NuxtLink>, welche für den mobilen Einsatzzweck wie Camper,
-              Vans, Wohnwagen, Tiny House oder Gartenhaus konzipiert worden ist.
+              oder die
+              <NuxtLink to="/kildwick-miniloo/" title="Kildwick MiniLoo im Test"
+                >MiniLoo</NuxtLink
+              >, welche für den mobilen Einsatzzweck wie Camper, Vans,
+              Wohnwagen, Tiny House oder Gartenhaus konzipiert worden ist.
             </p>
 
             <h5 class="mb-3 mt-5">Preis-Leistungs-Verhältnis</h5>
@@ -115,12 +120,12 @@
                 <div class="sidebar-contatct-info mt-4">
                   <p class="mb-0">Preis-Leistungs-Verhältnis</p>
                   <div class="mb-3">
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-default"></small>
-                </div>
+                    <small class="fa fa-star text-primary"></small>
+                    <small class="fa fa-star text-primary"></small>
+                    <small class="fa fa-star text-primary"></small>
+                    <small class="fa fa-star text-primary"></small>
+                    <small class="fa fa-star text-default"></small>
+                  </div>
                 </div>
               </div>
             </div>
@@ -165,32 +170,61 @@ export default {
   },
   jsonld() {
     return {
-      "@context": "http:\u002F\u002Fschema.org",
-      "@type": "Store",
-      name: "Kildwick",
-      description: "Kildwick ist ein Hersteller für Trockentrenntoiletten die sich vor allem für den mobilen, wasserlosen Einsatz eignen.",
-      telephone: "+4934135521876",
-      url: "https://www.trockentrenntoilette.net/hersteller/kildwick/",
-      logo: "https://www.trockentrenntoilette.net/assets/images/logos/kildwick.png",
-      image:
-        "https://www.trockentrenntoilette.net/assets/images/hersteller/kildwick.webp",
-      priceRange: "$$",
-      aggregateRating: {
-        "@type": "AggregateRating",
-        ratingValue: "4.2",
-        reviewCount: "31",
-      },
-      address: {
-        "@type": "PostalAddress",
-        streetAddress: "Haferkornstrasse 15",
-        addressLocality: "Leipzig",
-        postalCode: "04129",
-        addressCountry: {
-          "@type": "Country",
-          name: "Deutschland",
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@context": "http:\u002F\u002Fschema.org",
+          "@type": "Store",
+          name: "Kildwick",
+          description:
+            "Kildwick ist ein Hersteller für Trockentrenntoiletten die sich vor allem für den mobilen, wasserlosen Einsatz eignen.",
+          telephone: "+4934135521876",
+          url: "https://www.trockentrenntoilette.net/hersteller/kildwick/",
+          logo: "https://www.trockentrenntoilette.net/assets/images/logos/kildwick.png",
+          image:
+            "https://www.trockentrenntoilette.net/assets/images/hersteller/kildwick.webp",
+          priceRange: "$$",
+          aggregateRating: {
+            "@type": "AggregateRating",
+            ratingValue: "4.2",
+            reviewCount: "31",
+          },
+          address: {
+            "@type": "PostalAddress",
+            streetAddress: "Haferkornstrasse 15",
+            addressLocality: "Leipzig",
+            postalCode: "04129",
+            addressCountry: {
+              "@type": "Country",
+              name: "Deutschland",
+            },
+          },
         },
-      },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          itemListElement: [
+            {
+              "@type": "ListItem",
+              position: 1,
+              item: {
+                "@id": "https://www.trockentrenntoilette.net/",
+                name: "Trockentrenntoiletten",
+              },
+            },
+            {
+              "@type": "ListItem",
+              position: 2,
+              item: {
+                "@id":
+                  "https://www.trockentrenntoilette.net/hersteller/kildwick/",
+                name: "Kildwick",
+              },
+            },
+          ],
+        },
+      ],
     };
-  }
+  },
 };
 </script>
