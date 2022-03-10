@@ -148,7 +148,7 @@
           <div class="col-lg-4 fadeInUp">
             <div>
               <div class="sidebar-widget schedule-widget mt-5">
-                <h5 class="mb-4">KersaBœm</h5>
+                <h5 class="mb-4">TeraBlœm</h5>
                 <ul class="list-unstyled">
                   <li class="d-flex justify-content-between align-items-center">
                     <a href="#">Marke</a> <span>TROBOLO®</span>
