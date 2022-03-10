@@ -53,7 +53,7 @@
             </h5>
 
             <p>
-              Die Trelino L Trockentrenntoilette funktionert über einen
+              Die Trelino L Trockentrenntoilette funktioniert über einen
               Trenneinsatz. Urin- und Feststoffbehälter sind voneinander
               getrennt. Hierdurch wird auch die Geruchsentwicklung verhindert.
               Die Trelino L benötigt kein Wasser oder Chemie. Somit ist sie
@@ -70,7 +70,7 @@
 
             <p>
               Die Entleerung hat sich als einfach erwiesen, dennoch etwas
-              schwieriger als bei der TeraBlœm von TROBOLO. Aufgrund
+              schwieriger als bei der TeraBlœm von TROBOLO.
             </p>
 
             <h5 class="mb-3 mt-5">Nachhaltigkeit</h5>
@@ -86,9 +86,9 @@
               Trelino nutzt für die Herstellung der Trelino L recyclefähige
               Materialien um die Produktion nachhaltig zu gestalten. Die
               Produktion findet in Deutschland statt und hat somit kurze
-              Lieferungswege. Trelino stellt Produkte mit hoher Qualität her,
-              welche eine lange Lebensdauer aufweisen und somit kein
-              "Wegwerfprodukt" sind.
+              Lieferwege. Trelino stellt Produkte mit hoher Qualität her,
+              welche eine lange Lebensdauer aufweisen und somit keine
+              "Wegwerfprodukte" sind.
             </p>
 
             <h5 class="mb-3 mt-5">Zubehör</h5>
