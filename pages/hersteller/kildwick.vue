@@ -116,6 +116,7 @@
                   <li class="d-flex justify-content-between align-items-center">
                     <a>Webseite</a> <span>www.kildwick.com</span>
                   </li>
+                  <hr />
                 </ul>
                 <div class="sidebar-contact-info mt-4">
                   <p class="mb-0">Preis-Leistungs-Verhältnis</p>
