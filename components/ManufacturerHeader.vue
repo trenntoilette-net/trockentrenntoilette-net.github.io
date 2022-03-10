@@ -82,7 +82,7 @@
 
 <script>
 export default {
-  name: "produktheader",
+  name: "manufacturerheader",
   props: {
     productName: String,
     textContent: String,

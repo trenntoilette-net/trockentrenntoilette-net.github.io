@@ -75,7 +75,7 @@
 
 <script>
 export default {
-  name: "produktheader",
+  name: "productheader",
   props: {
     productName: String,
     textContent: String,

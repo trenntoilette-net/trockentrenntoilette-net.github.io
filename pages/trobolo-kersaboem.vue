@@ -94,8 +94,12 @@
             <h5 class="mb-3 mt-5">Nachhaltigkeit</h5>
 
             <p>
-              TROBOLO verwendet, wie auch bei der <NuxtLink to="/trobolo-terabloem/" title="TROBOLO TeraBlœm im Test">TROBOLO TeraBlœm</NuxtLink>,
-              ausschließlich nachhaltige Materialien. Das verwendet Holz ist
+              TROBOLO verwendet, wie auch bei der
+              <NuxtLink
+                to="/trobolo-terabloem/"
+                title="TROBOLO TeraBlœm im Test"
+                >TROBOLO TeraBlœm</NuxtLink
+              >, ausschließlich nachhaltige Materialien. Das verwendet Holz ist
               FSC®-zertifiziert. Somit wird nur Holz verwendet, welches aus
               verantwortungsvoller Waldwirtschaft ökologisch, sinnvoll und
               sozial gerecht abgebaut wird. Das von TROBOLO eigens entwickelte
@@ -209,13 +213,14 @@
                   </li>
                   <hr />
                   <li class="d-flex justify-content-between align-items-center">
-                    <a href="#">Bewertung</a> <div class="mb-1 mt-3">
-                    <small class="fa fa-star text-primary"></small>
-                    <small class="fa fa-star text-primary"></small>
-                    <small class="fa fa-star text-primary"></small>
-                    <small class="fa fa-star text-primary"></small>
-                    <small class="fa fa-star text-primary"></small>
-                  </div>
+                    <a href="#">Bewertung</a>
+                    <div class="mb-1 mt-3">
+                      <small class="fa fa-star text-primary"></small>
+                      <small class="fa fa-star text-primary"></small>
+                      <small class="fa fa-star text-primary"></small>
+                      <small class="fa fa-star text-primary"></small>
+                      <small class="fa fa-star text-primary"></small>
+                    </div>
                   </li>
                   <hr />
                 </ul>
@@ -326,7 +331,8 @@ export default {
               "@type": "ListItem",
               position: 2,
               item: {
-                "@id": "https://www.trockentrenntoilette.net/trobolo-kersaboem/",
+                "@id":
+                  "https://www.trockentrenntoilette.net/trobolo-kersaboem/",
                 name: "TROBOLO KersaBœm",
               },
             },
