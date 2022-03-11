@@ -139,7 +139,11 @@
           <div class="col-lg-7 col-md-6">
             <div class="row g-3">
               <div class="col-lg-12 col-md-12 zoomIn">
-                <a class="position-relative d-block overflow-hidden" href="">
+                <NuxtLink
+                  class="position-relative d-block overflow-hidden"
+                  to="/hersteller/trobolo/"
+                  title="Mehr über TROBOLO erfahren"
+                >
                   <div class="grayscaleContainer">
                     <nuxt-img
                       class="img-fluid grayscale"
@@ -165,7 +169,7 @@
                     <h5 class="m-0">TROBOLO</h5>
                     <!-- <small class="text-primary">Deutschland</small> -->
                   </div>
-                </a>
+                </NuxtLink>
               </div>
               <div class="col-lg-6 col-md-12 zoomIn">
                 <a class="position-relative d-block overflow-hidden" href="">
@@ -278,7 +282,10 @@
           <div class="col-lg-4 col-md-6 fadeInUp">
             <div class="course-item bg-light">
               <div class="position-relative overflow-hidden">
-                <NuxtLink to="/trelino-l/" title="Trelino L mit HPL Veredelung im Test">
+                <NuxtLink
+                  to="/trelino-l/"
+                  title="Trelino L mit HPL Veredelung im Test"
+                >
                   <nuxt-img
                     class="img-fluid"
                     src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trelino-l-hpl-veredelung.webp"
