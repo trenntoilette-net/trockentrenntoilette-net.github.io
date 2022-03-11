@@ -2,7 +2,7 @@
   <div>
     <ManufacturerHeader
       productName="TROBOLO"
-      textContent="TROBOLO ermöglicht eine autarke, komfortable und hygienische Toilettennutzung an jedem Ort und nahezu jedem Einsatzgebiet."
+      textContent="TROBOLO ermöglicht eine autarke, komfortable und hygienische Toilettennutzung an nahezu jedem Ort und Einsatzgebiet."
       productImage="/assets/images/hersteller/trobolo.webp"
       websiteUrl="https://www.trobolo.com/de/"
     ></ManufacturerHeader>
