@@ -170,7 +170,7 @@
                 >TROBOLO Online Shop</a
               >
             </div>
-            <div class="course-item bg-light mt-5">
+            <!-- <div class="course-item bg-light mt-5">
               <div class="position-relative overflow-hidden">
                 <NuxtLink
                   to="/trobolo-terabloem/"
@@ -230,7 +230,7 @@
                   ><i class="fa fa-check text-primary me-2"></i>Platz 1</small
                 >
               </div>
-            </div>
+            </div> -->
           </div>
         </div>
       </div>
