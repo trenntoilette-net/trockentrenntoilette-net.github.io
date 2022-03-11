@@ -71,14 +71,13 @@
             <h5 class="mb-3 mt-5" id="produkte">Produkte</h5>
 
             <p>
-              TROBOLO stellt Produkte für den mobilen Einsatz wie Camper, Vans
-              oder Wohnmobile her, aber auch Trockentrenntoiletten für den
-              Innen- und Außenbereich wie im Haus oder im Garten.
+              TROBOLO stellt Produkte für den Innen- und Außenbereich wie im Haus oder Garten her, aber auch den mobilen Einsatz wie Camper, Vans
+              oder Wohnmobile.
             </p>
             <p>
               Die Produkte von TROBOLO sehen optisch sehr ansprechend aus und
               werden aus Kiefernholz handgefertigt. In unseren Testberichten wie
-              über die TeraBlœm oder die KersaBœm Gartentoilette zeigten die
+              über die <NuxtLink to="/trobolo-terabloem/" title="TROBOLO TeraBlœm">TeraBlœm</NuxtLink> oder die <NuxtLink to="/trobolo-kersaboem/" title="TROBOLO KersaBœm">KersaBœm Gartentoilette</NuxtLink> zeigten die
               Produkte stets viel Liebe zum Detail.
             </p>
             <p>
@@ -170,6 +169,67 @@
                 style="display: block; width: 100%"
                 >TROBOLO Online Shop</a
               >
+            </div>
+            <div class="course-item bg-light mt-5">
+              <div class="position-relative overflow-hidden">
+                <NuxtLink
+                  to="/trobolo-terabloem/"
+                  title="TROBOLO TeraBlœm im Test"
+                >
+                  <nuxt-img
+                    class="img-fluid"
+                    src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp"
+                    alt="TROBOLO TeraBlœm"
+                  />
+                </NuxtLink>
+                <div
+                  class="
+                    w-100
+                    d-flex
+                    justify-content-center
+                    position-absolute
+                    bottom-0
+                    start-0
+                    mb-4
+                  "
+                >
+                  <NuxtLink
+                    to="/trobolo-terabloem/"
+                    class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
+                    style="border-radius: 30px 0 0 30px"
+                    title="TROBOLO TeraBlœm im Test"
+                    >Testbericht</NuxtLink
+                  >
+                  <a
+                    href="https://trobolo.com/de/produkte/terabloem/"
+                    class="flex-shrink-0 btn btn-sm btn-primary px-3"
+                    style="border-radius: 0 30px 30px 0"
+                    target="_blank"
+                    rel="nofollow noopener"
+                    >Bestellen</a
+                  >
+                </div>
+              </div>
+              <div class="text-center p-4 pb-0">
+                <h3 class="mb-0">429,00 €</h3>
+                <div class="mb-3">
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small class="fa fa-star text-primary"></small>
+                  <small>(429)</small>
+                </div>
+                <h5 class="mb-4">TROBOLO® TeraBlœm</h5>
+              </div>
+              <div class="d-flex border-top">
+                <small class="flex-fill text-center border-end py-2"
+                  ><i class="fa fa-toilet text-primary me-2"></i>TROBOLO</small
+                >
+                <small class="flex-fill text-center border-end py-2"
+                  ><i class="fa fa-check text-primary me-2"></i>Platz 1</small
+                >
+              </div>
             </div>
           </div>
         </div>

@@ -60,7 +60,7 @@
               <div class="col-sm-12">
                 <p class="mb-0">
                   <a href="#fazit">
-                  <i class="fa fa-arrow-right text-primary me-2"></i>Fazit
+                  <i class="fa fa-arrow-right text-primary me-2"></i>Unser Fazit
                   </a>
                 </p>
               </div>
