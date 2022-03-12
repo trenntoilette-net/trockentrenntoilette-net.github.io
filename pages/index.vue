@@ -8,7 +8,7 @@
             <div class="position-relative h-100">
               <nuxt-img
                 class="img-fluid position-absolute w-100 h-100"
-                src="/assets/images/feature-trockentrenntoilette-trobolo-luweblœm.webp"
+                src="/assets/images/feature-trockentrenntoilette-trobolo-luwebloem.webp"
                 alt="TROBOLO LuweBlœm"
                 style="object-fit: cover; object-position: center bottom"
               />
@@ -97,7 +97,7 @@
               <div class="p-4">
                 <i class="fa fa-3x fa-sun text-primary mb-4"></i>
                 <h5 class="mb-3">Autark</h5>
-                <p>Sie benötigen keine zusätzlichen Sanitären Anschlüsse</p>
+                <p>Sie benötigen keine zusätzlichen Sanitäranschlüsse</p>
               </div>
             </div>
           </div>
@@ -269,7 +269,7 @@
     </div>
     <!-- Categories Start -->
 
-    <!-- Courses Start -->
+    <!-- Testsieger Start -->
     <div class="container-xxl py-5" id="testsieger">
       <div class="container">
         <div class="text-center fadeInUp">
@@ -279,199 +279,17 @@
           <h1 class="mb-5">Testsieger</h1>
         </div>
         <div class="row g-4 justify-content-center">
-          <div class="col-lg-4 col-md-6 fadeInUp">
-            <div class="course-item bg-light">
-              <div class="position-relative overflow-hidden">
-                <NuxtLink
-                  to="/trelino-l/"
-                  title="Trelino L mit HPL Veredelung im Test"
-                >
-                  <nuxt-img
-                    class="img-fluid"
-                    src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trelino-l-hpl-veredelung.webp"
-                    alt="Trelino L mit HPL Veredelung"
-                  />
-                </NuxtLink>
-                <div
-                  class="
-                    w-100
-                    d-flex
-                    justify-content-center
-                    position-absolute
-                    bottom-0
-                    start-0
-                    mb-4
-                  "
-                >
-                  <NuxtLink
-                    to="/trelino-l/"
-                    class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
-                    style="border-radius: 30px 0 0 30px"
-                    title="Trelino L mit HPL Veredelung im Test"
-                    >Testbericht</NuxtLink
-                  >
-                  <a
-                    href="https://www.trelino.com/de/collections/trelino-l/products/trelino-l-wood-hpl-composting-toilet"
-                    class="flex-shrink-0 btn btn-sm btn-primary px-3"
-                    style="border-radius: 0 30px 30px 0"
-                    target="_blank"
-                    rel="nofollow noopener"
-                    >Bestellen</a
-                  >
-                </div>
-              </div>
-              <div class="text-center p-4 pb-0">
-                <h3 class="mb-0">799,00 €</h3>
-                <div class="mb-3">
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-default"></small>
-                  <small>(299)</small>
-                </div>
-                <h5 class="mb-4">Trelino L mit HPL Veredelung</h5>
-              </div>
-              <div class="d-flex border-top">
-                <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-toilet text-primary me-2"></i>Trelino</small
-                >
-                <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-check text-primary me-2"></i>Platz 2</small
-                >
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 fadeInUp">
-            <div class="course-item bg-light">
-              <div class="position-relative overflow-hidden">
-                <NuxtLink
-                  to="/trobolo-terabloem/"
-                  title="TROBOLO TeraBlœm im Test"
-                >
-                  <nuxt-img
-                    class="img-fluid"
-                    src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp"
-                    alt="TROBOLO TeraBlœm"
-                  />
-                </NuxtLink>
-                <div
-                  class="
-                    w-100
-                    d-flex
-                    justify-content-center
-                    position-absolute
-                    bottom-0
-                    start-0
-                    mb-4
-                  "
-                >
-                  <NuxtLink
-                    to="/trobolo-terabloem/"
-                    class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
-                    style="border-radius: 30px 0 0 30px"
-                    title="TROBOLO TeraBlœm im Test"
-                    >Testbericht</NuxtLink
-                  >
-                  <a
-                    href="https://trobolo.com/de/produkte/terabloem/"
-                    class="flex-shrink-0 btn btn-sm btn-primary px-3"
-                    style="border-radius: 0 30px 30px 0"
-                    target="_blank"
-                    rel="nofollow noopener"
-                    >Bestellen</a
-                  >
-                </div>
-              </div>
-              <div class="text-center p-4 pb-0">
-                <h3 class="mb-0">429,00 €</h3>
-                <div class="mb-3">
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small>(429)</small>
-                </div>
-                <h5 class="mb-4">TROBOLO® TeraBlœm</h5>
-              </div>
-              <div class="d-flex border-top">
-                <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-toilet text-primary me-2"></i>TROBOLO</small
-                >
-                <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-check text-primary me-2"></i>Platz 1</small
-                >
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 fadeInUp">
-            <div class="course-item bg-light">
-              <div class="position-relative overflow-hidden">
-                <NuxtLink
-                  to="/kildwick-miniloo/"
-                  title="Kildwick MiniLoo Campingtoilette im Test"
-                >
-                  <nuxt-img
-                    class="img-fluid"
-                    src="/assets/images/trockentrenntoiletten/trockentrenntoilette-kildwick-miniloo.webp"
-                    alt="Kildwick MiniLoo"
-                  />
-                </NuxtLink>
-                <div
-                  class="
-                    w-100
-                    d-flex
-                    justify-content-center
-                    position-absolute
-                    bottom-0
-                    start-0
-                    mb-4
-                  "
-                >
-                  <NuxtLink
-                    to="/kildwick-miniloo/"
-                    title="Kildwick MiniLoo Campingtoilette im Test"
-                    class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
-                    style="border-radius: 30px 0 0 30px"
-                    >Testbericht</NuxtLink
-                  >
-                  <a
-                    href="https://www.kildwick.com/Kildwick-Bausatz-Campingtoilette-Komposttoilette-MiniLoo"
-                    class="flex-shrink-0 btn btn-sm btn-primary px-3"
-                    style="border-radius: 0 30px 30px 0"
-                    target="_blank"
-                    rel="nofollow noopener"
-                    >Bestellen</a
-                  >
-                </div>
-              </div>
-              <div class="text-center p-4 pb-0">
-                <h3 class="mb-0">399,90 €</h3>
-                <div class="mb-3">
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-default"></small>
-                  <small>(189)</small>
-                </div>
-                <h5 class="mb-4">Kildwick MiniLoo</h5>
-              </div>
-              <div class="d-flex border-top">
-                <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-toilet text-primary me-2"></i>Kildwick</small
-                >
-                <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-check text-primary me-2"></i>Platz 3</small
-                >
-              </div>
-            </div>
+          <div
+            v-for="product in featured"
+            :key="product.name"
+            class="col-lg-4 col-md-6 fadeInUp"
+          >
+            <ProductItem :product="product" />
           </div>
         </div>
       </div>
     </div>
-    <!-- Courses End -->
+    <!-- Testsieger End -->
 
     <div class="container-xxl py-5">
       <div class="container">
@@ -611,7 +429,7 @@
     </div>
     <!-- Team End -->
 
-    <!-- Courses Start -->
+    <!-- Innenbereich Start -->
     <div class="container-xxl py-5" id="produkte">
       <div class="container">
         <div class="text-center fadeInUp">
@@ -621,537 +439,67 @@
           <h1 class="mb-5">Innenbereich</h1>
         </div>
         <div class="row g-4 justify-content-center">
-          <div class="col-lg-4 col-md-6 fadeInUp">
-            <div class="course-item bg-light">
-              <div class="position-relative overflow-hidden">
-                <NuxtLink
-                  to="/trobolo-terabloem/"
-                  title="TROBOLO TeraBlœm im Test"
-                >
-                  <nuxt-img
-                    class="img-fluid"
-                    src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp"
-                    alt="TROBOLO TeraBlœm"
-                  />
-                </NuxtLink>
-                <div
-                  class="
-                    w-100
-                    d-flex
-                    justify-content-center
-                    position-absolute
-                    bottom-0
-                    start-0
-                    mb-4
-                  "
-                >
-                  <NuxtLink
-                    to="/trobolo-terabloem/"
-                    class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
-                    style="border-radius: 30px 0 0 30px"
-                    title="TROBOLO TeraBlœm im Test"
-                    >Testbericht</NuxtLink
-                  >
-                  <a
-                    href="https://trobolo.com/de/produkte/terabloem/"
-                    class="flex-shrink-0 btn btn-sm btn-primary px-3"
-                    style="border-radius: 0 30px 30px 0"
-                    target="_blank"
-                    rel="nofollow noopener"
-                    >Bestellen</a
-                  >
-                </div>
-              </div>
-              <div class="text-center p-4 pb-0">
-                <h3 class="mb-0">429,00 €</h3>
-                <div class="mb-3">
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small>(429)</small>
-                </div>
-                <h5 class="mb-4">TROBOLO® TeraBlœm</h5>
-              </div>
-              <div class="d-flex border-top">
-                <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-link text-primary me-2"></i
-                  >Testbericht</small
-                >
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 fadeInUp">
-            <div class="course-item bg-light">
-              <div class="position-relative overflow-hidden">
-                <nuxt-img
-                  class="img-fluid"
-                  src="/assets/images/trockentrenntoiletten/trenntoilette-trobolo-luwebloem.webp"
-                  alt="TROBOLO LuweBlœm"
-                />
-                <div
-                  class="
-                    w-100
-                    d-flex
-                    justify-content-center
-                    position-absolute
-                    bottom-0
-                    start-0
-                    mb-4
-                  "
-                >
-                  <a
-                    href="#"
-                    class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
-                    style="border-radius: 30px 0 0 30px"
-                    >Testbericht</a
-                  >
-                  <a
-                    href="#"
-                    class="flex-shrink-0 btn btn-sm btn-primary px-3"
-                    style="border-radius: 0 30px 30px 0"
-                    >Bestellen</a
-                  >
-                </div>
-              </div>
-              <div class="text-center p-4 pb-0">
-                <h3 class="mb-0">649,00 €</h3>
-                <div class="mb-3">
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small>(299)</small>
-                </div>
-                <h5 class="mb-4">TROBOLO LuweBlœm</h5>
-              </div>
-              <div class="d-flex border-top">
-                <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-link text-primary me-2"></i
-                  >Testbericht</small
-                >
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 fadeInUp">
-            <div class="course-item bg-light">
-              <div class="position-relative overflow-hidden">
-                <nuxt-img
-                  class="img-fluid"
-                  src="/assets/images/trockentrenntoiletten/trockentrenntoilette-meinetrenntoilette-separett-tiny.webp"
-                  alt="Separett Tiny"
-                />
-                <div
-                  class="
-                    w-100
-                    d-flex
-                    justify-content-center
-                    position-absolute
-                    bottom-0
-                    start-0
-                    mb-4
-                  "
-                >
-                  <a
-                    href="#"
-                    class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
-                    style="border-radius: 30px 0 0 30px"
-                    >Testbericht</a
-                  >
-                  <a
-                    href="#"
-                    class="flex-shrink-0 btn btn-sm btn-primary px-3"
-                    style="border-radius: 0 30px 30px 0"
-                    >Bestellen</a
-                  >
-                </div>
-              </div>
-              <div class="text-center p-4 pb-0">
-                <h3 class="mb-0">879,00 €</h3>
-                <div class="mb-3">
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-default"></small>
-                  <small>(189)</small>
-                </div>
-                <h5 class="mb-4">MeineTrenntoilette Separett Tiny</h5>
-              </div>
-              <div class="d-flex border-top">
-                <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-link text-primary me-2"></i
-                  >Testbericht</small
-                >
-              </div>
-            </div>
+          <div
+            v-for="product in innenbereich"
+            :key="product.name"
+            class="col-lg-4 col-md-6 fadeInUp"
+          >
+            <ProductItem :product="product" />
           </div>
         </div>
       </div>
     </div>
-    <!-- Courses End -->
+    <!-- Innenbereich End -->
 
-    <!-- Courses Start -->
+    <!-- Gartentoiletten Start -->
     <div class="container-xxl py-5" id="gartentoiletten">
       <div class="container">
         <div class="text-center fadeInUp">
           <h6 class="section-title bg-white text-center text-primary px-3">
             Trockentrenntoiletten
           </h6>
-          <h1 class="mb-5">Garten Toiletten</h1>
+          <h1 class="mb-5">Gartentoiletten</h1>
         </div>
         <div class="row g-4 justify-content-center">
-          <div class="col-lg-4 col-md-6 fadeInUp">
-            <div class="course-item bg-light">
-              <div class="position-relative overflow-hidden">
-                <nuxt-img
-                  class="img-fluid"
-                  src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-kitaboem.webp"
-                  alt="TROBOLO KitaBœm"
-                />
-                <div
-                  class="
-                    w-100
-                    d-flex
-                    justify-content-center
-                    position-absolute
-                    bottom-0
-                    start-0
-                    mb-4
-                  "
-                >
-                  <a
-                    href="#"
-                    class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
-                    style="border-radius: 30px 0 0 30px"
-                    >Testbericht</a
-                  >
-                  <a
-                    href="#"
-                    class="flex-shrink-0 btn btn-sm btn-primary px-3"
-                    style="border-radius: 0 30px 30px 0"
-                    >Bestellen</a
-                  >
-                </div>
-              </div>
-              <div class="text-center p-4 pb-0">
-                <h3 class="mb-0">2.389,00 €</h3>
-                <div class="mb-3">
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small>(145)</small>
-                </div>
-                <h5 class="mb-4">TROBOLO® KitaBœm</h5>
-              </div>
-              <div class="d-flex border-top">
-                <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-link text-primary me-2"></i
-                  >Testbericht</small
-                >
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 fadeInUp">
-            <div class="course-item bg-light">
-              <div class="position-relative overflow-hidden">
-                <nuxt-img
-                  class="img-fluid"
-                  src="/assets/images/trockentrenntoiletten/trockentrenntoilette-meinetrenntoilette-trelino-l.webp"
-                  alt="Trelino L"
-                />
-                <div
-                  class="
-                    w-100
-                    d-flex
-                    justify-content-center
-                    position-absolute
-                    bottom-0
-                    start-0
-                    mb-4
-                  "
-                >
-                  <a
-                    href="#"
-                    class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
-                    style="border-radius: 30px 0 0 30px"
-                    >Testbericht</a
-                  >
-                  <a
-                    href="#"
-                    class="flex-shrink-0 btn btn-sm btn-primary px-3"
-                    style="border-radius: 0 30px 30px 0"
-                    >Bestellen</a
-                  >
-                </div>
-              </div>
-              <div class="text-center p-4 pb-0">
-                <h3 class="mb-0">659,91 €</h3>
-                <div class="mb-3">
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-default"></small>
-                  <small>(199)</small>
-                </div>
-                <h5 class="mb-4">Trelino L</h5>
-              </div>
-              <div class="d-flex border-top">
-                <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-link text-primary me-2"></i
-                  >Testbericht</small
-                >
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 fadeInUp">
-            <div class="course-item bg-light">
-              <div class="position-relative overflow-hidden">
-                <NuxtLink
-                  to="/trobolo-kersaboem/"
-                  title="TROBOLO KersaBœm Gartentoilette im Test"
-                >
-                  <nuxt-img
-                    class="img-fluid"
-                    src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-kersaboem.webp"
-                    alt="TROBOLO KersaBœm"
-                  />
-                </NuxtLink>
-                <div
-                  class="
-                    w-100
-                    d-flex
-                    justify-content-center
-                    position-absolute
-                    bottom-0
-                    start-0
-                    mb-4
-                  "
-                >
-                  <NuxtLink
-                    to="/trobolo-kersaboem/"
-                    class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
-                    style="border-radius: 30px 0 0 30px"
-                    title="TROBOLO KersaBœm Gartentoilette im Test"
-                    >Testbericht</NuxtLink
-                  >
-                  <a
-                    href="https://trobolo.com/de/produkte/kersaboem/"
-                    class="flex-shrink-0 btn btn-sm btn-primary px-3"
-                    style="border-radius: 0 30px 30px 0"
-                    target="_blank"
-                    rel="nofollow noopener"
-                    >Bestellen</a
-                  >
-                </div>
-              </div>
-              <div class="text-center p-4 pb-0">
-                <h3 class="mb-0">1.879,00 €</h3>
-                <div class="mb-3">
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small>(412)</small>
-                </div>
-                <h5 class="mb-4">TROBOLO KersaBœm</h5>
-              </div>
-              <div class="d-flex border-top">
-                <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-link text-primary me-2"></i
-                  >Testbericht</small
-                >
-              </div>
-            </div>
+          <div
+            v-for="product in gartentoiletten"
+            :key="product.name"
+            class="col-lg-4 col-md-6 fadeInUp"
+          >
+            <ProductItem :product="product" />
           </div>
         </div>
       </div>
     </div>
-    <!-- Courses End -->
+    <!-- Gartentoiletten End -->
 
-    <!-- Courses Start -->
+    <!-- Campingtoiletten Start -->
     <div class="container-xxl py-5" id="campingtoiletten">
       <div class="container">
         <div class="text-center fadeInUp">
           <h6 class="section-title bg-white text-center text-primary px-3">
             Trockentrenntoiletten
           </h6>
-          <h1 class="mb-5">Camping Toiletten</h1>
+          <h1 class="mb-5">Campingtoiletten</h1>
         </div>
         <div class="row g-4 justify-content-center">
-          <div class="col-lg-4 col-md-6 fadeInUp">
-            <div class="course-item bg-light">
-              <div class="position-relative overflow-hidden">
-                <nuxt-img
-                  class="img-fluid"
-                  src="/assets/images/trockentrenntoiletten/trockentrenntoilette-kildwick-miniloo-dry.webp"
-                  alt="Kildwick MiniLoo Dry"
-                />
-                <div
-                  class="
-                    w-100
-                    d-flex
-                    justify-content-center
-                    position-absolute
-                    bottom-0
-                    start-0
-                    mb-4
-                  "
-                >
-                  <a
-                    href="#"
-                    class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
-                    style="border-radius: 30px 0 0 30px"
-                    >Testbericht</a
-                  >
-                  <a
-                    href="#"
-                    class="flex-shrink-0 btn btn-sm btn-primary px-3"
-                    style="border-radius: 0 30px 30px 0"
-                    >Bestellen</a
-                  >
-                </div>
-              </div>
-              <div class="text-center p-4 pb-0">
-                <h3 class="mb-0">549,90 €</h3>
-                <div class="mb-3">
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-default"></small>
-                  <small>(342)</small>
-                </div>
-                <h5 class="mb-4">Kildwick MiniLoo Dry</h5>
-              </div>
-              <div class="d-flex border-top">
-                <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-link text-primary me-2"></i
-                  >Testbericht</small
-                >
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 fadeInUp">
-            <div class="course-item bg-light">
-              <div class="position-relative overflow-hidden">
-                <nuxt-img
-                  class="img-fluid"
-                  src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-indiebloem.webp"
-                  alt="TROBOLO IndieBlœm"
-                />
-                <div
-                  class="
-                    w-100
-                    d-flex
-                    justify-content-center
-                    position-absolute
-                    bottom-0
-                    start-0
-                    mb-4
-                  "
-                >
-                  <a
-                    href="#"
-                    class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
-                    style="border-radius: 30px 0 0 30px"
-                    >Testbericht</a
-                  >
-                  <a
-                    href="#"
-                    class="flex-shrink-0 btn btn-sm btn-primary px-3"
-                    style="border-radius: 0 30px 30px 0"
-                    >Bestellen</a
-                  >
-                </div>
-              </div>
-              <div class="text-center p-4 pb-0">
-                <h3 class="mb-0">689,00 €</h3>
-                <div class="mb-3">
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small>(334)</small>
-                </div>
-                <h5 class="mb-4">TROBOLO IndiBlœm</h5>
-              </div>
-              <div class="d-flex border-top">
-                <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-link text-primary me-2"></i
-                  >Testbericht</small
-                >
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 fadeInUp">
-            <div class="course-item bg-light">
-              <div class="position-relative overflow-hidden">
-                <nuxt-img
-                  class="img-fluid"
-                  src="/assets/images/trockentrenntoiletten/trockentrenntoilette-meinetrenntoilette-trelino-m-weiss.webp"
-                  alt="Trelino M in weiss"
-                />
-                <div
-                  class="
-                    w-100
-                    d-flex
-                    justify-content-center
-                    position-absolute
-                    bottom-0
-                    start-0
-                    mb-4
-                  "
-                >
-                  <a
-                    href="#"
-                    class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
-                    style="border-radius: 30px 0 0 30px"
-                    >Testbericht</a
-                  >
-                  <a
-                    href="#"
-                    class="flex-shrink-0 btn btn-sm btn-primary px-3"
-                    style="border-radius: 0 30px 30px 0"
-                    >Bestellen</a
-                  >
-                </div>
-              </div>
-              <div class="text-center p-4 pb-0">
-                <h3 class="mb-0">399,90 €</h3>
-                <div class="mb-3">
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-default"></small>
-                  <small>(189)</small>
-                </div>
-                <h5 class="mb-4">MeineTrenntoilette Trelino M (weiss)</h5>
-              </div>
-              <div class="d-flex border-top">
-                <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-link text-primary me-2"></i
-                  >Testbericht</small
-                >
-              </div>
-            </div>
+          <div
+            v-for="product in campingtoiletten"
+            :key="product.name"
+            class="col-lg-4 col-md-6 fadeInUp"
+          >
+            <ProductItem :product="product" />
           </div>
         </div>
       </div>
     </div>
-    <!-- Courses End -->
+    <!-- Campingtoiletten End -->
   </div>
 </template>
 
 <script>
+import products from "~/assets/products.json";
+
 export default {
   name: "IndexPage",
   head: {
@@ -1164,6 +512,20 @@ export default {
           "Testberichte und Empfehlungen für die richtige Trockentrenntoilette. Hersteller und Produktvergleich. Vor dem Kauf informieren. Das Vergleichsportal.",
       },
     ],
+  },
+  asyncData: () => {
+    return {
+      featured: products.filter((x) => x.featured == 1 && x.winner == 1),
+      innenbereich: products.filter(
+        (x) => x.featured && x.category == "Innenbereich"
+      ),
+      gartentoiletten: products.filter(
+        (x) => x.featured && x.category == "Gartentoilette"
+      ),
+      campingtoiletten: products.filter(
+        (x) => x.featured && x.category == "Campingtoilette"
+      ),
+    };
   },
 };
 </script>

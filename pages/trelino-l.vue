@@ -86,9 +86,9 @@
               Trelino nutzt für die Herstellung der Trelino L recyclefähige
               Materialien um die Produktion nachhaltig zu gestalten. Die
               Produktion findet in Deutschland statt und hat somit kurze
-              Lieferwege. Trelino stellt Produkte mit hoher Qualität her,
-              welche eine lange Lebensdauer aufweisen und somit keine
-              "Wegwerfprodukte" sind.
+              Lieferwege. Trelino stellt Produkte mit hoher Qualität her, welche
+              eine lange Lebensdauer aufweisen und somit keine "Wegwerfprodukte"
+              sind.
             </p>
 
             <h5 class="mb-3 mt-5">Zubehör</h5>
@@ -158,60 +158,7 @@
             >
           </div>
           <div class="col-lg-4 fadeInUp">
-            <div>
-              <div class="sidebar-widget schedule-widget mt-5">
-                <h5 class="mb-4">Trelino L mit HPL Veredelung</h5>
-                <ul class="list-unstyled">
-                  <li class="d-flex justify-content-between align-items-center">
-                    <a href="#">Marke</a> <span>Trelino</span>
-                  </li>
-                  <hr />
-                  <li class="d-flex justify-content-between align-items-center">
-                    <a href="#">Material</a>
-                    <span>Mehrschichtiges Birkenholz</span>
-                  </li>
-                  <hr />
-                  <li class="d-flex justify-content-between align-items-center">
-                    <a href="#">Maße</a>
-                    <span>Höhe 468 - Tiefe 386 - Breite 316 mm</span>
-                  </li>
-                  <hr />
-                  <li class="d-flex justify-content-between align-items-center">
-                    <a href="#">Gewicht</a> <span>8,2 kg</span>
-                  </li>
-                  <hr />
-                  <li class="d-flex justify-content-between align-items-center">
-                    <a href="#">Traglast</a> <span>150 kg</span>
-                  </li>
-                  <hr />
-                  <li class="d-flex justify-content-between align-items-center">
-                    <a href="#">Funktion</a> <span>Trennsystem</span>
-                  </li>
-                  <hr />
-                  <li class="d-flex justify-content-between align-items-center">
-                    <a href="#">Bewertung</a> <div class="mb-1 mt-3">
-                    <small class="fa fa-star text-primary"></small>
-                    <small class="fa fa-star text-primary"></small>
-                    <small class="fa fa-star text-primary"></small>
-                    <small class="fa fa-star text-primary"></small>
-                    <small class="fa fa-star text-default"></small>
-                  </div>
-                  </li>
-                  <hr />
-                </ul>
-                <div class="sidebar-contact-info mt-4">
-                  <p class="mb-0">Preis</p>
-                  <h3>799,00 EUR</h3>
-                </div>
-              </div>
-            </div>
-            <div>
-              <!-- <nuxt-img
-                class="img-fluid"
-                src="/assets/images/trockentrenntoiletten/trockentrenntoilette-meinetrenntoilette-trelino-l.webp"
-                alt="TROBOLO LuweBlœm"
-              /> -->
-            </div>
+            <ProductCard :product="product" />
             <div class="mt-5">
               <a
                 class="btn btn-primary py-3 px-5"
@@ -231,6 +178,8 @@
 </template>
 
 <script>
+import products from "~/assets/products.json";
+
 export default {
   name: "Trelino L mit HPL Veredelung",
   head: {
@@ -243,6 +192,13 @@ export default {
           "Trockentrenntoilette Trelino L mit HPL Veredelung im Test. Vorteile und Nachteile. Kriterien: Geruchtsentwicklung, Komfort, Hygiene, Entlerrung und Preis.",
       },
     ],
+  },
+  asyncData: () => {
+    return {
+      product: products.find(
+        (item) => item.name === "Trelino L mit HPL Veredelung"
+      ),
+    };
   },
   jsonld() {
     return {

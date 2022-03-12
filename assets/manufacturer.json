@@ -1,0 +1,20 @@
+[
+    {
+        "brand": "TROBOLO",
+        "location": "Hannover",
+        "products": "Trockentrenntoiletten",
+        "email": "kontakt@trobolo.com",
+        "phone": "+49 511 515 10 816",
+        "url": "www.trobolo.com",
+        "stars": 5
+    },
+    {
+        "brand": "Kildwick",
+        "location": "Leipzig",
+        "products": "Trockentrenntoiletten",
+        "email": "hello@kildwick.com",
+        "phone": "+49 341 355 21 876",
+        "url": "www.kildwick.com",
+        "stars": 4
+    }
+]

@@ -146,60 +146,7 @@
             >
           </div>
           <div class="col-lg-4 fadeInUp">
-            <div>
-              <div class="sidebar-widget schedule-widget mt-5">
-                <h5 class="mb-4">TROBOLO TeraBlœm</h5>
-                <ul class="list-unstyled">
-                  <li class="d-flex justify-content-between align-items-center">
-                    <a href="#">Marke</a> <span>TROBOLO®</span>
-                  </li>
-                  <hr />
-                  <li class="d-flex justify-content-between align-items-center">
-                    <a href="#">Material</a>
-                    <span>15 mm massives Kiefernholz</span>
-                  </li>
-                  <hr />
-                  <li class="d-flex justify-content-between align-items-center">
-                    <a href="#">Maße</a>
-                    <span>Höhe 497 - Tiefe 470 - Breite 330 mm</span>
-                  </li>
-                  <hr />
-                  <li class="d-flex justify-content-between align-items-center">
-                    <a href="#">Gewicht</a> <span>160 kg</span>
-                  </li>
-                  <hr />
-                  <li class="d-flex justify-content-between align-items-center">
-                    <a href="#">Traglast</a> <span>200 kg</span>
-                  </li>
-                  <hr />
-                  <li class="d-flex justify-content-between align-items-center">
-                    <a href="#">Funktion</a> <span>Trennsystem</span>
-                  </li>
-                  <hr />
-                  <li class="d-flex justify-content-between align-items-center">
-                    <a href="#">Bewertung</a> <div class="mb-1 mt-3">
-                    <small class="fa fa-star text-primary"></small>
-                    <small class="fa fa-star text-primary"></small>
-                    <small class="fa fa-star text-primary"></small>
-                    <small class="fa fa-star text-primary"></small>
-                    <small class="fa fa-star text-primary"></small>
-                  </div>
-                  </li>
-                  <hr />
-                </ul>
-                <div class="sidebar-contact-info mt-4">
-                  <p class="mb-0">Preis</p>
-                  <h3>429,00 EUR</h3>
-                </div>
-              </div>
-            </div>
-            <div>
-              <!-- <nuxt-img
-                class="img-fluid"
-                src="assets/images/feature-trockentrenntoilette-trobolo-luweblœm.webp"
-                alt="TROBOLO LuweBlœm"
-              /> -->
-            </div>
+            <ProductCard :product="product" />
             <div class="mt-5">
               <a
                 class="btn btn-primary py-3 px-5"
@@ -219,6 +166,8 @@
 </template>
 
 <script>
+import products from "~/assets/products.json";
+
 export default {
   name: "TeraBloem",
   head: {
@@ -231,6 +180,11 @@ export default {
           "Trockentrenntoilette TROBOLO TeraBlœm im Test. Vorteile und Nachteile. Kriterien: Geruchtsentwicklung, Komfort, Hygiene, Entlerrung und Preis.",
       },
     ],
+  },
+  asyncData: () => {
+    return {
+      product: products.find((item) => item.name === "TROBOLO TeraBlœm"),
+    };
   },
   jsonld() {
     return {

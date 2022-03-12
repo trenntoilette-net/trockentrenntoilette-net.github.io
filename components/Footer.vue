@@ -37,7 +37,7 @@
                             <nuxt-img class="img-fluid bg-light p-1" src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-indiebloem.webp" alt="TROBOLO IndieBlœm" />
                         </div>
                         <div class="col-4">
-                            <nuxt-img class="img-fluid bg-light p-1" src="/assets/images/trockentrenntoiletten/trockentrenntoilette-meinetrenntoilette-trelino-l.webp" alt="Trelino L" />
+                            <nuxt-img class="img-fluid bg-light p-1" src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trelino-trelino-l.webp" alt="Trelino L" />
                         </div>
                         <div class="col-4">
                             <nuxt-img class="img-fluid bg-light p-1" src="/assets/images/trockentrenntoiletten/trockentrenntoilette-kildwick-miniloo.webp" alt="Kildwick MiniLoo" />

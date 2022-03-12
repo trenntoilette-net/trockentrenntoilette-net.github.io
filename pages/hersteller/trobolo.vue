@@ -21,13 +21,15 @@
               von DIXI Klos.
             </p>
             <p>
-              Etabliert hat sich das Unternehmen vor allem aber durch autarke und umweltfreundliche Trockentrenntoiletten, welche für nahezu alle
-              Einsatzgebiete handgefertigt hergestellt werden und optisch modern und ansprechend aussehen.
+              Etabliert hat sich das Unternehmen vor allem aber durch autarke
+              und umweltfreundliche Trockentrenntoiletten, welche für nahezu
+              alle Einsatzgebiete handgefertigt hergestellt werden und optisch
+              modern und ansprechend aussehen.
             </p>
             <p>
               Die Produkte von TROBOLO sind qualitativ sehr hochwertig,
-              funktionieren ohne Wasser oder Chemie und sind für den umweltbewussten
-              Menschen entwickelt worden.
+              funktionieren ohne Wasser oder Chemie und sind für den
+              umweltbewussten Menschen entwickelt worden.
             </p>
 
             <h5 class="mb-3 mt-5" id="unternehmen">Unternehmen</h5>
@@ -71,14 +73,22 @@
             <h5 class="mb-3 mt-5" id="produkte">Produkte</h5>
 
             <p>
-              TROBOLO stellt Produkte für den Innen- und Außenbereich wie im Haus oder Garten her, aber auch den mobilen Einsatz wie Camper, Vans
-              oder Wohnmobile.
+              TROBOLO stellt Produkte für den Innen- und Außenbereich wie im
+              Haus oder Garten her, aber auch den mobilen Einsatz wie Camper,
+              Vans oder Wohnmobile.
             </p>
             <p>
               Die Produkte von TROBOLO sehen optisch sehr ansprechend aus und
               werden aus Kiefernholz handgefertigt. In unseren Testberichten wie
-              über die <NuxtLink to="/trobolo-terabloem/" title="TROBOLO TeraBlœm">TeraBlœm</NuxtLink> oder die <NuxtLink to="/trobolo-kersaboem/" title="TROBOLO KersaBœm">KersaBœm Gartentoilette</NuxtLink> zeigten die
-              Produkte stets viel Liebe zum Detail.
+              über die
+              <NuxtLink to="/trobolo-terabloem/" title="TROBOLO TeraBlœm"
+                >TeraBlœm</NuxtLink
+              >
+              oder die
+              <NuxtLink to="/trobolo-kersaboem/" title="TROBOLO KersaBœm"
+                >KersaBœm Gartentoilette</NuxtLink
+              >
+              zeigten die Produkte stets viel Liebe zum Detail.
             </p>
             <p>
               Ebenfalls stellt TROBOLO sämtliches Zubehör her wie Einstreu aus
@@ -115,51 +125,7 @@
             >
           </div>
           <div class="col-lg-4 fadeInUp">
-            <div>
-              <div class="sidebar-widget schedule-widget mt-5">
-                <h5 class="mb-4">TROBOLO</h5>
-                <ul class="list-unstyled">
-                  <li class="d-flex justify-content-between align-items-center">
-                    <a>Firmensitz</a> <span>Hannover</span>
-                  </li>
-                  <hr />
-                  <li class="d-flex justify-content-between align-items-center">
-                    <a>Produkte</a>
-                    <span>Trockentrenntoiletten</span>
-                  </li>
-                  <hr />
-                  <li class="d-flex justify-content-between align-items-center">
-                    <a>Email</a> <span>kontakt@trobolo.com</span>
-                  </li>
-                  <hr />
-                  <li class="d-flex justify-content-between align-items-center">
-                    <a>Telefon</a> <span>+49 511 515 10 816</span>
-                  </li>
-                  <hr />
-                  <li class="d-flex justify-content-between align-items-center">
-                    <a>Webseite</a> <span>www.trobolo.com</span>
-                  </li>
-                  <hr />
-                </ul>
-                <div class="sidebar-contact-info mt-4">
-                  <p class="mb-0">Preis-Leistungs-Verhältnis</p>
-                  <div class="mb-1 mt-3">
-                    <small class="fa fa-star text-primary"></small>
-                    <small class="fa fa-star text-primary"></small>
-                    <small class="fa fa-star text-primary"></small>
-                    <small class="fa fa-star text-primary"></small>
-                    <small class="fa fa-star text-primary"></small>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div>
-              <!-- <nuxt-img
-                class="img-fluid"
-                src="/assets/images/trockentrenntoiletten/trockentrenntoilette-meinetrenntoilette-trelino-l.webp"
-                alt="TROBOLO LuweBlœm"
-              /> -->
-            </div>
+            <ManufacturerCard :manufacturer="manufacturer" />
             <div class="mt-5">
               <a
                 class="btn btn-primary py-3 px-5"
@@ -170,76 +136,34 @@
                 >TROBOLO Online Shop</a
               >
             </div>
-            <!-- <div class="course-item bg-light mt-5">
-              <div class="position-relative overflow-hidden">
-                <NuxtLink
-                  to="/trobolo-terabloem/"
-                  title="TROBOLO TeraBlœm im Test"
-                >
-                  <nuxt-img
-                    class="img-fluid"
-                    src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp"
-                    alt="TROBOLO TeraBlœm"
-                  />
-                </NuxtLink>
-                <div
-                  class="
-                    w-100
-                    d-flex
-                    justify-content-center
-                    position-absolute
-                    bottom-0
-                    start-0
-                    mb-4
-                  "
-                >
-                  <NuxtLink
-                    to="/trobolo-terabloem/"
-                    class="flex-shrink-0 btn btn-sm btn-primary px-3 border-end"
-                    style="border-radius: 30px 0 0 30px"
-                    title="TROBOLO TeraBlœm im Test"
-                    >Testbericht</NuxtLink
-                  >
-                  <a
-                    href="https://trobolo.com/de/produkte/terabloem/"
-                    class="flex-shrink-0 btn btn-sm btn-primary px-3"
-                    style="border-radius: 0 30px 30px 0"
-                    target="_blank"
-                    rel="nofollow noopener"
-                    >Bestellen</a
-                  >
-                </div>
-              </div>
-              <div class="text-center p-4 pb-0">
-                <h3 class="mb-0">429,00 €</h3>
-                <div class="mb-3">
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small class="fa fa-star text-primary"></small>
-                  <small>(429)</small>
-                </div>
-                <h5 class="mb-4">TROBOLO® TeraBlœm</h5>
-              </div>
-              <div class="d-flex border-top">
-                <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-toilet text-primary me-2"></i>TROBOLO</small
-                >
-                <small class="flex-fill text-center border-end py-2"
-                  ><i class="fa fa-check text-primary me-2"></i>Platz 1</small
-                >
-              </div>
-            </div> -->
           </div>
         </div>
       </div>
     </div>
     <!-- About End -->
+
+    <!-- Products Start -->
+    <div class="container-xxl py-5" id="testbericht">
+      <div class="container">
+        <div class="row g-5">
+          <div
+            v-for="product in products"
+            :key="product"
+            class="col-lg-4 fadeInUp"
+          >
+            <ProductItem :product="product" class="mt-5" />
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Products End -->
   </div>
 </template>
 
 <script>
+import products from "~/assets/products.json";
+import manufacturer from "~/assets/manufacturer.json";
+
 export default {
   name: "TROBOLO",
   head: {
@@ -249,9 +173,16 @@ export default {
         hid: "description",
         name: "description",
         content:
-          "Testbericht zu TROBOLO. TROBOLO stellt autarke, handgefertige Trockentrenntoiletten für's' Haus, den Garten, Camper und Wohnmobil her.",
+          "Testbericht zu TROBOLO. TROBOLO stellt autarke, handgefertige Trockentrenntoiletten für's Haus, den Garten, Camper und Wohnmobile her.",
       },
     ],
+  },
+  asyncData() {
+    let brand = "TROBOLO";
+    return {
+      products: products.filter((item) => item.brand === brand),
+      manufacturer: manufacturer.find((item) => item.brand === brand),
+    };
   },
   jsonld() {
     return {

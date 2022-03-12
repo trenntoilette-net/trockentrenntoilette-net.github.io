@@ -65,7 +65,9 @@
               Wohnwagen, Tiny House oder Gartenhaus konzipiert worden ist.
             </p>
 
-            <h5 class="mb-3 mt-5" id="preis-leistung">Preis-Leistungs-Verhältnis</h5>
+            <h5 class="mb-3 mt-5" id="preis-leistung">
+              Preis-Leistungs-Verhältnis
+            </h5>
 
             <p>
               Das Preis-Leistungs-Verhältnis von Kildwick ist gut. Das per
@@ -92,51 +94,7 @@
             >
           </div>
           <div class="col-lg-4 fadeInUp">
-            <div>
-              <div class="sidebar-widget schedule-widget mt-5">
-                <h5 class="mb-4">Kildwick</h5>
-                <ul class="list-unstyled">
-                  <li class="d-flex justify-content-between align-items-center">
-                    <a>Firmensitz</a> <span>Leipzig</span>
-                  </li>
-                  <hr />
-                  <li class="d-flex justify-content-between align-items-center">
-                    <a>Produkte</a>
-                    <span>Trockentrenntoiletten</span>
-                  </li>
-                  <hr />
-                  <li class="d-flex justify-content-between align-items-center">
-                    <a>Email</a> <span>hello@kildwick.com</span>
-                  </li>
-                  <hr />
-                  <li class="d-flex justify-content-between align-items-center">
-                    <a>Telefon</a> <span>+49 341 355 21 876</span>
-                  </li>
-                  <hr />
-                  <li class="d-flex justify-content-between align-items-center">
-                    <a>Webseite</a> <span>www.kildwick.com</span>
-                  </li>
-                  <hr />
-                </ul>
-                <div class="sidebar-contact-info mt-4">
-                  <p class="mb-0">Preis-Leistungs-Verhältnis</p>
-                  <div class="mb-1 mt-3">
-                    <small class="fa fa-star text-primary"></small>
-                    <small class="fa fa-star text-primary"></small>
-                    <small class="fa fa-star text-primary"></small>
-                    <small class="fa fa-star text-primary"></small>
-                    <small class="fa fa-star text-default"></small>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div>
-              <!-- <nuxt-img
-                class="img-fluid"
-                src="/assets/images/trockentrenntoiletten/trockentrenntoilette-meinetrenntoilette-trelino-l.webp"
-                alt="TROBOLO LuweBlœm"
-              /> -->
-            </div>
+            <ManufacturerCard :manufacturer="manufacturer" />
             <div class="mt-5">
               <a
                 class="btn btn-primary py-3 px-5"
@@ -152,10 +110,29 @@
       </div>
     </div>
     <!-- About End -->
+
+    <!-- Products Start -->
+    <div class="container-xxl py-5" id="testbericht">
+      <div class="container">
+        <div class="row g-5">
+          <div
+            v-for="product in products"
+            :key="product"
+            class="col-lg-4 fadeInUp"
+          >
+            <ProductItem :product="product" class="mt-5" />
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Products End -->
   </div>
 </template>
 
 <script>
+import products from "~/assets/products.json";
+import manufacturer from "~/assets/manufacturer.json";
+
 export default {
   name: "Kildwick",
   head: {
@@ -168,6 +145,13 @@ export default {
           "Testbericht zu Kildwick. Kildwick ist ein Hersteller für Trockentrenntoiletten die sich vor allem für den mobilen, wasserlosen Einsatz eignen.",
       },
     ],
+  },
+  asyncData() {
+    let brand = "Kildwick";
+    return {
+      products: products.filter((item) => item.brand === brand),
+      manufacturer: manufacturer.find((item) => item.brand === brand),
+    };
   },
   jsonld() {
     return {

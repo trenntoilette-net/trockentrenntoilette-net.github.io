@@ -13,11 +13,14 @@
           <div class="col-lg-8 fadeInUp" style="min-height: 400px">
             <h2 class="mb-4">Testbericht</h2>
             <p class="mb-4">
-              Die Trockentrenntoilette MiniLoo von <NuxtLink to="/hersteller/kildwick/" title="Kildwick">Kildwick</NuxtLink> ist für den Einsatz
-              als Campingtoilette entwickelt worden. Sie wird als vorgefertiger
-              Bausatz geliefert, lässt sich rasch zusammenbauen und ist ein
-              idealer Reisebegleiter für Menschen die gerne mit dem Camper,
-              Wohnmobil oder Tinyhous unterwegs sind.
+              Die Trockentrenntoilette MiniLoo von
+              <NuxtLink to="/hersteller/kildwick/" title="Kildwick"
+                >Kildwick</NuxtLink
+              >
+              ist für den Einsatz als Campingtoilette entwickelt worden. Sie
+              wird als vorgefertiger Bausatz geliefert, lässt sich rasch
+              zusammenbauen und ist ein idealer Reisebegleiter für Menschen die
+              gerne mit dem Camper, Wohnmobil oder Tinyhous unterwegs sind.
             </p>
 
             <h5 class="mb-3 mt-5">Komfort</h5>
@@ -66,39 +69,70 @@
             </p>
 
             <p>
-              Das Trennsystem hat in unserem Test einwandfrei funktioniert. Jedoch empfehlen
-              wir aufgrund der geringen Größe der Toilette, Einstreu zu
-              verwenden da sonst unangenehme Gerüche entstehen können.
+              Das Trennsystem hat in unserem Test einwandfrei funktioniert.
+              Jedoch empfehlen wir aufgrund der geringen Größe der Toilette,
+              Einstreu zu verwenden da sonst unangenehme Gerüche entstehen
+              können.
             </p>
 
             <p>
-              Die MiniLoo Campingtoilette benötigt kein Wasser oder Chemie zur Reinigung. Das Auswechseln und Entleeren der Behälter erwies sich als einfach und hygienisch. Die Ausscheidungen können, wie auch bei den anderen Trockentrenntoiletten, zur Kompostierung verwendet werden.
+              Die MiniLoo Campingtoilette benötigt kein Wasser oder Chemie zur
+              Reinigung. Das Auswechseln und Entleeren der Behälter erwies sich
+              als einfach und hygienisch. Die Ausscheidungen können, wie auch
+              bei den anderen Trockentrenntoiletten, zur Kompostierung verwendet
+              werden.
             </p>
 
             <p>
-              Die verwendeten Materialien machten in unserem Test einen robusten Eindruck. Der Bausatz kommt naturbelassen und kann vom Inhaber selbst lackiert, geölt oder lasiert werden. Der Funktionalität ist nichts anzuhaben. Lediglich der geringen Geruchsentwicklung mussten wir mit ein wenig Einstreu entgegenwirken.
+              Die verwendeten Materialien machten in unserem Test einen robusten
+              Eindruck. Der Bausatz kommt naturbelassen und kann vom Inhaber
+              selbst lackiert, geölt oder lasiert werden. Der Funktionalität ist
+              nichts anzuhaben. Lediglich der geringen Geruchsentwicklung
+              mussten wir mit ein wenig Einstreu entgegenwirken.
             </p>
 
             <h5 class="mb-3 mt-5">Nachhaltigkeit</h5>
 
             <p>
-              Die verwendeten Materialien der MiniLoo Campingtoilette sind recyclebar, so auch die Sammelbehälter. Es ist kein Wasser oder Chemie notwendig. Die Feststoffe können kompostiert werden und der nährstoffreiche Kompost kann der Natur zurückgeführt werden. Durch die kluge Konzeption haben wir, trotz der wenig verwendeten Materialien, eine robuste Trockentrenntoilette. Dies wird ermöglicht durch Metallplatten an der Unterseite des MiniLoo Trenneinsatzes. 
+              Die verwendeten Materialien der MiniLoo Campingtoilette sind
+              recyclebar, so auch die Sammelbehälter. Es ist kein Wasser oder
+              Chemie notwendig. Die Feststoffe können kompostiert werden und der
+              nährstoffreiche Kompost kann der Natur zurückgeführt werden. Durch
+              die kluge Konzeption haben wir, trotz der wenig verwendeten
+              Materialien, eine robuste Trockentrenntoilette. Dies wird
+              ermöglicht durch Metallplatten an der Unterseite des MiniLoo
+              Trenneinsatzes.
             </p>
 
             <h5 class="mb-3 mt-5">Zubehör</h5>
 
             <p>
-              Kildwick bietet als optionales Zubehör den Edelstahl Siphon, oder den Spillguard Kit an. Diese können zwischen Trenneinsatz und Urinkanister befestigt werden und dienen dem Schutz vor Auslauf und Geruchsentwicklung während der Fahrt.
+              Kildwick bietet als optionales Zubehör den Edelstahl Siphon, oder
+              den Spillguard Kit an. Diese können zwischen Trenneinsatz und
+              Urinkanister befestigt werden und dienen dem Schutz vor Auslauf
+              und Geruchsentwicklung während der Fahrt.
             </p>
 
             <h5 class="mb-3 mt-5">Fazit</h5>
 
             <p>
-              Die MiniLoo Campingtoilette von Kildwick ist ein wahres Platzwunder. Sie fügt sich jeder Umgebung an und ist sehr unauffällig. Es ist kein Wasser oder Chemie notwendig. Die Entleerung und Reinigung ist kinderleicht und hygienisch. Durch das geringe Gewicht und der kompakten Größe eignet sichd diese Trockentrenntoilette herrvorragend als Campingtoilette oder überall dort wo wenig Platz vorhanden ist. Lediglich für die Geruchsentwicklung gibt es einen Punktabzug, dies ist in Anbetracht der Größe aber auch sehr schwierig zu vermeiden. Dieses Problem konnten wir aber mit ein wenig Einstreu sehr einfach lösen. 
+              Die MiniLoo Campingtoilette von Kildwick ist ein wahres
+              Platzwunder. Sie fügt sich jeder Umgebung an und ist sehr
+              unauffällig. Es ist kein Wasser oder Chemie notwendig. Die
+              Entleerung und Reinigung ist kinderleicht und hygienisch. Durch
+              das geringe Gewicht und der kompakten Größe eignet sichd diese
+              Trockentrenntoilette herrvorragend als Campingtoilette oder
+              überall dort wo wenig Platz vorhanden ist. Lediglich für die
+              Geruchsentwicklung gibt es einen Punktabzug, dies ist in
+              Anbetracht der Größe aber auch sehr schwierig zu vermeiden. Dieses
+              Problem konnten wir aber mit ein wenig Einstreu sehr einfach
+              lösen.
             </p>
 
             <p>
-              Aufgrund der kompakten Größe und des geringen Gewichts vergeben wir der Kildwick MiniLoo eine Bestnote in der Kategorie Campingtoiletten.
+              Aufgrund der kompakten Größe und des geringen Gewichts vergeben
+              wir der Kildwick MiniLoo eine Bestnote in der Kategorie
+              Campingtoiletten.
             </p>
 
             <div class="row gy-2 gx-4 mb-5 mt-5">
@@ -142,60 +176,7 @@
             >
           </div>
           <div class="col-lg-4 fadeInUp">
-            <div>
-              <div class="sidebar-widget schedule-widget mt-5">
-                <h5 class="mb-4">Kildwick MiniLoo Campingtoilette</h5>
-                <ul class="list-unstyled">
-                  <li class="d-flex justify-content-between align-items-center">
-                    <a href="#">Marke</a> <span>Kildwick</span>
-                  </li>
-                  <hr />
-                  <li class="d-flex justify-content-between align-items-center">
-                    <a href="#">Material</a>
-                    <span>Birkensperrholz</span>
-                  </li>
-                  <hr />
-                  <li class="d-flex justify-content-between align-items-center">
-                    <a href="#">Maße</a>
-                    <span>Höhe 445 - Tiefe 386 - Breite 337 mm</span>
-                  </li>
-                  <hr />
-                  <li class="d-flex justify-content-between align-items-center">
-                    <a href="#">Gewicht</a> <span>7,7 kg</span>
-                  </li>
-                  <hr />
-                  <li class="d-flex justify-content-between align-items-center">
-                    <a href="#">Traglast</a> <span>150 kg</span>
-                  </li>
-                  <hr />
-                  <li class="d-flex justify-content-between align-items-center">
-                    <a href="#">Funktion</a> <span>Trennsystem</span>
-                  </li>
-                  <hr />
-                  <li class="d-flex justify-content-between align-items-center">
-                    <a href="#">Bewertung</a> <div class="mb-1 mt-3">
-                    <small class="fa fa-star text-primary"></small>
-                    <small class="fa fa-star text-primary"></small>
-                    <small class="fa fa-star text-primary"></small>
-                    <small class="fa fa-star text-primary"></small>
-                    <small class="fa fa-star text-default"></small>
-                  </div>
-                  </li>
-                  <hr />
-                </ul>
-                <div class="sidebar-contact-info mt-4">
-                  <p class="mb-0">Preis</p>
-                  <h3>399,00 EUR</h3>
-                </div>
-              </div>
-            </div>
-            <div>
-              <!-- <nuxt-img
-                class="img-fluid"
-                src="/assets/images/trockentrenntoiletten/trockentrenntoilette-meinetrenntoilette-trelino-l.webp"
-                alt="TROBOLO LuweBlœm"
-              /> -->
-            </div>
+            <ProductCard :product="product" />
             <div class="mt-5">
               <a
                 class="btn btn-primary py-3 px-5"
@@ -215,6 +196,8 @@
 </template>
 
 <script>
+import products from "~/assets/products.json";
+
 export default {
   name: "Kildwick MiniLoo",
   head: {
@@ -227,6 +210,11 @@ export default {
           "Die MiniLoo Campingtoilette von Kildwick ist eine sehr kompakte Trockentrenntoilette, welche als vorgefertiger Bausatz geliefert wird. Lesen Sie unseren Testbericht.",
       },
     ],
+  },
+  asyncData: () => {
+    return {
+      product: products.find((item) => item.name === "Kildwick MiniLoo"),
+    };
   },
   jsonld() {
     return {
