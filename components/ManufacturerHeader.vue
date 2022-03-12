@@ -6,7 +6,7 @@
         <div class="row g-5">
           <div class="col-lg-6 fadeInUp" style="min-height: 400px">
             <div class="position-relative h-100">
-              <nuxt-img
+              <img
                 class="img-fluid position-absolute w-100 h-100"
                 :src="productImage"
                 :alt="productName"
@@ -46,21 +46,24 @@
               <div class="col-sm-12">
                 <p class="mb-0">
                   <a href="#produkte">
-                  <i class="fa fa-arrow-right text-primary me-2"></i>Die
-                  Produkte</a>
+                    <i class="fa fa-arrow-right text-primary me-2"></i>Die
+                    Produkte</a
+                  >
                 </p>
               </div>
               <div class="col-sm-12">
                 <p class="mb-0">
                   <a href="#preis-leistung">
-                  <i class="fa fa-arrow-right text-primary me-2"></i>Das
-                  Preis-Leistungs-Verhältnis</a>
+                    <i class="fa fa-arrow-right text-primary me-2"></i>Das
+                    Preis-Leistungs-Verhältnis</a
+                  >
                 </p>
               </div>
               <div class="col-sm-12">
                 <p class="mb-0">
                   <a href="#fazit">
-                  <i class="fa fa-arrow-right text-primary me-2"></i>Unser Fazit
+                    <i class="fa fa-arrow-right text-primary me-2"></i>Unser
+                    Fazit
                   </a>
                 </p>
               </div>

@@ -6,7 +6,7 @@
         <div class="row g-5">
           <div class="col-lg-6 fadeInUp" style="min-height: 400px">
             <div class="position-relative h-100">
-              <nuxt-img
+              <img
                 class="img-fluid position-absolute w-100 h-100"
                 :src="productImage"
                 :alt="productName"
@@ -79,7 +79,7 @@ export default {
   props: {
     productName: String,
     textContent: String,
-    productImage: String
+    productImage: String,
   },
 };
 </script>

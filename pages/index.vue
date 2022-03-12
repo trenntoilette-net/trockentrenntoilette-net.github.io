@@ -6,7 +6,7 @@
         <div class="row g-5">
           <div class="col-lg-6 fadeInUp" style="min-height: 400px">
             <div class="position-relative h-100">
-              <nuxt-img
+              <img
                 class="img-fluid position-absolute w-100 h-100"
                 src="/assets/images/feature-trockentrenntoilette-trobolo-luwebloem.webp"
                 alt="TROBOLO LuweBlœm"
@@ -145,7 +145,7 @@
                   title="Mehr über TROBOLO erfahren"
                 >
                   <div class="grayscaleContainer">
-                    <nuxt-img
+                    <img
                       class="img-fluid grayscale"
                       src="/assets/images/hersteller/trobolo.webp"
                       alt="TROBOLO"
@@ -174,7 +174,7 @@
               <div class="col-lg-6 col-md-12 zoomIn">
                 <a class="position-relative d-block overflow-hidden" href="">
                   <div class="grayscaleContainer">
-                    <nuxt-img
+                    <img
                       class="img-fluid grayscale"
                       src="/assets/images/hersteller/trelino.webp"
                       alt="Trelino"
@@ -207,7 +207,7 @@
                   title="Mehr über Kildwick erfahren"
                 >
                   <div class="grayscaleContainer">
-                    <nuxt-img
+                    <img
                       class="img-fluid grayscale"
                       src="/assets/images/hersteller/kildwick.webp"
                       alt="Trelino"
@@ -238,7 +238,7 @@
           <div class="col-lg-5 col-md-6 zoomIn" style="min-height: 350px">
             <a class="position-relative d-block h-100 overflow-hidden" href="">
               <div class="grayscaleContainer">
-                <nuxt-img
+                <img
                   class="img-fluid grayscale"
                   src="/assets/images/hersteller/meinetrenntoilette.webp"
                   alt="MeineTrenntoilette"
@@ -303,7 +303,7 @@
           <div class="col-lg-3 col-md-6 fadeInUp">
             <div class="team-item bg-light">
               <div class="overflow-hidden">
-                <nuxt-img
+                <img
                   class="img-fluid"
                   src="/assets/images/img/team-1.jpg"
                   alt=""
@@ -334,7 +334,7 @@
           <div class="col-lg-3 col-md-6 fadeInUp">
             <div class="team-item bg-light">
               <div class="overflow-hidden">
-                <nuxt-img
+                <img
                   class="img-fluid"
                   src="/assets/images/img/team-2.jpg"
                   alt=""
@@ -365,7 +365,7 @@
           <div class="col-lg-3 col-md-6 fadeInUp">
             <div class="team-item bg-light">
               <div class="overflow-hidden">
-                <nuxt-img
+                <img
                   class="img-fluid"
                   src="/assets/images/img/team-3.jpg"
                   alt=""
@@ -396,7 +396,7 @@
           <div class="col-lg-3 col-md-6 fadeInUp">
             <div class="team-item bg-light">
               <div class="overflow-hidden">
-                <nuxt-img
+                <img
                   class="img-fluid"
                   src="/assets/images/img/team-4.jpg"
                   alt=""
