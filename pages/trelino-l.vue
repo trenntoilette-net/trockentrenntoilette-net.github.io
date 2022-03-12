@@ -181,7 +181,7 @@
 import products from "~/assets/products.json";
 
 export default {
-  name: "Trelino L mit HPL Veredelung",
+  name: "TrelinoLMitHplVeredelung",
   head: {
     title: "Trelino L mit HPL Veredelung im Test",
     meta: [

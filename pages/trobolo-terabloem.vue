@@ -13,14 +13,15 @@
           <div class="col-lg-8 fadeInUp" style="min-height: 400px">
             <h2 class="mb-4">Testbericht</h2>
             <p class="mb-4">
-              Die TROBOLO TeraBlœm ist eine Trockentrenntoilette für den
-              Innenbereich.
+              Die TROBOLO TeraBlœm ist eine autarke Trockentrenntoilette für den
+              Innenbereich. Sie wird als vorgefertigter Bausatz geliefert und
+              hat ein optionales, elektrisches Abluftsystem.
             </p>
 
             <h5 class="mb-3 mt-5">Komfort</h5>
 
             <p>
-              In unserem Test mussten wir letzlich keine Abstriche bei der
+              In unserem Test mussten wir letztlich keine Abstriche bei der
               Komfortabilität und dem Komfort einer herkömmlichen Toilette
               machen. Das Sitzgefühl war sehr gut und teils sogar angenehmer und
               natürlicher als wie bei einer Toilette aus Keramik.
@@ -92,7 +93,7 @@
             <p>
               Zu erwähnen sei, das die TeraBlœm Trockentrenntoilette von
               TROBOLO, als vorgefertigter Bausatz geliefert wird. Es muss also
-              selbst handangelegt werden, ein großes handwerkliches Können oder
+              selbst Hand angelegt werden, ein großes handwerkliches Können oder
               Wissen war dafür aber zugegebenermaßen nicht notwendig. Im
               Gegenteil, die Zusammensetzung erwies sich als sehr einfach.
               Zumindest haben wir so aber das Gefühl, wir hätten unseren
@@ -101,7 +102,7 @@
 
             <p>
               Aufgrund der Funktionalität, dem hohen Komfort, der Nachhaltigkeit
-              des Produktes, der Einfacheit der Entleerung sowie der Hygiene,
+              des Produktes, der Einfachheit der Entleerung sowie der Hygiene,
               vergeben wir der TeraBlœm von TROBOLO eine Bestnote.
             </p>
 

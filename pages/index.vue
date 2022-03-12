@@ -15,9 +15,9 @@
             </div>
           </div>
           <div class="col-lg-6 fadeInUp">
-            <h6 class="section-title bg-white text-start text-primary pe-3">
+            <div class="section-title bg-white text-start text-primary pe-3">
               Das Informationsportal für
-            </h6>
+            </div>
             <h1 class="mb-4">Trockentrenntoiletten</h1>
             <p class="mb-4">
               Wir sind dein Ratgeber für Trockentrenntoiletten. Wir testen
@@ -73,14 +73,14 @@
     </div>
     <!-- About End -->
 
-    <!-- Service Start -->
+    <!-- Vorteile Start -->
     <div class="container-xxl py-5">
       <div class="container">
         <div class="text-center fadeInUp">
-          <h6 class="section-title bg-white text-center text-primary px-3">
+          <div class="section-title bg-white text-center text-primary px-3 h6">
             Gründe
-          </h6>
-          <h1 class="mb-5">Vorteile von Trockentrenntoiletten</h1>
+          </div>
+          <h2 class="mb-5 h2">Vorteile von Trockentrenntoiletten</h2>
         </div>
         <div class="row g-4">
           <div class="col-lg-3 col-sm-6 fadeInUp">
@@ -124,16 +124,16 @@
         </div>
       </div>
     </div>
-    <!-- Service End -->
+    <!-- Vorteile End -->
 
-    <!-- Categories Start -->
+    <!-- Hersteller Start -->
     <div class="container-xxl py-5 category" id="hersteller">
       <div class="container">
         <div class="text-center fadeInUp">
-          <h6 class="section-title bg-white text-center text-primary px-3">
+          <div class="section-title bg-white text-center text-primary px-3 h6">
             Trockentrenntoiletten
-          </h6>
-          <h1 class="mb-5">Hersteller</h1>
+          </div>
+          <h3 class="mb-5 h2">Hersteller</h3>
         </div>
         <div class="row g-3">
           <div class="col-lg-7 col-md-6">
@@ -267,16 +267,16 @@
         </div>
       </div>
     </div>
-    <!-- Categories Start -->
+    <!-- Hersteller End -->
 
     <!-- Testsieger Start -->
     <div class="container-xxl py-5" id="testsieger">
       <div class="container">
         <div class="text-center fadeInUp">
-          <h6 class="section-title bg-white text-center text-primary px-3">
+          <div class="section-title bg-white text-center text-primary px-3 h6">
             Trockentrenntoiletten
-          </h6>
-          <h1 class="mb-5">Testsieger</h1>
+          </div>
+          <h4 class="mb-5 h2">Testsieger</h4>
         </div>
         <div class="row g-4 justify-content-center">
           <div
@@ -291,13 +291,80 @@
     </div>
     <!-- Testsieger End -->
 
+    <!-- Innenbereich Start -->
+    <div class="container-xxl py-5" id="produkte">
+      <div class="container">
+        <div class="text-center fadeInUp">
+          <div class="section-title bg-white text-center text-primary px-3 h6">
+            Trockentrenntoiletten
+          </div>
+          <h5 class="mb-5 h2">Innenbereich</h5>
+        </div>
+        <div class="row g-4 justify-content-center">
+          <div
+            v-for="product in innenbereich"
+            :key="product.name"
+            class="col-lg-4 col-md-6 fadeInUp"
+          >
+            <ProductItem :product="product" />
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Innenbereich End -->
+
+    <!-- Gartentoiletten Start -->
+    <div class="container-xxl py-5" id="gartentoiletten">
+      <div class="container">
+        <div class="text-center fadeInUp">
+          <div class="section-title bg-white text-center text-primary px-3 h6">
+            Trockentrenntoiletten
+          </div>
+          <h6 class="mb-5 h2">Gartentoiletten</h6>
+        </div>
+        <div class="row g-4 justify-content-center">
+          <div
+            v-for="product in gartentoiletten"
+            :key="product.name"
+            class="col-lg-4 col-md-6 fadeInUp"
+          >
+            <ProductItem :product="product" />
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Gartentoiletten End -->
+
+    <!-- Campingtoiletten Start -->
+    <div class="container-xxl py-5" id="campingtoiletten">
+      <div class="container">
+        <div class="text-center fadeInUp">
+          <div class="section-title bg-white text-center text-primary px-3 h6">
+            Trockentrenntoiletten
+          </div>
+          <div class="mb-5 h2">Campingtoiletten</div>
+        </div>
+        <div class="row g-4 justify-content-center">
+          <div
+            v-for="product in campingtoiletten"
+            :key="product.name"
+            class="col-lg-4 col-md-6 fadeInUp"
+          >
+            <ProductItem :product="product" />
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Campingtoiletten End -->
+
+    <!-- Team Start -->
     <div class="container-xxl py-5">
       <div class="container">
         <div class="text-center fadeInUp">
-          <h6 class="section-title bg-white text-center text-primary px-3">
+          <div class="section-title bg-white text-center text-primary px-3 h6">
             Team
-          </h6>
-          <h1 class="mb-5">Unsere Experten</h1>
+          </div>
+          <div class="mb-5 h2">Unsere Experten</div>
         </div>
         <div class="row g-4">
           <div class="col-lg-3 col-md-6 fadeInUp">
@@ -428,72 +495,6 @@
       </div>
     </div>
     <!-- Team End -->
-
-    <!-- Innenbereich Start -->
-    <div class="container-xxl py-5" id="produkte">
-      <div class="container">
-        <div class="text-center fadeInUp">
-          <h6 class="section-title bg-white text-center text-primary px-3">
-            Trockentrenntoiletten
-          </h6>
-          <h1 class="mb-5">Innenbereich</h1>
-        </div>
-        <div class="row g-4 justify-content-center">
-          <div
-            v-for="product in innenbereich"
-            :key="product.name"
-            class="col-lg-4 col-md-6 fadeInUp"
-          >
-            <ProductItem :product="product" />
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- Innenbereich End -->
-
-    <!-- Gartentoiletten Start -->
-    <div class="container-xxl py-5" id="gartentoiletten">
-      <div class="container">
-        <div class="text-center fadeInUp">
-          <h6 class="section-title bg-white text-center text-primary px-3">
-            Trockentrenntoiletten
-          </h6>
-          <h1 class="mb-5">Gartentoiletten</h1>
-        </div>
-        <div class="row g-4 justify-content-center">
-          <div
-            v-for="product in gartentoiletten"
-            :key="product.name"
-            class="col-lg-4 col-md-6 fadeInUp"
-          >
-            <ProductItem :product="product" />
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- Gartentoiletten End -->
-
-    <!-- Campingtoiletten Start -->
-    <div class="container-xxl py-5" id="campingtoiletten">
-      <div class="container">
-        <div class="text-center fadeInUp">
-          <h6 class="section-title bg-white text-center text-primary px-3">
-            Trockentrenntoiletten
-          </h6>
-          <h1 class="mb-5">Campingtoiletten</h1>
-        </div>
-        <div class="row g-4 justify-content-center">
-          <div
-            v-for="product in campingtoiletten"
-            :key="product.name"
-            class="col-lg-4 col-md-6 fadeInUp"
-          >
-            <ProductItem :product="product" />
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- Campingtoiletten End -->
   </div>
 </template>
 
