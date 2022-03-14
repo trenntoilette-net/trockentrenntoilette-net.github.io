@@ -172,7 +172,11 @@
                 </NuxtLink>
               </div>
               <div class="col-lg-6 col-md-12 zoomIn">
-                <a class="position-relative d-block overflow-hidden" href="">
+                <NuxtLink
+                  class="position-relative d-block overflow-hidden"
+                  to="/hersteller/trelino/"
+                  title="Mehr über Trelino erfahren"
+                >
                   <div class="grayscaleContainer">
                     <img
                       class="img-fluid grayscale"
@@ -198,7 +202,7 @@
                     <h5 class="m-0">Trelino</h5>
                     <!-- <small class="text-primary">49 Courses</small> -->
                   </div>
-                </a>
+                </NuxtLink>
               </div>
               <div class="col-lg-6 col-md-12 zoomIn">
                 <NuxtLink

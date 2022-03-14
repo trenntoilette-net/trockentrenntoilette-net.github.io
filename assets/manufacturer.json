@@ -16,5 +16,14 @@
         "phone": "+49 341 355 21 876",
         "url": "www.kildwick.com",
         "stars": 4
+    },
+    {
+        "brand": "Trelino",
+        "location": "Düsseldorf",
+        "products": "Campingtoiletten",
+        "email": "hello@trelino.com",
+        "phone": "+49 211 94 25 60 59",
+        "url": "www.trelino.com",
+        "stars": 4
     }
 ]

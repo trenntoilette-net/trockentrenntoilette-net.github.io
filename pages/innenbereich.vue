@@ -6,7 +6,7 @@
           <div class="section-title bg-white text-center text-primary px-3 h6">
             Testsieger
           </div>
-          <h1 class="mb-5">Trockentrenntoiletten</h1>
+          <h1 class="mb-5">Innenbereich</h1>
         </div>
       </div>
       <div class="container">
@@ -28,15 +28,15 @@
 import products from "~/assets/products.json";
 
 export default {
-  name: "campingtoilette",
+  name: "innenbereich",
   head: {
-    title: "Campingtoilette - Testsieger und Produkte",
+    title: "Trockentrenntoiletten Innenbereich - Testsieger und Produkte",
     meta: [
       {
         hid: "description",
         name: "description",
         content:
-          "Finde die richtige Campingtoilette. Testberichte, Produkte und Anbieter von Campingtoiletten für Wohnmobile, Camper oder Vans. Vor dem Kauf informieren.",
+          "Finde die richtige Trockentrenntoilette für's Haus, TinyHouse oder Gartenhaus. Produkte, Anbieter und Testberichte. Vor dem Kauf informieren.",
       },
     ],
   },
