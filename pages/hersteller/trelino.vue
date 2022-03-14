@@ -197,7 +197,7 @@ export default {
           aggregateRating: {
             "@type": "AggregateRating",
             ratingValue: "4.4",
-            reviewCount: "235",
+            reviewCount: "112",
           },
           address: {
             "@type": "PostalAddress",
