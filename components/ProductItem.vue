@@ -58,7 +58,10 @@
           }}</NuxtLink></small
         >
         <small class="flex-fill text-center border-end py-2"
-          ><i class="fa text-primary me-2"></i>{{ product.category }}</small
+          ><i class="fa text-primary me-2"></i
+          ><NuxtLink :to="`/${product.category.toLowerCase()}/`">
+            {{ product.category }}</NuxtLink
+          ></small
         >
       </div>
     </div>

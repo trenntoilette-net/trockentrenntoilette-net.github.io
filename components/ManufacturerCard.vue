@@ -4,24 +4,24 @@
       <h5 class="mb-4">{{ manufacturer.brand }}</h5>
       <ul class="list-unstyled">
         <li class="d-flex justify-content-between align-items-center">
-          <a>Firmensitz</a> <span>{{ manufacturer.location }}</span>
+          <span>Firmensitz</span> <span>{{ manufacturer.location }}</span>
         </li>
         <hr />
         <li class="d-flex justify-content-between align-items-center">
-          <a>Produkte</a>
+          <span>Produkte</span>
           <span>{{ manufacturer.products }}</span>
         </li>
         <hr />
         <li class="d-flex justify-content-between align-items-center">
-          <a>Email</a> <span>{{ manufacturer.email }}</span>
+          <span>Email</span> <span>{{ manufacturer.email }}</span>
         </li>
         <hr />
         <li class="d-flex justify-content-between align-items-center">
-          <a>Telefon</a> <span>{{ manufacturer.phone }}</span>
+          <span>Telefon</span> <span>{{ manufacturer.phone }}</span>
         </li>
         <hr />
         <li class="d-flex justify-content-between align-items-center">
-          <a>Webseite</a> <span>{{ manufacturer.url }}</span>
+          <span>Webseite</span> <span>{{ manufacturer.url }}</span>
         </li>
         <hr />
       </ul>
@@ -48,7 +48,7 @@
 export default {
   name: "manufacturercard",
   props: {
-      manufacturer: Object
+    manufacturer: Object,
   },
 };
 </script>

@@ -16,7 +16,7 @@
         title="Trockentrenntoilette"
         class="navbar-brand d-flex align-items-center px-4 px-lg-5"
       >
-        <h2 class="m-0 text-primary" style="font-size: 18px;">
+        <h2 class="m-0 text-primary" style="font-size: 18px">
           <i class="fa fa-toilet me-3"></i>Trockentrenntoilette.net
         </h2>
       </a>
@@ -38,17 +38,23 @@
               href="#"
               class="nav-link dropdown-toggle"
               data-bs-toggle="dropdown"
-              >Bereiche</a
+              >Einsatzgebiete</a
             >
             <div class="dropdown-menu fade-down m-0">
-              <a href="/#produkte" class="dropdown-item">Innenbereich</a>
-              <a href="/#gartentoiletten" class="dropdown-item">Gartentoiletten</a>
-              <a href="/#campingtoiletten" class="dropdown-item">Campingtoiletten</a>
+              <a href="/innenbereich/" class="dropdown-item">Innenbereich</a>
+              <a href="/gartentoilette/" class="dropdown-item"
+                >Gartentoiletten</a
+              >
+              <a href="/campingtoilette/" class="dropdown-item"
+                >Campingtoiletten</a
+              >
             </div>
           </div>
           <a href="#kontakt" class="nav-item nav-link">Kontakt</a>
         </div>
-        <a href="/#testsieger" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block"
+        <a
+          href="/#testsieger"
+          class="btn btn-primary py-4 px-lg-5 d-none d-lg-block"
           >Testsieger<i class="fa fa-arrow-right ms-3"></i
         ></a>
       </div>

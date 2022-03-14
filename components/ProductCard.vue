@@ -4,7 +4,7 @@
       <h5 class="mb-4">{{ product.name }}</h5>
       <ul class="list-unstyled">
         <li class="d-flex justify-content-between align-items-center">
-          <a>Hersteller</a>
+          <span>Hersteller</span>
           <span
             ><NuxtLink :to="product.manufacturerLink">{{
               product.brand
@@ -13,29 +13,38 @@
         </li>
         <hr />
         <li class="d-flex justify-content-between align-items-center">
-          <a>Material</a>
+          <span>Material</span>
           <span>{{ product.material }}</span>
         </li>
         <hr />
         <li class="d-flex justify-content-between align-items-center">
-          <a>Maße</a>
+          <span>Maße</span>
           <span>{{ product.size }}</span>
         </li>
         <hr />
         <li class="d-flex justify-content-between align-items-center">
-          <a>Gewicht</a> <span>{{ product.weight }}</span>
+          <span>Gewicht</span> <span>{{ product.weight }}</span>
         </li>
         <hr />
         <li class="d-flex justify-content-between align-items-center">
-          <a>Traglast</a> <span>{{ product.payload }}</span>
+          <span>Traglast</span> <span>{{ product.payload }}</span>
         </li>
         <hr />
         <li class="d-flex justify-content-between align-items-center">
-          <a>Funktion</a> <span>{{ product.function }}</span>
+          <span>Einsatzgebiet</span>
+          <span>
+            <NuxtLink :to="`/${product.category.toLowerCase()}/`">
+              {{ product.category }}</NuxtLink
+            >
+          </span>
         </li>
         <hr />
         <li class="d-flex justify-content-between align-items-center">
-          <a>Bewertung</a>
+          <span>Funktion</span> <span>{{ product.function }}</span>
+        </li>
+        <hr />
+        <li class="d-flex justify-content-between align-items-center">
+          <span>Bewertung</span>
           <div class="mb-1 mt-3">
             <small
               v-for="star in product.stars"
