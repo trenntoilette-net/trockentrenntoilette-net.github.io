@@ -183,7 +183,7 @@ export default {
       "@context": "https://schema.org",
       "@graph": [
         {
-          "@context": "http:\u002F\u002Fschema.org",
+          "@context": "https://schema.org",
           "@type": "Store",
           name: "Trelino",
           description:
