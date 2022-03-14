@@ -21,6 +21,28 @@
         </div>
       </div>
     </div>
+    <div class="container-xxl py-5">
+      <div class="row">
+        <div class="col-lg-12 fadeInUp">
+          <div class="section-title bg-white text-start text-primary pe-3">
+            Finde die richtige
+          </div>
+          <h1 class="mb-4">Gartentoilette</h1>
+          <p class="mb-4">
+            Wir sind dein Ratgeber für Trockentrenntoiletten. Wir testen
+            Hersteller, Produkte und liefern dir die Infos die du benötigst, um
+            die passende Trockentrenntoilette zu finden.
+          </p>
+          <p class="mb-4">
+            Unsere Tests beinhalten mehrere Kriterien denen wir gründlich auf
+            den Grund gehen. Dabei kommen folgende Testkritieren zum Einsatz:
+          </p>
+          <a class="btn btn-primary py-3 px-5 mt-2" href="#testsieger"
+            >Zu den Testsiegern</a
+          >
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
