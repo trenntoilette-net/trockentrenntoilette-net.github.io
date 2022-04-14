@@ -54,7 +54,7 @@
               verwendet. Der Deckel der Trockentrenntoiletten besteht aus Holz.
               Der Korpus besteht leider, wie im Vergleich zu den
               <NuxtLink
-                to="/trobolo/"
+                to="/hersteller/trobolo/"
                 title="Alle Produkte von TROBOLO im Überblick"
                 >Produkten von TROBOLO</NuxtLink
               >, nicht immer nur aus Holz, sondern halt auch aus Kunststoff.
