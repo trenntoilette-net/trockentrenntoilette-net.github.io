@@ -47,7 +47,7 @@
             </h5>
 
             <p>
-              Wie alle Trockentrenntoilette hat auch diese kleine
+              Wie alle Trockentrenntoiletten hat auch diese kleine
               Campingtoilette ein Trennsystem, sprich Feststoffe und
               Ausscheidungen landen in unterschiedlichen Gefäßen. Trotz der
               kleinen Größe gab es in unserem Test keine unangenehme
