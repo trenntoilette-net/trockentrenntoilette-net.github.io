@@ -73,7 +73,7 @@
         "reviewCount": 189,
         "image": "/assets/images/trockentrenntoiletten/trockentrenntoilette-kildwick-miniloo.webp",
         "shopLink": "https://www.kildwick.com/Kildwick-Bausatz-Campingtoilette-Komposttoilette-MiniLoo",
-        "featured": 1,
+        "featured": 0,
         "winner": 1
     },
     {
@@ -189,6 +189,6 @@
         "reviewCount": 10,
         "image": "/assets/images/campingtoiletten/campingtoilette-trobolo-wandago.webp",
         "shopLink": "https://trobolo.com/de/produkte/wandago/",
-        "featured": 0
+        "featured": 1
     }
 ]
