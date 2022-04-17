@@ -13,7 +13,7 @@
           <div class="col-lg-8 fadeInUp" style="min-height: 400px">
             <h2 class="mb-4">Testbericht</h2>
             <p class="mb-4">
-              Die TROBOLO WandaGO ist eine mobile Toilette die sich ideal für
+              Die TROBOLO WandaGO ist eine mobile Toilette, die sich ideal für
               den mobilen Einsatz wie im Outdoor Bereich, im Wohnmobil, im
               Camper oder im Van eignet.
             </p>
@@ -78,10 +78,10 @@
               gefertigt und macht trotz des geringen Gewichts einen sehr
               robusten Eindruck. Schade ist natürlich das die kleine
               Campingtoilette nicht aus Holz ist, jedoch würde vermutlich genau
-              dies gegen die Anforderung einer mobilen Toiletten sprechen, denn
+              dies gegen die Anforderung einer mobilen Toilette sprechen, denn
               diese muss leicht, wasserfest, robust und einfach zu reinigen
               sein. Die WandaGO von TROBOLO benötigt kein Wasser oder Chemie,
-              was der Umwelt zu Gute kommt.
+              was der Umwelt zugutekommt.
             </p>
 
             <h5 class="mb-3 mt-5">Zubehör</h5>
@@ -97,7 +97,7 @@
             <h5 class="mb-3 mt-5">Fazit</h5>
 
             <p>
-              Die WandaGO Campingtoilete von TROBOLO ist ultraleicht, kompakt,
+              Die WandaGO Campingtoilette von TROBOLO ist ultraleicht, kompakt,
               einfach zu reinigen und ist der ideale mobile Begleiter. Wer ein
               Wohnmobil, Van oder Camper besitzt oder generell eine mobile
               Toilette benötigt, dem können wir die WandaGO wärmstens empfehlen.
