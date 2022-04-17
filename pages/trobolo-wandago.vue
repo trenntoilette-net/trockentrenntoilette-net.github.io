@@ -22,7 +22,7 @@
 
             <p>
               Die WandaGo Campingtoilette von TROBOLO ist eine stapelbare
-              Campingtoilette. Dies bedeutet, das sie höhenverstellbar ist und
+              Campingtoilette. Dies bedeutet, dass sie höhenverstellbar ist und
               somit auf Standard Toilettenhöhe genutzt werden kann. Einmal kurz
               aufgestellt, hatten wir dadurch in unserem Test eine sehr gute
               Sitzhöhe und Komfort.
