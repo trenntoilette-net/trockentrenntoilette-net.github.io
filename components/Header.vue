@@ -50,6 +50,23 @@
               >
             </div>
           </div>
+          <div class="nav-item dropdown">
+            <a
+              href="#"
+              class="nav-link dropdown-toggle"
+              data-bs-toggle="dropdown"
+              >Zubehör</a
+            >
+            <div class="dropdown-menu fade-down m-0">
+              <!-- <a href="/zubehoer/trenneinsatz/" class="dropdown-item"
+                >Trenneinsatz</a
+              > -->
+              <a href="/zubehoer/einstreu/" class="dropdown-item">Einstreu</a>
+              <!-- <a href="/campingtoilette/" class="dropdown-item"
+                >Campingtoiletten</a
+              > -->
+            </div>
+          </div>
           <a href="#kontakt" class="nav-item nav-link">Kontakt</a>
         </div>
         <a
