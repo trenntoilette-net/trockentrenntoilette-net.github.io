@@ -87,7 +87,7 @@
             <div class="service-item text-center pt-3">
               <div class="p-4">
                 <i class="fa fa-3x fa-water text-primary mb-4"></i>
-                <h5 class="mb-3">Wasserfrei</h5>
+                <div class="mb-3 h5">Wasserfrei</div>
                 <p>Eine Trockentrenntoilette kommt komplett ohne Wasser aus</p>
               </div>
             </div>
@@ -96,7 +96,7 @@
             <div class="service-item text-center pt-3">
               <div class="p-4">
                 <i class="fa fa-3x fa-sun text-primary mb-4"></i>
-                <h5 class="mb-3">Autark</h5>
+                <div class="mb-3 h5">Autark</div>
                 <p>Sie benötigen keine zusätzlichen Sanitäranschlüsse</p>
               </div>
             </div>
@@ -105,7 +105,7 @@
             <div class="service-item text-center pt-3">
               <div class="p-4">
                 <i class="fa fa-3x fa-ban text-primary mb-4"></i>
-                <h5 class="mb-3">Keine Chemie</h5>
+                <div class="mb-3 h5">Keine Chemie</div>
                 <p>Dank Trenneinsatz ist keine Chemie notwendig</p>
               </div>
             </div>
@@ -114,7 +114,7 @@
             <div class="service-item text-center pt-3">
               <div class="p-4">
                 <i class="fa fa-3x fa-recycle text-primary mb-4"></i>
-                <h5 class="mb-3">Nachhaltig</h5>
+                <div class="mb-3 h5">Nachhaltig</div>
                 <p>
                   Benutzen Sie die Ausscheidungen als nährstoffreichen Kompost
                 </p>
@@ -166,7 +166,7 @@
                     "
                     style="margin: 1px"
                   >
-                    <h5 class="m-0">TROBOLO</h5>
+                    <div class="m-0 h5">TROBOLO</div>
                     <!-- <small class="text-primary">Deutschland</small> -->
                   </div>
                 </NuxtLink>
@@ -199,7 +199,7 @@
                     "
                     style="margin: 1px"
                   >
-                    <h5 class="m-0">Trelino</h5>
+                    <div class="m-0 h5">Trelino</div>
                     <!-- <small class="text-primary">49 Courses</small> -->
                   </div>
                 </NuxtLink>
@@ -232,7 +232,7 @@
                     "
                     style="margin: 1px"
                   >
-                    <h5 class="m-0">Kildwick</h5>
+                    <div class="m-0 h5">Kildwick</div>
                     <!-- <small class="text-primary">49 Courses</small> -->
                   </div>
                 </NuxtLink>
@@ -240,7 +240,7 @@
             </div>
           </div>
           <div class="col-lg-5 col-md-6 zoomIn" style="min-height: 350px">
-            <a class="position-relative d-block h-100 overflow-hidden" href="">
+            <button class="position-relative d-block h-100 overflow-hidden">
               <div class="grayscaleContainer">
                 <img
                   class="img-fluid grayscale"
@@ -263,10 +263,10 @@
                 "
                 style="margin: 1px"
               >
-                <h5 class="m-0">Meine Trenntoilette</h5>
+                <div class="m-0 h5">Meine Trenntoilette</div>
                 <!-- <small class="text-primary">Deutschland</small> -->
               </div>
-            </a>
+            </button>
           </div>
         </div>
       </div>
@@ -302,7 +302,7 @@
           <div class="section-title bg-white text-center text-primary px-3 h6">
             Trockentrenntoiletten
           </div>
-          <h5 class="mb-5 h2">Innenbereich</h5>
+          <div class="mb-5 h2">Innenbereich</div>
         </div>
         <div class="row g-4 justify-content-center">
           <div
@@ -324,7 +324,7 @@
           <div class="section-title bg-white text-center text-primary px-3 h6">
             Trockentrenntoiletten
           </div>
-          <h6 class="mb-5 h2">Gartentoiletten</h6>
+          <h5 class="mb-5 h2">Gartentoiletten</h5>
         </div>
         <div class="row g-4 justify-content-center">
           <div
@@ -346,7 +346,7 @@
           <div class="section-title bg-white text-center text-primary px-3 h6">
             Trockentrenntoiletten
           </div>
-          <div class="mb-5 h2">Campingtoiletten</div>
+          <h6 class="mb-5 h2">Campingtoiletten</h6>
         </div>
         <div class="row g-4 justify-content-center">
           <div
@@ -385,19 +385,19 @@
                 style="margin-top: -23px"
               >
                 <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                  <a class="btn btn-sm-square btn-primary mx-1"
-                    ><i class="fab fa-facebook-f"></i
-                  ></a>
-                  <a class="btn btn-sm-square btn-primary mx-1"
-                    ><i class="fab fa-twitter"></i
-                  ></a>
-                  <a class="btn btn-sm-square btn-primary mx-1"
-                    ><i class="fab fa-instagram"></i
-                  ></a>
+                  <button class="btn btn-sm-square btn-primary mx-1">
+                    <i class="fab fa-facebook-f"></i>
+                  </button>
+                  <button class="btn btn-sm-square btn-primary mx-1">
+                    <i class="fab fa-twitter"></i>
+                  </button>
+                  <button class="btn btn-sm-square btn-primary mx-1">
+                    <i class="fab fa-instagram"></i>
+                  </button>
                 </div>
               </div>
               <div class="text-center p-4">
-                <h5 class="mb-0">Ringo Hülsmann</h5>
+                <div class="mb-0 h5">Ringo Hülsmann</div>
                 <small>Der "Toilettenkönig"</small>
               </div>
             </div>
@@ -428,7 +428,7 @@
                 </div>
               </div>
               <div class="text-center p-4">
-                <h5 class="mb-0">Leonie Meyer</h5>
+                <div class="mb-0 h5">Leonie Meyer</div>
                 <small>Biologin</small>
               </div>
             </div>
@@ -459,7 +459,7 @@
                 </div>
               </div>
               <div class="text-center p-4">
-                <h5 class="mb-0">Markus Baum</h5>
+                <div class="mb-0 h5">Markus Baum</div>
                 <small>Ökologe</small>
               </div>
             </div>
@@ -490,7 +490,7 @@
                 </div>
               </div>
               <div class="text-center p-4">
-                <h5 class="mb-0">Anh Tanaka</h5>
+                <div class="mb-0 h5">Anh Tanaka</div>
                 <small>Innenarchitektin</small>
               </div>
             </div>

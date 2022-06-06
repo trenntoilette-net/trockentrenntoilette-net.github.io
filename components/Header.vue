@@ -25,12 +25,18 @@
         class="navbar-toggler me-4"
         data-bs-toggle="collapse"
         data-bs-target="#navbarCollapse"
+        aria-label="collapseNavbar"
       >
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <div class="navbar-nav ms-auto p-4 p-lg-0">
-          <a href="/" class="nav-item nav-link active">Home</a>
+          <a
+            href="/"
+            class="nav-item nav-link active"
+            title="Trockentrenntoiletten"
+            >Home</a
+          >
           <a href="/#produkte" class="nav-item nav-link">Produkte</a>
           <a href="/#hersteller" class="nav-item nav-link">Hersteller</a>
           <div class="nav-item dropdown">
@@ -41,11 +47,22 @@
               >Einsatzgebiete</a
             >
             <div class="dropdown-menu fade-down m-0">
-              <a href="/innenbereich/" class="dropdown-item">Innenbereich</a>
-              <a href="/gartentoilette/" class="dropdown-item"
+              <a
+                href="/innenbereich/"
+                title="Trockentrenntoiletten für den Innenbereich"
+                class="dropdown-item"
+                >Innenbereich</a
+              >
+              <a
+                href="/gartentoilette/"
+                title="Gartentoiletten"
+                class="dropdown-item"
                 >Gartentoiletten</a
               >
-              <a href="/campingtoilette/" class="dropdown-item"
+              <a
+                href="/campingtoilette/"
+                title="Campingtoiletten"
+                class="dropdown-item"
                 >Campingtoiletten</a
               >
             </div>
@@ -61,7 +78,12 @@
               <!-- <a href="/zubehoer/trenneinsatz/" class="dropdown-item"
                 >Trenneinsatz</a
               > -->
-              <a href="/zubehoer/einstreu/" class="dropdown-item">Einstreu</a>
+              <a
+                href="/zubehoer/einstreu/"
+                title="Einstreu für die Trockentrenntoilette"
+                class="dropdown-item"
+                >Einstreu</a
+              >
               <!-- <a href="/campingtoilette/" class="dropdown-item"
                 >Campingtoiletten</a
               > -->

@@ -5,11 +5,11 @@
         <div class="row g-5">
           <div class="col-lg-3 col-md-6">
             <h4 class="text-white mb-3">Schnellzugriff</h4>
-            <a class="btn btn-link" href="">Über Uns</a>
-            <a class="btn btn-link" href="">Kontakt</a>
-            <a class="btn btn-link" href="">Datenschutz</a>
-            <a class="btn btn-link" href="">AGBs</a>
-            <a class="btn btn-link" href="">FAQs & Hilfe</a>
+            <button class="btn btn-link">Über Uns</button>
+            <button class="btn btn-link">Kontakt</button>
+            <button class="btn btn-link">Datenschutz</button>
+            <button class="btn btn-link">AGBs</button>
+            <button class="btn btn-link">FAQs & Hilfe</button>
           </div>
           <div class="col-lg-3 col-md-6" id="kontakt">
             <h4 class="text-white mb-3">Kontakt</h4>
@@ -26,6 +26,7 @@
               <a
                 class="btn btn-outline-light btn-social"
                 href="https://twitter.com/Trockentrennto1"
+                title="Trockentrenntoilette.org auf Twitter"
                 ><i class="fab fa-twitter"></i
               ></a>
               <!-- <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
@@ -134,7 +135,10 @@
     </div>
 
     <!-- Back to Top -->
-    <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"
+    <a
+      href="#"
+      class="btn btn-lg btn-primary btn-lg-square back-to-top"
+      title="Nach oben scrollen"
       ><i class="bi bi-arrow-up"></i
     ></a>
   </div>
