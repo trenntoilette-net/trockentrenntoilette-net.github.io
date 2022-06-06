@@ -387,19 +387,19 @@
                 <div class="bg-light d-flex justify-content-center pt-2 px-1">
                   <button
                     class="btn btn-sm-square btn-primary mx-1"
-                    aria-label="facebook"
+                    aria-label="social-media"
                   >
                     <i class="fab fa-facebook-f"></i>
                   </button>
                   <button
                     class="btn btn-sm-square btn-primary mx-1"
-                    aria-label="twitter"
+                    aria-label="social-media"
                   >
                     <i class="fab fa-twitter"></i>
                   </button>
                   <button
                     class="btn btn-sm-square btn-primary mx-1"
-                    aria-label="instagram"
+                    aria-label="social-media"
                   >
                     <i class="fab fa-instagram"></i>
                   </button>
@@ -425,13 +425,22 @@
                 style="margin-top: -23px"
               >
                 <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                  <button class="btn btn-sm-square btn-primary mx-1">
+                  <button
+                    class="btn btn-sm-square btn-primary mx-1"
+                    aria-label="social-media"
+                  >
                     <i class="fab fa-facebook-f"></i>
                   </button>
-                  <button class="btn btn-sm-square btn-primary mx-1">
+                  <button
+                    class="btn btn-sm-square btn-primary mx-1"
+                    aria-label="social-media"
+                  >
                     <i class="fab fa-twitter"></i>
                   </button>
-                  <button class="btn btn-sm-square btn-primary mx-1">
+                  <button
+                    class="btn btn-sm-square btn-primary mx-1"
+                    aria-label="social-media"
+                  >
                     <i class="fab fa-instagram"></i>
                   </button>
                 </div>
@@ -456,13 +465,22 @@
                 style="margin-top: -23px"
               >
                 <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                  <button class="btn btn-sm-square btn-primary mx-1">
+                  <button
+                    class="btn btn-sm-square btn-primary mx-1"
+                    aria-label="social-media"
+                  >
                     <i class="fab fa-facebook-f"></i>
                   </button>
-                  <button class="btn btn-sm-square btn-primary mx-1">
+                  <button
+                    class="btn btn-sm-square btn-primary mx-1"
+                    aria-label="social-media"
+                  >
                     <i class="fab fa-twitter"></i>
                   </button>
-                  <button class="btn btn-sm-square btn-primary mx-1">
+                  <button
+                    class="btn btn-sm-square btn-primary mx-1"
+                    aria-label="social-media"
+                  >
                     <i class="fab fa-instagram"></i>
                   </button>
                 </div>
@@ -487,13 +505,22 @@
                 style="margin-top: -23px"
               >
                 <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                  <button class="btn btn-sm-square btn-primary mx-1">
+                  <button
+                    class="btn btn-sm-square btn-primary mx-1"
+                    aria-label="social-media"
+                  >
                     <i class="fab fa-facebook-f"></i>
                   </button>
-                  <button class="btn btn-sm-square btn-primary mx-1">
+                  <button
+                    class="btn btn-sm-square btn-primary mx-1"
+                    aria-label="social-media"
+                  >
                     <i class="fab fa-twitter"></i>
                   </button>
-                  <button class="btn btn-sm-square btn-primary mx-1">
+                  <button
+                    class="btn btn-sm-square btn-primary mx-1"
+                    aria-label="social-media"
+                  >
                     <i class="fab fa-instagram"></i>
                   </button>
                 </div>
