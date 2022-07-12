@@ -48,7 +48,7 @@
               wichtigen Anteil hinsichtlich Nachhaltigkeit und Umweltbewusstsein
               – nicht nur für ambitionierte Camper.
             </p>
-            <h3 class="mb-4">
+            <h3 class="mb-4 h2">
               Diese Arten von Campingtoiletten existieren auf dem Markt
             </h3>
             <p class="mb-4">
@@ -94,6 +94,23 @@
               erforderlich, aber du benötigst zwingend Wasser für den
               Frischwassertank. Also völlig autark funktionieren diese Systeme
               nicht.
+            </p>
+
+            <h4 class="mb-4 h2">
+              Darum ist eine Toilette für Camper auf Trockentrenn-Basis so
+              wichtig
+            </h4>
+
+            <p class="lead mb-4">
+              Mit einer Campingtoilette, welche völlig ohne Wasser und Strom
+              auskommt, bist du in der freien Natur und auf Reisen absolut
+              autark unterwegs. Zudem werden keine chemischen Zusätze benötigt,
+              was zur Schonung der Umwelt beiträgt. Damit bleibst du stets
+              unabhängig von gesonderten Stationen, wo die Reststoffe einer
+              Chemietoilette entsorgt werden dürfen. Unser Portal für
+              Trockentrenntoiletten informiert dich gerne über die besten
+              Produkte der namhaften Hersteller und erleichtert deine
+              Kaufentscheidung.
             </p>
           </div>
         </div>
