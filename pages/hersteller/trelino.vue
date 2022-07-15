@@ -115,7 +115,7 @@
               target="_blank"
               rel="nofollow noopener"
               href="https://www.trelino.com/de/"
-              >zu Trelio</a
+              >zu Trelino</a
             >
           </div>
           <div class="col-lg-4 fadeInUp">

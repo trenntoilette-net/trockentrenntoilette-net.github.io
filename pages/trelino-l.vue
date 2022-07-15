@@ -1,7 +1,7 @@
 <template>
   <div>
     <ProductHeader
-      productName="Trelio L mit HPL Veredelung"
+      productName="Trelino L mit HPL Veredelung"
       textContent="Die Trelino L ist eine Trockentoilette aus dem Hause Trelino. Sie ist aus Birkenholz angefertigt und mit robustem HPL veredelt."
       productImage="/assets/images/trockentrenntoiletten/trockentrenntoilette-trelino-l-hpl-veredelung.webp"
     ></ProductHeader>
