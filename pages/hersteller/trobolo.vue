@@ -146,6 +146,7 @@
     <div class="container-xxl py-5">
       <div class="container">
         <div class="row g-5">
+          <div class="h2">Trockentrenntoiletten von TROBOLO</div>
           <div
             v-for="product in products"
             :key="product"
@@ -157,11 +158,29 @@
       </div>
     </div>
     <!-- Products End -->
+
+    <!-- Einstreu Start -->
+    <div class="container-xxl py-5">
+      <div class="container">
+        <div class="row g-5">
+          <div class="h2">Einstreu von TROBOLO</div>
+          <div
+            v-for="product in einstreu"
+            :key="product"
+            class="col-lg-4 fadeInUp"
+          >
+            <ZubehoerProductItem :product="product" class="mt-5" />
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Einstreu End -->
   </div>
 </template>
 
 <script>
 import products from "~/assets/products.json";
+import einstreu from "~/assets/einstreu.json";
 import manufacturer from "~/assets/manufacturer.json";
 
 export default {
@@ -182,6 +201,7 @@ export default {
     return {
       products: products.filter((item) => item.brand === brand),
       manufacturer: manufacturer.find((item) => item.brand === brand),
+      einstreu: einstreu.filter((item) => item.brand === brand),
     };
   },
   jsonld() {

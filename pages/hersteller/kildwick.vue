@@ -115,6 +115,7 @@
     <div class="container-xxl py-5">
       <div class="container">
         <div class="row g-5">
+          <div class="h2">Trockentrenntoiletten von Kildwick</div>
           <div
             v-for="product in products"
             :key="product"

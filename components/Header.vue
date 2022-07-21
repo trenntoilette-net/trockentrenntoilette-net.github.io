@@ -38,7 +38,34 @@
             >Home</a
           >
           <a href="/#produkte" class="nav-item nav-link">Produkte</a>
-          <a href="/#hersteller" class="nav-item nav-link">Hersteller</a>
+          <div class="nav-item dropdown">
+            <a
+              href="#"
+              class="nav-link dropdown-toggle"
+              data-bs-toggle="dropdown"
+              >Hersteller</a
+            >
+            <div class="dropdown-menu fade-down m-0">
+              <nuxt-link
+                to="/hersteller/trobolo/"
+                title="TROBOLO"
+                class="dropdown-item"
+                >TROBOLO</nuxt-link
+              >
+              <nuxt-link
+                to="/hersteller/kildwick/"
+                title="Kildwick"
+                class="dropdown-item"
+                >Kildwick</nuxt-link
+              >
+              <nuxt-link
+                to="/hersteller/trelino/"
+                title="Trelino"
+                class="dropdown-item"
+                >Trelino</nuxt-link
+              >
+            </div>
+          </div>
           <div class="nav-item dropdown">
             <a
               href="#"
