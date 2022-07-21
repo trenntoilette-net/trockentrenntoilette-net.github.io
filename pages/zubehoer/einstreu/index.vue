@@ -58,14 +58,14 @@
           <p class="mb-4">
             Als Nebeneffekt wirkt die Einstreu zusätzlich als Sichtschutz. Wer in die geöffnete Trockentrenntoilette schaut, sieht also keine unappetitlichen Hinterlassenschaften, sondern lediglich die Einstreu. 
           </p>
-          <h5 class="mb-4 h2">Übrigens: Das Gemisch aus Kot und Einstreu lässt sich hervorragend kompostieren.</h5>
+          <h4 class="mb-4 h2">Übrigens: Das Gemisch aus Kot und Einstreu lässt sich hervorragend kompostieren.</h4>
           <p class="mb-4">
             Wer eine Trockentrenntoilette mit Abluftsystem nutzt, kann auf Einstreu verzichten. Hier sorgt die elektrische Entlüftung für die Geruchlosigkeit. Allerdings muss man bedenken, dass man bei dieser Variante auf Strom angewiesen ist und somit nicht gänzlich autark ist.
           </p>
           <p class="mb-4">
             Eine weitere Alternative zur Einstreu sind chemische Zusatzstoffe. Jedoch wird Chemie in aller Regel nicht im Zusammenhang mit Trockentrenntoiletten verwendet, sondern mit Chemietoiletten. Da bei Chemietoiletten keine Trennung von Kot und Urin erfolgt, müssen hier schon sehr starke, umweltschädliche Chemikalien zum Einsatz kommen, um den Geruch der Ausscheidungen zu minimieren. Dafür riecht man dann aber leider die Chemikalien.  
           </p>
-          <h6 class="mb-4 h2">Fazit</h6>
+          <h5 class="mb-4 h2">Fazit</h5>
           <p class="lead mb-4">
             Wer seine Trockentrenntoilette gänzlich autark nutzen und von Wasser, Strom und Chemie unabhängig sein möchte, ist mit Einstreu bestens beraten. Die kostengünstige Substanz besteht meist aus Holzspänen oder ähnlichen natürlichen Materialien, so dass weder dein Geldbeutel noch die Umwelt belastet wird. Dennoch stellt die Einstreu effektiv sicher, dass du deine Trockentrenntoilette hygienisch und geruchsfrei nutzen kannst. Eine super Sache also!
           </p>
