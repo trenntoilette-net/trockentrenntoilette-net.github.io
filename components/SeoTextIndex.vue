@@ -7,12 +7,10 @@
           </div>
           <p class="mb-4">
             Trockentrenntoiletten erfreuen sich überall, wo wasserführende Sanitärinstallationen nicht möglich, zunehmender Beliebtheit:
-            </p>
-            <p>
+          </p>
+          <p>
             <ul>
-              <li>
-                im Wohnmobil
-                </li>
+              <li>im Wohnmobil</li>
               <li>im Gartenhaus</li>
               <li>im Wochenend- oder Ferienhaus.</li>
             </ul>
