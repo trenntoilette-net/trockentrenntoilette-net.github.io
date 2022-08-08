@@ -535,6 +535,10 @@
       </div>
     </div>
     <!-- Team End -->
+
+    <!-- Seo Text -->
+    <SeoTextIndex />
+    <!-- Seo Text End -->
   </div>
 </template>
 

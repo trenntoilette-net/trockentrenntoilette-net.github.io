@@ -23,7 +23,7 @@
     </div>
     <div class="container pt-5">
       <div class="row g-5">
-        <div class="col-lg-8 fadeInUp" style="min-height: 400px">
+        <div class="col-lg-8 offset-lg-2 fadeInUp" style="min-height: 400px">
           <h2 class="mb-4">
             Autarke Toilettennutzung dank Einstreu für die Trockentrenntoilette
           </h2>
