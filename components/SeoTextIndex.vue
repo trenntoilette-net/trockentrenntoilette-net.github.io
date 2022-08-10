@@ -3,7 +3,7 @@
     <div class="row g-5">
       <div class="col-lg-8 offset-lg-2 fadeInUp" style="min-height: 400px">
         <div class="mb-4 h2">
-          Trocken- und Trenntoiletten: Hersteller, Produkte & Ratgeber
+          Trockentrenntoiletten: Hersteller, Produkte & Ratgeber
         </div>
         <p class="mb-4">
           Trockentrenntoiletten erfreuen sich überall, wo wasserführende
@@ -27,20 +27,21 @@
           ohne Rohrleitungssystem und Wasseranschluss aus.
         </p>
         <p class="mb-4">
-          Moderne Trenn- und Trockentoiletten sind die umweltfreundliche,
+          Moderne Trenn- und Trockentrenntoiletten sind die umweltfreundliche,
           hygienische und geruchsneutrale Alternative zu chemischen Toiletten.
         </p>
         <div class="mb-4 h2 pt-5">
-          Der Unterschied zwischen Trenn- und Trockentoiletten
+          Was ist der Unterschied zwischen Trenntoiletten und
+          Trockentrenntoiletten
         </div>
         <p class="mb-4">
           Der Begriff Trockentrenntoilette setzt sich aus den Bezeichnungen
-          Trockentoilette und Trenntoilette zusammen:
+          Trockentrenntoilette und Trenntoilette zusammen:
         </p>
-        <p class="mb-4 h4">Was ist eine Trockentoilette?</p>
+        <p class="mb-4 h4">Was ist eine Trockentrenntoilette?</p>
         <p class="mb-4">
-          Wie es der Name bereits andeutet: Trockentoiletten kommen ganz ohne
-          Wasser aus.
+          Wie es der Name bereits andeutet: Trockentrenntoiletten kommen ganz
+          ohne Wasser aus.
         </p>
         <p class="mb-4">
           Ansonsten verfügen auch diese Toiletten über einen Sitz, einen Deckel
@@ -49,10 +50,10 @@
           muss – oder es findet eine Trennung statt. Hier beginnt bereits der
           Übergang zur Trenntoilette.
         </p>
-        <div class="mb-4 h4">Was zeichnet eine Trenntoilette aus?</div>
+        <div class="mb-4 h4">Was zeichnet eine Trockentrennoilette aus?</div>
         <p class="mb-4">
-          Hat eine Trockentoilette getrennte Behälter für Gelbes und Braunes,
-          ist sie gleichzeitig auch eine Trenntoilette.
+          Hat eine Trockentrenntoilette getrennte Behälter für Gelbes und
+          Braunes, ist sie gleichzeitig auch eine Trenntoilette.
         </p>
         <p class="mb-4">
           Die Trennung ist sinnvoll, da die Vermischung von Ausscheidungen zu
@@ -81,8 +82,8 @@
 
         <div class="mb-4 h5">
           Merke: Eine Trockentrennoilette ist eine Kombination aus
-          Trockentoilette und Trenntoilette. Sie kommt ohne Wasser aus und hat
-          getrennte Auffangvorrichtungen für Urin und Kot.
+          Trockentrenntoilette und Trenntoilette. Sie kommt ohne Wasser aus und
+          hat getrennte Auffangvorrichtungen für Urin und Kot.
         </div>
 
         <div class="mb-4 h2 pt-5">
@@ -94,13 +95,13 @@
           Behältnisse, Entnahme-, Reinigungs- und Entsorgungsmöglichkeiten sowie
           das Zubehör. Trenntoiletten können kleine
           Vollkunststoff-Konstruktionen sein, die großen Mülleimern ähneln. Es
-          gibt Trockentoiletten in Holzverkleidungen, fertige Klohäuschen,
+          gibt Trockentrenntoiletten in Holzverkleidungen, fertige Klohäuschen,
           Camping-Trenntoiletten oder Minitoiletten.
         </p>
 
         <p class="lead mb-4">
           Bei uns finden Sie die beliebtesten Modelle, dazu Tipps und Tricks
-          sowie ausführliche Kaufratgeber zum Thema Trockentoilette und
+          sowie ausführliche Kaufratgeber zum Thema Trockentrenntoilette und
           Trenntoilette.
         </p>
       </div>
