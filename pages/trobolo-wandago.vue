@@ -224,7 +224,7 @@ export default {
             "@type": "Offer",
             url: this.product.shopLink,
             priceCurrency: "EUR",
-            price: "199.00",
+            price: "249.00",
             priceValidUntil: "2024-11-20",
             itemCondition: "https://schema.org/NewCondition",
             availability: "https://schema.org/InStock",
