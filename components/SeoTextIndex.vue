@@ -56,7 +56,7 @@
           was für Männer und Frauen gleichermaßen gilt. Das Trennsystem
           funktioniert berührungslos, sodass der Körperkontakt nur am
           Toilettensitz stattfindet. Nur das Urinieren im Stehen sollte
-          vermieden werden, da der Urin sonst nicht getrennt werden kann
+          vermieden werden, da der Urin sonst nicht getrennt werden kann.
         </p>
         <p class="mb-4">
           Die Höhe und der Durchmesser des Toilettensitzes entsprechen den
@@ -72,7 +72,7 @@
           Gleiche! Erfahrungsgemäß kann gesagt werden, dass Nutzer überrascht
           über solch einer Toilette insbesondere, über die reduzierte
           Geruchsemissionen, sind. Das macht die Trockentrenntoilette zu einer
-          großartigen Option fürs den
+          großartigen Option für den
           <nuxt-link
             to="/innenbereich/"
             title="Trockentrenntoiletten für den Innenbereich"
