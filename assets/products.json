@@ -186,9 +186,28 @@
         "linkTo": "/trobolo-wandago/",
         "stars": 5,
         "price": "249,00",
-        "reviewCount": 10,
+        "reviewCount": 39,
         "image": "/assets/images/campingtoiletten/campingtoilette-trobolo-wandago.webp",
         "shopLink": "https://trobolo.com/de/produkte/wandago/",
+        "featured": 1
+    },
+    {
+        "brand": "Trelino",
+        "name": "Trelino EVO S",
+        "category": "Campingtoilette",
+        "material": "Acrylnitril-Butadien-Styrol",
+        "size": "Höhe 290 - Tiefe 390 - Breite 330 mm",
+        "weight": "4,3 kg",
+        "payload": "unbekannt",
+        "function": "Trennsystem",
+        "manufacturerLink": "/hersteller/trelino/",
+        "linkTitle": "Mobile Trenntoilette EVO S von Trelino im Test",
+        "linkTo": "/trelino-evo-s/",
+        "stars": 4,
+        "price": "299,00",
+        "reviewCount": 1,
+        "image": "/assets/images/campingtoiletten/campingtoilette-trelino-evo-s.webp",
+        "shopLink": "https://www.trelino.com/de/products/trelino%C2%AE-evo-s",
         "featured": 1
     }
 ]
