@@ -243,7 +243,7 @@ export default {
           "@type": "Product",
           name: this.product.name,
           image: [
-            "https://www.trockentrenntoilette.net/assets/images/campingtoiletten/campingtoiletten/campingtoilette-trelino-evo-s.webp",
+            "https://www.trockentrenntoilette.net/assets/images/campingtoiletten/campingtoilette-trelino-evo-s.webp",
           ],
           description:
             "Trelino EVO S ultraleichte Trenntoilette für den mobilen Einsatz. Die Trenntoilette ist für den Einsatz im Van, im Boot, im PKW oder beim Camping geeignet.",
