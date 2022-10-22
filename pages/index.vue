@@ -73,6 +73,28 @@
     </div>
     <!-- About End -->
 
+    <!-- Testsieger Start -->
+    <div class="container-xxl py-5" id="testsieger">
+      <div class="container">
+        <div class="text-center fadeInUp">
+          <div class="section-title bg-white text-center text-primary px-3 h6">
+            Trockentrenntoiletten
+          </div>
+          <h4 class="mb-5 h2">Testsieger</h4>
+        </div>
+        <div class="row g-4 justify-content-center">
+          <div
+            v-for="product in featured"
+            :key="product.name"
+            class="col-lg-4 col-md-6 fadeInUp"
+          >
+            <ProductItem :product="product" />
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Testsieger End -->
+
     <!-- Vorteile Start -->
     <div class="container-xxl py-5">
       <div class="container">
@@ -272,28 +294,6 @@
       </div>
     </div>
     <!-- Hersteller End -->
-
-    <!-- Testsieger Start -->
-    <div class="container-xxl py-5" id="testsieger">
-      <div class="container">
-        <div class="text-center fadeInUp">
-          <div class="section-title bg-white text-center text-primary px-3 h6">
-            Trockentrenntoiletten
-          </div>
-          <h4 class="mb-5 h2">Testsieger</h4>
-        </div>
-        <div class="row g-4 justify-content-center">
-          <div
-            v-for="product in featured"
-            :key="product.name"
-            class="col-lg-4 col-md-6 fadeInUp"
-          >
-            <ProductItem :product="product" />
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- Testsieger End -->
 
     <!-- Innenbereich Start -->
     <div class="container-xxl py-5" id="produkte">
