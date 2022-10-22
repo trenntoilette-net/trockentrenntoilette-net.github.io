@@ -380,7 +380,7 @@
                   alt=""
                 />
               </div>
-              <div
+              <!-- <div
                 class="position-relative d-flex justify-content-center"
                 style="margin-top: -23px"
               >
@@ -404,7 +404,7 @@
                     <i class="fab fa-instagram"></i>
                   </button>
                 </div>
-              </div>
+              </div> -->
               <div class="text-center p-4">
                 <div class="mb-0 h5">Ringo Hülsmann</div>
                 <small>Der "Toilettenkönig"</small>
@@ -420,7 +420,7 @@
                   alt=""
                 />
               </div>
-              <div
+              <!-- <div
                 class="position-relative d-flex justify-content-center"
                 style="margin-top: -23px"
               >
@@ -444,7 +444,7 @@
                     <i class="fab fa-instagram"></i>
                   </button>
                 </div>
-              </div>
+              </div> -->
               <div class="text-center p-4">
                 <div class="mb-0 h5">Leonie Meyer</div>
                 <small>Biologin</small>
@@ -460,7 +460,7 @@
                   alt=""
                 />
               </div>
-              <div
+              <!-- <div
                 class="position-relative d-flex justify-content-center"
                 style="margin-top: -23px"
               >
@@ -484,7 +484,7 @@
                     <i class="fab fa-instagram"></i>
                   </button>
                 </div>
-              </div>
+              </div> -->
               <div class="text-center p-4">
                 <div class="mb-0 h5">Markus Baum</div>
                 <small>Ökologe</small>
@@ -500,7 +500,7 @@
                   alt=""
                 />
               </div>
-              <div
+              <!-- <div
                 class="position-relative d-flex justify-content-center"
                 style="margin-top: -23px"
               >
@@ -524,7 +524,7 @@
                     <i class="fab fa-instagram"></i>
                   </button>
                 </div>
-              </div>
+              </div> -->
               <div class="text-center p-4">
                 <div class="mb-0 h5">Anh Tanaka</div>
                 <small>Innenarchitektin</small>
