@@ -16,9 +16,8 @@
               Die Trelino Evo S ist eine mobile Trenntoilette von dem Hersteller
               Trelino. Sie ist sehr leicht im Gewicht und extrem kompakt, daher
               lässt sie sich leicht transportieren und dort verwenden, wo wenig
-              Platz verfügbar ist. Idealerweise kann diese diese mobile
-              Trenntoilette beim Camping, im Van, oder auf Booten genutzt
-              werden.
+              Platz verfügbar ist. Idealerweise kann diese mobile Trenntoilette
+              beim Camping, im Van, oder auf Booten genutzt werden.
             </p>
 
             <h5 class="mb-3 mt-5">Komfort</h5>
@@ -81,12 +80,8 @@
             <p>
               Da die Trenntoilette für den mobilen Einsatz entwickelt worden
               ist, sollte ein Ausschwappen von Feststoffen oder Urin während der
-              Fahrt nicht auftreten.
-            </p>
-
-            <p>
-              Selbstverständlich kommt auch diese Trenntoilette ohne Wasser oder
-              Chemie aus.
+              Fahrt nicht auftreten. Die Evo S kommt ohne Wasser oder Chemie
+              aus.
             </p>
 
             <p>
@@ -99,7 +94,7 @@
               Zu erwähnen ist auch, dass die kompakte Trenntoilette über einen
               Deckel verfügt, welcher eine Soft-Close Automatik hat. Aus
               Erfahrung können wir sagen, dass dies im alltäglichen Gebrauch
-              einen wichtigen Komfort mit sich bringt.
+              einen Bonus an Komfort liefert.
             </p>
 
             <h5 class="mb-3 mt-5">Nachhaltigkeit</h5>
@@ -119,7 +114,7 @@
             <p>
               Trelino bietet für die Evo S Membrane, welche preislich bei 14,90
               Euro liegen, sowie ein Premium Zubehör Set mit 10 Liter Beuteln
-              für 38,80 oder 30 Liter Beutel für 40,90.
+              für 38,80 Euro oder 30 Liter Beutel für 40,90 Euro.
             </p>
 
             <h5 class="mb-3 mt-5">Fazit</h5>
@@ -138,14 +133,14 @@
             </p>
 
             <p>
-              Vergleichsweise gibt es eine mobile
+              Vergleichsweise gibt es eine mobile Campingtoilette von TROBOLO
               <nuxt-link
                 to="/trobolo-wandago/"
                 title="Campingtoilette TROBOLO WandaGO im Test"
-                >Campingtoilette von TROBOLO</nuxt-link
-              >, welcher eine ähnliche Größe besitzt, sich aber aufstellen
-              lässt, dadurch eine normale Sitzhöhe erreicht und preislich 51,00
-              Euro günstiger liegt.
+                >(Testbericht zur WandaGO)</nuxt-link
+              >, welche sehr ähnliche Eckdaten besitzt, sich aber aufstellen
+              lässt. Dadurch hat die WandaGO eine normale Sitzhöhe und liegt
+              preislich 51,00 Euro unter dem Preis der Trelino Evo S.
             </p>
 
             <p>
