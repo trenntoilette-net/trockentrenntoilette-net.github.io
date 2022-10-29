@@ -5,11 +5,17 @@
         <div class="row g-5">
           <div class="col-lg-3 col-md-6">
             <h4 class="text-white mb-3">Schnellzugriff</h4>
-            <button class="btn btn-link">Über Uns</button>
-            <button class="btn btn-link">Kontakt</button>
-            <button class="btn btn-link">Datenschutz</button>
-            <button class="btn btn-link">AGBs</button>
-            <button class="btn btn-link">FAQs & Hilfe</button>
+            <nuxt-link to="/datenschutz/#impresum" class="btn btn-link"
+              >Impressum</nuxt-link
+            >
+            <nuxt-link to="/datenschutz/#datenschutz" class="btn btn-link"
+              >Datenschutz</nuxt-link
+            >
+            <nuxt-link to="/datenschutz/" class="btn btn-link"
+              >Kontakt</nuxt-link
+            >
+            <!-- <button class="btn btn-link">AGBs</button> -->
+            <!-- <button class="btn btn-link">FAQs & Hilfe</button> -->
           </div>
           <div class="col-lg-3 col-md-6" id="kontakt">
             <h4 class="text-white mb-3">Kontakt</h4>
@@ -125,8 +131,8 @@
               <div class="footer-menu">
                 <a href="/" title="Trockentrenntoilette">Home</a>
                 <a href="#testsieger">Testsieger</a>
-                <a href="#hilfe">Hilfe</a>
-                <a href="#faq">FAQs</a>
+                <!-- <a href="#hilfe">Hilfe</a> -->
+                <!-- <a href="#faq">FAQs</a> -->
               </div>
             </div>
           </div>
