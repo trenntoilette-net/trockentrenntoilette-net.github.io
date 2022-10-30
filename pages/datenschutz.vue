@@ -373,6 +373,11 @@ export default {
         content:
           "Finde die richtige Trockentrenntoilette für's Haus, TinyHouse oder Gartenhaus. Produkte, Anbieter und Testberichte. Vor dem Kauf informieren.",
       },
+      {
+        hid: "robots",
+        name: "robots",
+        content: "noindex, follow, noarchive"
+      }
     ],
   },
   asyncData() {
