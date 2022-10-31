@@ -349,7 +349,7 @@
               kann es notwendig werden, diese Datenschutzerklärung zu
               aktualisieren. Die jeweils aktuelle Datenschutzerklärung kann
               jederzeit auf unserer Website unter
-              https://trockentrenntoilette.net/impressum/ von dir abgerufen
+              https://trockentrenntoilette.net/datenschutz/#impressum von dir abgerufen
               werden.
             </p>
           </div>
