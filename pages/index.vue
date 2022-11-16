@@ -8,7 +8,7 @@
             <div class="position-relative h-100">
               <nuxt-img
                 class="img-fluid position-absolute w-100 h-100"
-                src="/assets/images/trenntoiletten-im-test.png"
+                src="/assets/images/trockentrenntoiletten-im-test.png"
                 format="webp"
                 quality="90"
                 alt="Testsieger Trockentrenntoiletten"
