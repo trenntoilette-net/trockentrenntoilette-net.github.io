@@ -93,8 +93,10 @@
 
             <p>
               In unserem Testbericht über die
-              <NuxtLink to="/trelino-l/" title="Trelino L mit HPL Veredelung"
-                >Trelino L mit HPL Veredelung</NuxtLink
+              <NuxtLink
+                to="/trelino-l/"
+                title="Trelino Timber L mit HPL Veredelung"
+                >Trelino Timber L mit HPL Veredelung</NuxtLink
               >
               hat die Campingtoilette in der Größe L sehr gut abgeschnitten und
               erhielt 4 von 5 Sternen. Das allgemeine Preis-Leistungs-Verhältnis

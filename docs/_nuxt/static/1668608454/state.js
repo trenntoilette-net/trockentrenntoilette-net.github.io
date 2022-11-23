@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1668608454",layout:"default",error:a,serverRendered:true,routePath:b,config:{_app:{basePath:b,assetsPath:"\u002F_nuxt\u002F",cdnURL:a}},_img:{"/_ipx/f_webp,q_90/assets/images/trockentrenntoiletten-im-test.png":"\u002F_nuxt\u002Fimages\u002Ftrockentrenntoiletten-im-test.webp"}}}(null,"\u002F"));

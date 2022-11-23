@@ -30,8 +30,8 @@
               wie zB. zur
               <NuxtLink
                 to="/trelino-l/"
-                title="Trelino L mit HPL Veredelung im Test"
-                >Trelino L mit HPL Veredelung</NuxtLink
+                title="Trelino Timber L mit HPL Veredelung im Test"
+                >Trelino Timber L mit HPL Veredelung</NuxtLink
               >, ein kleiner Abstrich bezüglich des Komforts gemacht werden.
               Dies bedeutet jedoch nicht, das die Funktionalität nicht gegeben
               ist, im Gegenteil, denn die Campingtoilette von Kildwick erwies
@@ -132,7 +132,11 @@
             <p>
               Aufgrund der kompakten Größe und des geringen Gewichts vergeben
               wir der Kildwick MiniLoo eine Bestnote in der Kategorie
-              <NuxtLink to="/campingtoilette/" title="Alle Campingtoiletten im Überblick">Campingtoiletten</NuxtLink>.
+              <NuxtLink
+                to="/campingtoilette/"
+                title="Alle Campingtoiletten im Überblick"
+                >Campingtoiletten</NuxtLink
+              >.
             </p>
 
             <div class="row gy-2 gx-4 mb-5 mt-5">
