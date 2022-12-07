@@ -21,6 +21,7 @@
         </div>
       </div>
     </div>
+    <SeoTextInnenbereich />
   </div>
 </template>
 
