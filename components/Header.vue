@@ -64,6 +64,12 @@
                 class="dropdown-item"
                 >Trelino</nuxt-link
               >
+              <!-- <nuxt-link
+                to="/hersteller/boxio/"
+                title="Boxio"
+                class="dropdown-item"
+                >Boxio</nuxt-link
+              > -->
             </div>
           </div>
           <div class="nav-item dropdown">

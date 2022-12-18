@@ -1,4 +1,5 @@
-[{
+[
+    {
         "brand": "TROBOLO",
         "name": "TROBOLO TeraBlœm",
         "category": "Innenbereich",
@@ -209,6 +210,25 @@
         "reviewCount": 1,
         "image": "/assets/images/campingtoiletten/campingtoilette-trelino-evo-s.webp",
         "shopLink": "https://www.trelino.com/de/products/trelino%C2%AE-evo-s",
+        "featured": 1
+    },
+    {
+        "brand": "Boxio",
+        "name": "Boxio",
+        "category": "Campingtoilette",
+        "material": "(PP) Regenerat (Kunststoff)",
+        "size": "Höhe 280 - Tiefe 400 - Breite 300 mm",
+        "weight": "3,9 kg",
+        "payload": "unbekannt",
+        "function": "Trennsystem",
+        "manufacturerLink": "",
+        "linkTitle": "Boxio Campingtoilette im Test",
+        "linkTo": "/boxio-campingtoilette/",
+        "stars": 4,
+        "price": "149,00",
+        "reviewCount": 43,
+        "image": "/assets/images/campingtoiletten/boxio-campingtoilette-eurobox.jpg",
+        "shopLink": "https://boxio.de/products/boxio-toilet",
         "featured": 1
     }
 ]

@@ -5,11 +5,12 @@
       <ul class="list-unstyled">
         <li class="d-flex justify-content-between align-items-center">
           <span>Hersteller</span>
-          <span
+          <span v-if="product.manufacturerLink"
             ><NuxtLink :to="product.manufacturerLink">{{
               product.brand
             }}</NuxtLink></span
           >
+          <span v-else>{{ product.brand }}</span>
         </li>
         <hr />
         <li class="d-flex justify-content-between align-items-center">

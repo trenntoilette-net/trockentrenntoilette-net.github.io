@@ -3,7 +3,13 @@
     <div class="course-item bg-light">
       <div class="position-relative overflow-hidden">
         <NuxtLink :to="product.linkTo" :title="product.linkTitle">
-          <img class="img-fluid" :src="product.image" :alt="product.name" />
+          <nuxt-img
+            class="img-fluid"
+            :src="product.image"
+            :alt="product.name"
+            format="webp"
+            quality="90"
+          />
         </NuxtLink>
         <div
           class="
@@ -53,9 +59,12 @@
       <div class="d-flex border-top">
         <small class="flex-fill text-center border-end py-2"
           ><i class="fa fa-toilet text-primary me-2"></i
-          ><NuxtLink :to="product.manufacturerLink" :title="product.brand">{{
-            product.brand
-          }}</NuxtLink></small
+          ><NuxtLink
+            v-if="product.manufacturerLink"
+            :to="product.manufacturerLink"
+            :title="product.brand"
+            >{{ product.brand }}</NuxtLink
+          ></small
         >
         <small class="flex-fill text-center border-end py-2"
           ><i class="fa text-primary me-2"></i
