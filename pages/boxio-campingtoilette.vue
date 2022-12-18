@@ -235,7 +235,7 @@ export default {
             "@type": "Offer",
             url: "https://www.trockentrenntoilette.net/boxio-campingtoilette/",
             priceCurrency: "EUR",
-            price: this.product.price.toString(),
+            price: this.product.price.toString().replace(",", "."),
             priceValidUntil: "2024-11-20",
             itemCondition: "https://schema.org/NewCondition",
             availability: "https://schema.org/InStock",
