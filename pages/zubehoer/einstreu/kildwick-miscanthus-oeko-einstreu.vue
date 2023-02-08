@@ -155,7 +155,7 @@ export default {
                     },
                     offers: {
                         "@type": "Offer",
-                        url: "https://www.trockentrenntoilette.net/zubehoer/einstreu/kildwick-miscanthus-oeko-streu/",
+                        url: "https://www.trockentrenntoilette.net/zubehoer/einstreu/kildwick-miscanthus-oeko-einstreu/",
                         priceCurrency: "EUR",
                         price: this.product.schemaPrice.toString(),
                         priceValidUntil: "2024-11-20",
