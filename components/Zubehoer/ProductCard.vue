@@ -5,11 +5,11 @@
       <ul class="list-unstyled">
         <li class="d-flex justify-content-between align-items-center">
           <span>Hersteller</span>
-          <span
-            ><NuxtLink :to="product.manufacturerLink">{{
-              product.brand
-            }}</NuxtLink></span
-          >
+          <span></span>
+          <NuxtLink :to="product.manufacturerLink">{{
+            product.brand
+          }}</NuxtLink>
+          </span>
         </li>
         <hr />
         <li class="d-flex justify-content-between align-items-center">
@@ -26,24 +26,15 @@
           <span>Kategorie</span>
           <span>
             <NuxtLink :to="`/zubehoer/${product.category.toLowerCase()}/`">
-              {{ product.category }}</NuxtLink
-            >
+              {{ product.category }}</NuxtLink>
           </span>
         </li>
         <hr />
         <li class="d-flex justify-content-between align-items-center">
           <span>Bewertung</span>
           <div class="mb-1 mt-3">
-            <small
-              v-for="star in product.stars"
-              :key="star"
-              class="pl-3 fa fa-star text-primary"
-            ></small>
-            <small
-              v-for="index in 5 - product.stars"
-              :key="index"
-              class="fa fa-star text-default"
-            ></small>
+            <small v-for="(star, index) in product.stars" :key="index" class="pl-3 fa fa-star text-primary"></small>
+            <small v-for="index in 5 - product.stars" :key="index" class="fa fa-star text-default"></small>
           </div>
         </li>
         <hr />

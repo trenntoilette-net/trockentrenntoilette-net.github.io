@@ -6,12 +6,8 @@
         <div class="row g-5">
           <div class="col-lg-6 fadeInUp" style="min-height: 400px">
             <div class="position-relative h-100">
-              <img
-                class="img-fluid position-absolute w-100 h-100"
-                :src="productImage"
-                :alt="productName"
-                style="object-fit: cover; object-position: center bottom"
-              />
+              <nuxt-img class="img-fluid position-absolute w-100 h-100" :src="productImage" :alt="productName"
+                quality="90" format="webp" style="object-fit: cover; object-position: center bottom" />
             </div>
           </div>
           <div class="col-lg-6 fadeInUp">
@@ -62,9 +58,7 @@
                 </p>
               </div>
             </div> -->
-            <a class="btn btn-primary py-3 px-5 mt-2" href="#testbericht"
-              >Zum Testbericht</a
-            >
+            <a class="btn btn-primary py-3 px-5 mt-2" href="#testbericht">Zum Testbericht</a>
           </div>
         </div>
       </div>

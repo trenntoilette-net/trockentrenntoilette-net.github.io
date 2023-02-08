@@ -1,20 +1,47 @@
-[{
-    "brand": "TROBOLO",
-    "name": "TROBOLO Einstreu",
-    "linkTo": "/zubehoer/einstreu/trobolo-einstreu/",
-    "linkTitle": "TROBOLO Einstreu für die Trockentrenntoilette",
-    "price": "19,90",
-    "liter": 25,
-    "material": ["80% Kiefer", "20% Erle"],
-    "numberOfUsage": "85-115",
-    "shopLink": "https://trobolo.com/de/produkte/einstreu/",
-    "manufacturerLink": "/hersteller/trobolo/",
-    "category": "Einstreu",
-    "reviewCount": 599,
-    "ratingValue": 4.9,
-    "stars": 5,
-    "image": "/assets/images/zubehoer/einstreu/trobolo-einstreu.webp",
-    "schemaPrice": 19.90,
-    "sku": "ESXX1325",
-    "mpn": "23963"
-}]
+[
+    {
+        "brand": "TROBOLO",
+        "name": "TROBOLO Einstreu",
+        "linkTo": "/zubehoer/einstreu/trobolo-einstreu/",
+        "linkTitle": "TROBOLO Einstreu für die Trockentrenntoilette",
+        "price": "19,90",
+        "liter": 25,
+        "material": [
+            "80% Kiefer",
+            "20% Erle"
+        ],
+        "numberOfUsage": "85-115",
+        "shopLink": "https://trobolo.com/de/produkte/einstreu/",
+        "manufacturerLink": "/hersteller/trobolo/",
+        "category": "Einstreu",
+        "reviewCount": 599,
+        "ratingValue": 4.9,
+        "stars": 5,
+        "image": "/assets/images/zubehoer/einstreu/trobolo-einstreu.webp",
+        "schemaPrice": 19.90,
+        "sku": "ESXX1325",
+        "mpn": "23963"
+    },
+    {
+        "brand": "Kildwick",
+        "name": "Kildwick Miscanthus Einstreu",
+        "linkTo": "/zubehoer/einstreu/kildwick-miscanthus-oeko-einstreu/",
+        "linkTitle": "Kildwick Miscanthus Einstreu für die Trockentrenntoilette",
+        "price": "14,90",
+        "liter": 17,
+        "material": [
+            "Chinaschilf"
+        ],
+        "numberOfUsage": "50",
+        "shopLink": "https://www.kildwick.com/de/miscanthus-oeko-streu",
+        "manufacturerLink": "/hersteller/kildwick/",
+        "category": "Einstreu",
+        "reviewCount": 134,
+        "ratingValue": 4.4,
+        "stars": 4,
+        "image": "/assets/images/zubehoer/einstreu/kildwick-miscanthus-oeko-einstreu.webp",
+        "schemaPrice": 14.90,
+        "sku": "8720165056019",
+        "mpn": "8720165056019"
+    }
+]
