@@ -179,7 +179,7 @@ export default {
                             "@type": "ListItem",
                             position: 2,
                             item: {
-                                "@id": "https://www.trockentrenntoilette.net/zubehoer/einstreu/kildwick-miscanthus-oeko-streu/",
+                                "@id": "https://www.trockentrenntoilette.net/zubehoer/einstreu/kildwick-miscanthus-oeko-einstreu/",
                                 name: this.product.name,
                             },
                         },
