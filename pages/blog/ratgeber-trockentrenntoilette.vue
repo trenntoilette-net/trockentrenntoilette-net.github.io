@@ -141,6 +141,41 @@ export default {
         return {
             article: config.blogArticles.find((article) => article.title === "Ratgeber Trockentrenntoilette")
         }
+    },
+    jsonld() {
+        return {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [{
+                "@type": "Question",
+                "name": "Was genau ist eine Trockentrenntoilette?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": " Wie der Name bereits vermuten lässt, verzichtet eine Trockentoilette vollständig auf den Einsatz von Wasser und Chemikalien. Mithilfe eines entsprechenden Trenneinsatzes wird sie zur Trockentrenntoilette. Dieser sogenannte Separator sorgt dafür, dass eine Vermischung von Exkrementen nicht mehr stattfinden kann. Denn während der Urin durch den trichterförmigen Einsatz direkt in den dafür vorgesehenen Kanister geleitet wird, gelangen Feststoffe und Klopapier schwerkraftbedingt in den mit einem Auffangbeutel ausgestatteten Feststoffeimer. Eine solch gezielte Trennung verhindert unangenehme Geruchsbildung und vereinfacht die Entsorgung erheblich. So lassen sich die Inhalte von Urinkanister und Feststoffbehälter problemlos über das WC bzw. über den Hausmüll entsorgen. Eine umweltfreundliche Alternative wäre, den Urin mit Wasser verdünnt als Biodünger für den Garten zu verwenden und die Feststoffe über den Kompost zu entsorgen."
+                }
+            }, {
+                "@type": "Question",
+                "name": "Für wen eignen sich Trockentrenntoiletten besonders?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Aufgrund ihrer Funktionalität erweisen sich Trockentrenntoiletten überall dort als praktisch, wo keine Wasseranschlüsse oder Entsorgungsstationen vorhanden sind. Die Einsatzmöglichkeiten sind vielfältig und reichen von Wohnmobilen und Wohnwägen über Boote und Gartenhäuser bis hin zu Hütten, Wochenendhäusern und Tiny Houses. Auch wenn sie gänzlich auf Wasser verzichten, bieten sie doch eine sowohl hygienische als auch geruchsneutrale Alternative zur klassischen Campingtoilette."
+                }
+            }, {
+                "@type": "Question",
+                "name": "Wie lassen sich unangenehme Geruchsentwicklung vermeiden lässt",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Die Trennung von Urin und Feststoffen ist bereits die beste Prophylaxe gegen unangenehme Gerüche. Auf diese Weise wird vermieden, dass sich Urin und Feststoffe verbinden und so überhaupt erst zur Geruchsentwicklung beitragen. Während der Urin geruchsfrei in den Kanister abfließt, werden Feststoffe separiert und können auf diese Weise schneller abtrocknen. Trockentrenntoiletten machen sich die Tatsache zunutze, dass getrockneter Stuhl nicht mehr riecht. Einfach nach dem Toilettengang den Stuhl mit Einstreu bedecken – so werden auf einfachste Weise sichtbare Feststoffe abgedeckt und Feuchtigkeit gebunden. Und das ganz ohne geruchsintensive und umweltbedenkliche Zusätze. Alternativ wäre auch der Einbau eines elektrischen Abluftsystems mit Entlüftungsrohr möglich. Arbeitet dieses effizient, kann auf die Nutzung von Einstreu komplett verzichtet werden."
+                }
+            }, {
+                "@type": "Question",
+                "name": "Welche Vorteile bringt eine Trockentrenntoilette?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Sie sparen wertvolle Ressourcen, indem sie kein Wasser benötigen. Sie verzichten vollständig auf umweltbedenkliche Zusätze. Was die Hygiene angeht, stehen sie herkömmlichen Toiletten in nichts nach. Die Trennung in Urin und Feststoffe minimiert die Entstehung unangenehmer Gerüche. Eine Entsorgung ist problemlos und umweltfreundlich möglich. Autarke Aufenthalte abseits von Wasseranschlüssen, Kanalisation und Entsorgungsstationen sind längerfristig möglich."
+                }
+            }]
+        }
     }
 }
 </script>
