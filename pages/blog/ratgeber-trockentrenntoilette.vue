@@ -42,14 +42,15 @@
                                 Garten zu verwenden und die Feststoffe über den Kompost zu entsorgen.</p>
 
 
-                            <h3 class="mb-4 h2 pt-4">Für wen sich Trenntoiletten besonders eignen</h3>
+                            <h3 class="mb-4 h2 pt-4">Für wen eignen sich Trockentrenntoiletten besonders?</h3>
 
                             <p class="mb-4">Aufgrund ihrer Funktionalität erweisen sich Trockentrenntoiletten überall
                                 dort als praktisch, wo keine Wasseranschlüsse oder Entsorgungsstationen vorhanden sind.
                                 Die Einsatzmöglichkeiten sind vielfältig und reichen von Wohnmobilen und Wohnwägen über
                                 Boote und Gartenhäuser bis hin zu Hütten, Wochenendhäusern und Tiny Houses. Auch wenn
                                 sie gänzlich auf Wasser verzichten, bieten sie doch eine sowohl hygienische als auch
-                                geruchsneutrale Alternative zur klassischen Campingtoilette.</p>
+                                geruchsneutrale Alternative zur klassischen <nuxt-link to="/campingtoilette/"
+                                    title="Campingtoiletten">Campingtoilette</nuxt-link>.</p>
 
                             <h4 class="mb-4 h2 pt-4">Wie sich unangenehme Geruchsentwicklung vermeiden lässt</h4>
 
@@ -60,8 +61,11 @@
                                 Weise schneller abtrocknen.</p>
 
                             <p class="mb-4">
-                                Trenntoiletten machen sich die Tatsache zunutze, dass getrockneter Stuhl nicht mehr
-                                riecht. Einfach nach dem Toilettengang den Stuhl mit Einstreu bedecken – so werden auf
+                                Trockentrenntoiletten machen sich die Tatsache zunutze, dass getrockneter Stuhl nicht
+                                mehr
+                                riecht. Einfach nach dem Toilettengang den Stuhl mit <nuxt-link to="/zubehoer/einstreu/"
+                                    title="Einstreu für Trockentrenntoiletten">Einstreu</nuxt-link> bedecken – so werden
+                                auf
                                 einfachste Weise sichtbare Feststoffe abgedeckt und Feuchtigkeit gebunden. Und das ganz
                                 ohne geruchsintensive und umweltbedenkliche Zusätze. Alternativ wäre auch der Einbau
                                 eines elektrischen Abluftsystems mit Entlüftungsrohr möglich. Arbeitet dieses effizient,
@@ -86,7 +90,10 @@
                             <h6 class="mt-4 h2 pt-4">Fazit</h6>
 
                             <p class="mb-4">
-                                Trenntoiletten sind nachhaltig und ressourcenschonend und damit weitaus mehr als nur
+                                <nuxt-link to="/#produkte"
+                                    title="Trockentrenntoiletten kaufen">Trockentrenntoiletten</nuxt-link> sind
+                                nachhaltig und ressourcenschonend und damit weitaus mehr als
+                                nur
                                 eine praktische Alternative zu herkömmlichen Toiletten. Sie benötigen weder Wasser noch
                                 Chemie, Ausscheidungen lassen sich auf höchst umweltfreundliche Weise entsorgen. Unsere
                                 Modelle bieten Lösungen selbst auf kleinstem Raum – zögern Sie deshalb nicht, sich bei
