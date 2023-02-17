@@ -1,10 +1,8 @@
 <template>
   <div>
-    <ProductHeader
-      productName="Boxio Campingtoilette"
+    <ProductHeader productName="Boxio Campingtoilette"
       textContent="Die BOXIO Trenntoilette überzeugt durch ihr handliches Eurobox-Format. Ob Kofferraum, Camper, Gartenhaus oder Boot: Sie findet überall Platz und bietet eine umweltfreundliche Alternative zur Chemietoilette."
-      :productImage="product.image"
-    ></ProductHeader>
+      :productImage="product.image"></ProductHeader>
 
     <!-- About Start -->
     <div class="container-xxl py-5" id="testbericht">
@@ -13,11 +11,12 @@
           <div class="col-lg-8 fadeInUp" style="min-height: 400px">
             <h2 class="mb-4">Testbericht</h2>
             <p class="mb-4">
-              Die Trelino Evo S ist eine mobile Trenntoilette von dem Hersteller
-              Trelino. Sie ist sehr leicht im Gewicht und extrem kompakt, daher
-              lässt sie sich leicht transportieren und dort verwenden, wo wenig
-              Platz verfügbar ist. Idealerweise kann diese mobile Trenntoilette
-              beim Camping, im Van, oder auf Booten genutzt werden.
+              Die Boxio Trenntoilette ist eine innovative Alternative zu herkömmlichen Toiletten, die insbesondere für den
+              Einsatz in Wohnmobilen, Tiny Houses und anderen Wohnsituationen mit begrenztem Platzangebot konzipiert
+              wurde. Mit ihrem Trennsystem, das Flüssigkeiten von Feststoffen trennt, bietet die Boxio Trenntoilette eine
+              umweltfreundliche und hygienische Lösung für die Entsorgung menschlicher Ausscheidungen. In diesem Artikel
+              erfahren Sie alles Wissenswerte über die Boxio Trenntoilette, ihre Funktionsweise, ihre Vorteile und wie Sie
+              sie am besten nutzen können.
             </p>
 
             <h5 class="mb-3 mt-5">Komfort</h5>
@@ -147,25 +146,14 @@
                 </p>
               </div>
             </div>
-            <a
-              class="btn btn-primary py-3 px-5"
-              target="_blank"
-              rel="nofollow noopener"
-              :href="product.shopLink"
-              >Bestellen</a
-            >
+            <a class="btn btn-primary py-3 px-5" target="_blank" rel="nofollow noopener"
+              :href="product.shopLink">Bestellen</a>
           </div>
           <div class="col-lg-4 fadeInUp">
             <ProductCard :product="product" />
             <div class="mt-5">
-              <a
-                class="btn btn-primary py-3 px-5"
-                target="_blank"
-                rel="nofollow noopener"
-                :href="product.shopLink"
-                style="display: block; width: 100%"
-                >{{ product.brand }} Online Shop</a
-              >
+              <a class="btn btn-primary py-3 px-5" target="_blank" rel="nofollow noopener" :href="product.shopLink"
+                style="display: block; width: 100%">{{ product.brand }} Online Shop</a>
             </div>
           </div>
         </div>
