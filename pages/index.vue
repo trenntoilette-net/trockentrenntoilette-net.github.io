@@ -179,15 +179,7 @@
                     </div>
                   </div>
                   <div
-                    class="
-                      bg-white
-                      text-center
-                      position-absolute
-                      bottom-0
-                      end-0
-                      py-2
-                      px-3
-                    "
+                    class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3"
                     style="margin: 1px"
                   >
                     <div class="m-0 h5">TROBOLO</div>
@@ -212,15 +204,7 @@
                     </div>
                   </div>
                   <div
-                    class="
-                      bg-white
-                      text-center
-                      position-absolute
-                      bottom-0
-                      end-0
-                      py-2
-                      px-3
-                    "
+                    class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3"
                     style="margin: 1px"
                   >
                     <div class="m-0 h5">Trelino</div>
@@ -245,15 +229,7 @@
                     </div>
                   </div>
                   <div
-                    class="
-                      bg-white
-                      text-center
-                      position-absolute
-                      bottom-0
-                      end-0
-                      py-2
-                      px-3
-                    "
+                    class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3"
                     style="margin: 1px"
                   >
                     <div class="m-0 h5">Kildwick</div>
@@ -276,15 +252,7 @@
                 </div>
               </div>
               <div
-                class="
-                  bg-white
-                  text-center
-                  position-absolute
-                  bottom-0
-                  end-0
-                  py-2
-                  px-3
-                "
+                class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3"
                 style="margin: 1px"
               >
                 <div class="m-0 h5">Meine Trenntoilette</div>
@@ -541,11 +509,18 @@
     <!-- Seo Text -->
     <SeoTextIndex />
     <!-- Seo Text End -->
+
+    <!-- FAQ -->
+    <FAQ
+      :faqs="faqs"
+      faqTitle="Häufig gestellte Fragen zum Thema Trockentrenntoiletten"
+    />
   </div>
 </template>
 
 <script>
 import products from "~/assets/products.json";
+import { faqs } from "~/assets/data/config.json";
 
 export default {
   name: "IndexPage",
@@ -559,6 +534,11 @@ export default {
           "Testberichte und Empfehlungen für die richtige Trockentrenntoilette. Hersteller und Produktvergleich. Vor dem Kauf informieren. Das Vergleichsportal.",
       },
     ],
+  },
+  data() {
+    return {
+      faqs,
+    };
   },
   asyncData: () => {
     return {

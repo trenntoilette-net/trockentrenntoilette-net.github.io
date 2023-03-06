@@ -97,5 +97,39 @@
             "date": "2023-02-08",
             "isDownloadableFile": false
         }
+    ],
+    "faqs": [
+        {
+            "question": "Was ist ein Komposttoilette?",
+            "answer": "Eine Komposttoilette ist eine Toilette, bei der menschliche Ausscheidungen und Toilettenpapier durch biologische Prozesse in Humus umgewandelt werden."
+        },
+        {
+            "question": "Wie funktioniert eine Trockentrenntoilette?",
+            "answer": "Eine Trockentrenntoilette verwendet keine Spülung. Stattdessen werden die Ausscheidungen voneinander getrennt und das Abfallmaterial mit Einstreu aus Sägemehl, Torf oder ähnlichen Materialien bedeckt, um Gerüche zu reduzieren und Feuchtigkeit aufzunehmen."
+        },
+        {
+            "question": "Wie oft muss eine Trockentrenntoilette geleert werden?",
+            "answer": "Wie oft eine Trockentrenntoilette geleert werden muss, hängt von der Größe des Tanks und der Anzahl der Benutzer ab. In der Regel muss sie alle paar Wochen bis Monate geleert werden."
+        },
+        {
+            "question": "Kann ich Toilettenpapier in einer Trockentrenntoilette verwenden?",
+            "answer": "Ja, Sie können Toilettenpapier in einer Trockentrenntoilette verwenden. Verwenden Sie im idealfall jedoch Toilettenpapier, das biologisch abbaubar ist."
+        },
+        {
+            "question": "Wie riecht eine Trockentrenntoilette?",
+            "answer": "Eine ordnungsgemäß betriebene Trockentrenntoilette sollte nicht riechen. Einige Modelle haben jedoch Lüftungssysteme, um Gerüche zu reduzieren. Ebenfalls kann bei eventueller Geruchsentwicklung Einstreu verwendet werden, welches Feuchtigkeit bindet und somit der Geruchsentwicklung entgegenwirkt."
+        },
+        {
+            "question": "Kann ich eine Trockentrenntoilette im Freien verwenden?",
+            "answer": "Ja, eine Trockentrenntoilette kann im Freien verwendet werden. Es gibt spezielle Modelle, die für den Außenbereich konzipiert sind."
+        },
+        {
+            "question": "Wie viel kostet eine Trockentrenntoilette?",
+            "answer": "Die Kosten für eine Trockentrenntoilette können je nach Modell, Größe und Funktion variieren. In der Regel kostet eine einfache Komposttoilette zwischen 500 und 1500 Euro, während komplexere Modelle mehr kosten können."
+        },
+        {
+            "question": "Kann ich eine Trockentoilette in meinem Haus installieren?",
+            "answer": "Ja, eine Trockentrenntoilette kann im Haus verwendet werden. Der Geruchsentwicklung können Sie mit Einstreu, speziell für Trockentrenntoiletten, entgegenwirken. Es gibt auch verschiedene Modelle und Größen von Trockentrenntoiletten, die an die Bedürfnisse eines Hauses angepasst werden können. Es ist jedoch wichtig zu beachten, dass die Handhabung von festem Abfall und Urin bei der Verwendung einer Trockentrenntoilette etwas anders ist als bei einer herkömmlichen Toilette. Es ist wichtig, sich über die Verwendung und Wartung einer Trockentrenntoilette gründlich zu informieren, bevor man sich für eine solche Toilette entscheidet."
+        }
     ]
 }
