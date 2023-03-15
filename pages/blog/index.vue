@@ -44,7 +44,7 @@ export default {
     title: "Der Trockentrenntoiletten Blog: News, Tipps, Produkte",
     meta: [
       {
-        hid: "descirption",
+        hid: "description",
         name: "description",
         content:
           "Erfahre alles über Trockentrenntoiletten auf unserem Blog: News, Ratgeber und Tipps auf unserem Trockentrenntoiletten-Blog. Die neusten Produkte, Rabatte, uvm.",
