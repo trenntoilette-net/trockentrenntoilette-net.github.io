@@ -4,7 +4,7 @@
       <div class="position-relative overflow-hidden">
         <NuxtLink :to="product.linkTo" :title="product.linkTitle">
           <nuxt-img
-            class="img-fluid"
+            class="img-fluid product-image"
             :src="product.image"
             :alt="product.name"
             format="webp"
@@ -12,15 +12,7 @@
           />
         </NuxtLink>
         <div
-          class="
-            w-100
-            d-flex
-            justify-content-center
-            position-absolute
-            bottom-0
-            start-0
-            mb-4
-          "
+          class="w-100 d-flex justify-content-center position-absolute bottom-0 start-0 mb-4"
         >
           <NuxtLink
             :to="product.linkTo"
@@ -54,7 +46,7 @@
           ></small>
           <small>({{ product.reviewCount }})</small>
         </div>
-        <div class="mb-4 h5">{{ product.name }}</div>
+        <div class="mb-4 h5 product-name">{{ product.name }}</div>
       </div>
       <div class="d-flex border-top">
         <small class="flex-fill text-center border-end py-2"
@@ -85,3 +77,17 @@ export default {
   },
 };
 </script>
+
+<style>
+.course-item {
+  display: flex;
+  flex-direction: column;
+  height: 100%; /* Add this line to make sure the item takes the full available height */
+}
+
+.product-image {
+  max-height: 400px;
+  min-height: 400px;
+  object-fit: cover; /* Add this line to maintain the aspect ratio of the image */
+}
+</style>
