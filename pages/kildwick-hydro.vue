@@ -2,7 +2,7 @@
   <div>
     <ProductHeader
       productName="Kildwick MiniLoo HYDRO"
-      textContent="Das Kildwick MiniLoo HYDRO ist eine kompakte, handliche Trenntoilette, die sich mit wenigen Handgriffen schnell zusammensetzen lässt. Besonders interessant: Dank der hochwertigen Verarbeitung und der wasserfesten Bauteile hält diese Trenntoilette Feuchtigkeit problemlos stand. Ob sich die Toilette für dich eignet, erfährst du in diesem Testbericht. "
+      textContent="Das Kildwick MiniLoo HYDRO ist eine kompakte, handliche Trockentrenntoilette, die sich mit wenigen Handgriffen schnell zusammensetzen lässt. Besonders interessant: Dank der hochwertigen Verarbeitung und der wasserfesten Bauteile hält diese Trockentrenntoilette Feuchtigkeit problemlos stand. Ob sich die Toilette für dich eignet, erfährst du in diesem Testbericht. "
       :productImage="product.image"
     ></ProductHeader>
 
@@ -25,16 +25,16 @@
 
             <p class="mb-4">
               Das Kildwick MiniLoo HYDRO wird mittels Acetylierung behandelt.
-              Dadurch ist die Trenntoilette nicht nur wasserfest und
+              Dadurch ist die Trockentrenntoilette nicht nur wasserfest und
               formbeständig – sie kann auch durch Langlebigkeit punkten und hält
               überdies Schimmel und Pilze fern. Die Lebensdauer der
-              Trenntoilette soll bis zu 70 Jahre betragen.
+              Trockentrenntoilette soll bis zu 70 Jahre betragen.
             </p>
 
             <p class="mb-4">
               Auch lassen die Hersteller den Umweltaspekt nicht außen vor. Die
-              Kildwick MiniLoo HYDRO Trenntoilette kann bei Bedarf problemlos
-              kompostiert werden, da sie ohne giftige Substanzen und
+              Kildwick MiniLoo HYDRO Trockentrenntoilette kann bei Bedarf
+              problemlos kompostiert werden, da sie ohne giftige Substanzen und
               Mikroplastik auskommt.
             </p>
 
@@ -48,15 +48,15 @@
               Trenneinsatz (ABS Kunststoff) mit einem hochglänzenden Finish
               versehen wird, ist keine Nachbearbeitung erforderlich. Der
               lackierte Toilettensitz besteht aus Birkenholz und ist 15 mm dick.
-              Zusammengesetzt misst die Trenntoilette 39,70 cm (L) x 33,70 cm
-              (B) x 46,50 cm (H). Sie hält einem Gewicht von bis zu 150 kg
-              stand. Zugeklappt kann die Trenntoilette sogar als stabiler Hocker
-              oder Tritt verwendet werden.
+              Zusammengesetzt misst die Trockentrenntoilette 39,70 cm (L) x
+              33,70 cm (B) x 46,50 cm (H). Sie hält einem Gewicht von bis zu 150
+              kg stand. Zugeklappt kann die Trockentrenntoilette sogar als
+              stabiler Hocker oder Tritt verwendet werden.
             </p>
 
             <p class="mb-4">
               Mit einem Gewicht von 8,90 kg ist die Kildwick MiniLoo HYDRO
-              Trenntoilette ein echtes Leichtgewicht und für den mobilen
+              Trockentrenntoilette ein echtes Leichtgewicht und für den mobilen
               Gebrauch ideal. Durch das wasserfeste Material kann sie längst
               nicht nur für den Camper, die Dusche oder Nasszelle verwendet
               werden, sondern findet auch problemlos im Außenbereich Platz.
@@ -67,20 +67,22 @@
             </p>
 
             <h5 class="mb-3 mt-5">
-              Nutzung und Entleerung der Kildwick MiniLoo HYDRO Trenntoilette
+              Nutzung und Entleerung der Kildwick MiniLoo HYDRO
+              Trockentrenntoilette
             </h5>
 
             <p class="mb-4">
               Vor der ersten Nutzung wird der Feststoffbehälter mit einer
               (biologisch abbaubaren) Tüte versehen. Es empfiehlt sich zudem,
               etwas Einstreu in den Behälter zu geben. Anschließend kannst du
-              die Trenntoilette wie eine normale Toilette nutzen, da die
+              die Trockentrenntoilette wie eine normale Toilette nutzen, da die
               flüssigen und festen Ausscheidungen sauber voneinander getrennt
               werden. Nach jedem Toilettengang gibst du erneut eine Handvoll
               Einstreu in den Feststoffbehälter. Selbst das Toilettenpapier
-              kannst du in der Trenntoilette entsorgen. Sobald der Behälter voll
-              ist, kannst du ihn auf den Kompost geben. Die flüssigen
-              Ausscheidungen können verdünnt in den Garten geschüttet werden.
+              kannst du in der Trockentrenntoilette entsorgen. Sobald der
+              Behälter voll ist, kannst du ihn auf den Kompost geben. Die
+              flüssigen Ausscheidungen können verdünnt in den Garten geschüttet
+              werden.
             </p>
 
             <h5 class="mb-3 mt-5">
@@ -88,11 +90,11 @@
             </h5>
 
             <p class="mb-4">
-              Durch das wasserfeste Material eignet sich diese Trenntoilette vor
-              allem für feuchte Räume. Sie lässt sich im Handumdrehen
-              zusammensetzen und kann zudem als Hocker verwendet werden. Das
-              MiniLoo eignet sich hervorragend für Camping, Vanlife und ähnliche
-              Bereiche.
+              Durch das wasserfeste Material eignet sich diese
+              Trockentrenntoilette vor allem für feuchte Räume. Sie lässt sich
+              im Handumdrehen zusammensetzen und kann zudem als Hocker verwendet
+              werden. Das MiniLoo eignet sich hervorragend für Camping, Vanlife
+              und ähnliche Bereiche.
             </p>
 
             <p class="mb-4">
