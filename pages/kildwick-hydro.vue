@@ -99,11 +99,16 @@
 
             <p class="mb-4">
               Wer eine preiswerte Alternative zum MiniLoo HYDRO sucht, kann
-              einen Blick auf das WandaGO von TROBOLO werfen. Diese
-              Campingtoilette ist ebenfalls robust und feuchtigkeitstauglich und
-              verfügt außerdem über ein integriertes SafeShell System®, das den
-              Flüssgikeitsbehälter vor dem Überschwappen und vor unangenehmen
-              Gerüchen schützt.
+              einen Blick auf das
+              <NuxtLink
+                to="/trobolo-wandago/"
+                title="TROBOLO WandaGO Campingtoilette"
+                >WandaGO von TROBOLO</NuxtLink
+              >
+              werfen. Diese Campingtoilette ist ebenfalls robust und
+              feuchtigkeitstauglich und verfügt außerdem über ein integriertes
+              SafeShell System®, das den Flüssgikeitsbehälter vor dem
+              Überschwappen und vor unangenehmen Gerüchen schützt.
             </p>
 
             <div class="row gy-2 gx-4 mb-5 mt-5">
@@ -170,7 +175,7 @@
 import products from "~/assets/products.json";
 
 export default {
-  name: "Kildwick HYDRO",
+  name: "KildwickHYDRO",
   head: {
     title: "Kildwick HYDRO Trockentrenntoiletten Bausatz im Test",
     meta: [
