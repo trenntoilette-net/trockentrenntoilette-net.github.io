@@ -1,10 +1,8 @@
 <template>
   <div>
-    <ProductHeader
-      productName="Trelino EVO S"
+    <ProductHeader productName="Trelino EVO S"
       textContent="Die Trelino EVO S ist eine ultraleichte und kompakte Trenntoilette aus dem Hause Trelino. Sie eignet sich ideal für's Camping, im Van oder im Boot."
-      productImage="/assets/images/campingtoiletten/campingtoilette-trelino-evo-s.webp"
-    ></ProductHeader>
+      productImage="/assets/images/campingtoiletten/campingtoilette-trelino-evo-s.webp"></ProductHeader>
 
     <!-- About Start -->
     <div class="container-xxl py-5" id="testbericht">
@@ -13,140 +11,109 @@
           <div class="col-lg-8 fadeInUp" style="min-height: 400px">
             <h2 class="mb-4">Testbericht</h2>
             <p class="mb-4">
-              Die Trelino Evo S ist eine mobile Trenntoilette von dem Hersteller
-              Trelino. Sie ist sehr leicht im Gewicht und extrem kompakt, daher
-              lässt sie sich leicht transportieren und dort verwenden, wo wenig
-              Platz verfügbar ist. Idealerweise kann diese mobile Trenntoilette
-              beim Camping, im Van, oder auf Booten genutzt werden.
+              Wir haben das Trelino EVO S für Sie getestet und teilen in diesem Testbericht unsere Erfahrungen mit Ihnen.
+              Lesen Sie weiter und lassen Sie uns gemeinsam herausfinden, was die Trenntoilette Trelino EVO S zu bieten
+              hat und ob sich eine Anschaffung für Sie lohnt.
             </p>
+
+            <ImageGallerySlider :images="product.localImages" />
+
 
             <h5 class="mb-3 mt-5">Komfort</h5>
 
             <p>
-              Die Trelino Evo S hat laut Trelino ein angenehmes Sitzgefühl.
-              Leider konnten wir diese Trenntoilette noch nicht nutzen, da sie
-              aktuell nur vorbestellbar ist.
+              Das Trelino EVO S ist eine ziemlich kleine Trenntoilette, was sowohl Vor- als auch Nachteile mit sich
+              bringt. Was den Komfort angeht, bedeuten die kompakten Maße eine sehr geringe Sitzhöhe von gerade einmal 290
+              mm. Wie niedrig das wirklich ist, merkt man erst, wenn die Trenntoilette dann wirklich vor einem steht.
+              Zumindest ging es uns so. Aus unserer Sicht schränkt die niedrige Sitzhöhe den Komfort ziemlich ein. Wer
+              etwas weniger fit ist, wird sich sowohl mit dem Hinsetzen als auch dem Wiederaufstehen schwertun.
             </p>
-            <p>
-              Laut Trelino ist die Maße der mobilen Trenntoilette etwa so groß
-              wie eine Bierkiste, daher sollte die Sitzfläche vermutlich wie bei
-              einer üblichen Toilette ausfallen. Die Höhe der Trenntoilette ist
-              29,00 cm, das dürfte etwas tief sein und ist daher von einem
-              Produkt wie das
-              <nuxt-link
-                to="/trobolo-wandago/"
-                title="TROBOLO WandaGO Campingtoilette im Test"
-                >WandaGO von TROBOLO</nuxt-link
-              >
-              besser gelöst, denn diese lässt sich aufstellen und erreicht damit
-              eine angemessene, gewohnte Sitzhöhe.
+            <p>Ebenfalls weniger beeindruckend sind die Einkerbungen am unteren Teil der Toilette, die wohl als Tragegriff
+              fungieren sollen. Durch die niedrige Positionierung der Einkerbungen ist das Tragen der Trenntoilette recht
+              unangenehm, da man eine unnatürliche Trageposition einnehmen muss. Bei einer mobilen Trenntoilette, die
+              eigentlich für den Transport ausgerichtet ist, hätten wir hier mehr erwartet.
             </p>
 
             <h5 class="mb-3 mt-5">Eckdaten</h5>
 
             <p>
-              Die Trelino Evo S hat ein Gewicht von 4,3 kg und ist somit etwas
-              leichter als z.B. die Campingtoilette TROBOLO WandaGO.
-            </p>
-            <p>
-              Die Höhe der Evo S beträgt 29,00 cm, eine Breite von 33,00 cm und
-              eine Tiefe von 39,00 cm. Der Urinkanister umfasst ein Volumen von
-              5 Liter und schafft laut Trelino 9 – 11 Uringänge.
-            </p>
-
-            <p>
-              Der Feststoffeimer umfasst ein Volumen von 6 Liter und schafft
-              laut Trelino 3 – 6 Stuhlgänge.
-            </p>
-
-            <p>
-              Der Korpus der Trelino Evo S ist aus Acrylnitril-Butadien-Styrol
-              (ABS) und sollte somit nachhaltig und wasserresistent sein. Die
-              Behälter bestehen aus Polypropylen.
+              Mit 290 mm x 390 mm x 330 mm (HTB) ist das Trelino EVO S sehr kompakt. Zudem wiegt die Trenntoilette gerade
+              einmal 4,3 kg. Insgesamt ist das EVO S daher eine platzsparende Lösung, die man leicht im Auto, Bus oder
+              Boot unterbringen kann.
             </p>
 
             <h5 class="mb-3 mt-5">
               Funktionsweise, Material und Geruchsentwicklung
             </h5>
 
+            <p>Beim Trelino EVO S handelt es sich um eine Trenntoilette. Das bedeutet, dass ein integrierter Einsatz dafür
+              sorgt, dass Urin und Kot beim Toilettengang voneinander getrennt werden. Dies funktioniert einwandfrei und
+              alle Ausscheidungen landen dort, wo sie landen sollen, nämlich im dafür vorgesehenen Feststoffeimer bzw.
+              Urinkanister. Aufgrund der Trennung der Ausscheidungen werden für den Betrieb weder Wasser noch Chemie
+              benötigt. Da keine elektrische Belüftung installiert ist, kommt man zudem ohne Strom aus.</p>
             <p>
-              Die ultraleichte und kompakte Trenntoilette funktioniert per
-              Trenneinsatz, sprich Urin und Feststoffe werden voneinander
-              getrennt und landen in unterschiedlichen Behältern, womit auch die
-              Geruchsentwicklung unterdrückt wird. Eine extra Belüftung besitzt
-              die Evo S nicht.
+              Wie bei allen Trenntoiletten findet die Geruchsentwicklung dank Trennung von Kot und Urin nur verlangsamt
+              statt. Von Trelino selbst werden keine Entleerungsintervalle angegeben, sodass man diesbezüglich selbst
+              experimentieren muss, welche Zeitabstände zwecks Entleerung für die persönlichen Ansprüche passen. Wir haben
+              unseren Urintank alle 2 Tage und unseren Feststoffeimer alle 5 Tage entleert. Der Deckel des Urintanks ist
+              mit einer Art Membran ausgestattet. Obwohl diese etwas minderwertig wirkt, hatten wir zunächst noch die
+              Hoffnung, diese könnte eventuell die Geruchsentwicklung verlangsamen. Diesbezüglich wurden wir jedoch
+              enttäuscht und konnten keinen positiven Effekt feststellen. Erst auf Rückfrage bei Trelino haben wir
+              erfahren, dass wir einen extra Stopfen zum sicheren Verschließen des Urintanks brauchen, der dann sowohl das
+              Entweichen von Gerüchen als auch das Auslaufen von Flüssigkeiten verhindern soll. Den Stopfen haben wir noch
+              nicht getestet. Von der Idee her finden wir diese Vorgehensweise etwas gewöhnungsbedürftig und fragen uns,
+              wie hygienisch der Vorgang in der Praxis dann ist - schließlich muss man jedes Mal in den Trenneinsatz
+              greifen, um den Stopfen einzusetzen bzw. herauszunehmen.
             </p>
 
-            <p>
-              Da die Trenntoilette für den mobilen Einsatz entwickelt worden
-              ist, sollte ein Ausschwappen von Feststoffen oder Urin während der
-              Fahrt nicht auftreten. Die Evo S kommt ohne Wasser oder Chemie
-              aus.
-            </p>
+            <p>Die Behälter lassen sich recht einfach entnehmen, indem man den Toilettensitz samt Trenneinsatz abnimmt und
+              beiseitelegt. Idealerweise sollte man die Behälter nicht direkt nach der Nutzung entleeren, denn dann
+              könnten Urintropfen vom Trenneinsatz auf den Boden tropfen. Abgesehen davon, ist die Entnahme der Behälter
+              unkompliziert.</p>
+            <p>Beim Material setzt Trelino beim EVO S auf Plastik. Somit ist die Trenntoilette im Gegensatz zu
+              Holz-Modellen resistent gegen Feuchtigkeit, was beim Camping eindeutig vorteilhaft ist.</p>
 
-            <p>
-              Das Material vom Korpus besteht aus Acrylnitril-Butadien-Styrol
-              (ABS), der Trenneinsatz aus Polypropylen. Dadurch sollte die Evo S
-              ein hohes Alter erreichen können.
-            </p>
-
-            <p>
-              Zu erwähnen ist auch, dass die kompakte Trenntoilette über einen
-              Deckel verfügt, welcher eine Soft-Close Automatik hat. Aus
-              Erfahrung können wir sagen, dass dies im alltäglichen Gebrauch
-              einen Bonus an Komfort liefert.
-            </p>
 
             <h5 class="mb-3 mt-5">Nachhaltigkeit</h5>
 
             <p>
-              Die Trelino Evo S benötigt weder Wasser noch Chemie. Das Material
-              ist aus Kunststoff, welches Vor- und Nachteile mit sich bringt.
-              Die Langlebigkeit der mobilen Trenntoilette ist somit höher als
-              bei einer Trenntoilette aus Holz, widerspricht aber natürlich dem
-              Ansatz der Nachhaltigkeit und Umweltfreundlichkeit, da hier
-              schlichtweg Kunststoff verwendet wird. Wir hätten uns lieber Holz
-              gewünscht.
+              Das Trelino EVO S benötigt weder Wasser, Chemie noch Strom und schont somit Ressourcen. Zudem kann man seine
+              festen Ausscheidungen bei Bedarf kompostieren, wodurch weniger Müll entsteht, was sich wiederum positiv auf
+              unseren Planeten auswirkt.
             </p>
 
             <h5 class="mb-3 mt-5">Zubehör</h5>
 
             <p>
-              Trelino bietet für die Evo S Membrane, welche preislich bei 14,90
-              Euro liegen, sowie ein Premium Zubehör Set mit 10 Liter Beuteln
-              für 38,80 Euro oder 30 Liter Beutel für 40,90 Euro.
+              Als Zubehör benötigt man Streu und Beutel. Beides gibt es von Trelino, wobei man nicht zwangsläufig darauf
+              angewiesen ist, diese Produkte direkt vom Hersteller zu beziehen. Dennoch sind die kompostierbaren
+              Fäkalienbeutel sowie das Duftblocker Streu von Trelino eine gute Wahl für die Nutzung im EVO S.
             </p>
 
             <h5 class="mb-3 mt-5">Fazit</h5>
 
-            <p>
-              Die Trelino Evo S ist eine kompakte und ultraleichte Trenntoilette
-              für den mobilen Einsatz. Sie eignet sich herrvorragend für
-              Einsätze wie beim Camping, im Van, im Boot, oder auch im PKW für
-              den Wochenendtrip.
-            </p>
+            <p>Das Trelino EVO S ist eine kompakte Trenntoilette mit geringem Gewicht, die für mobile Einsatzzwecke, wie
+              beispielsweise Camping gedacht ist.</p>
 
-            <p>
-              Insgesamt besitzt die Evo S gute Eckdaten und Funktionalität.
-              Lediglich die Sitzhöhe ist uns ein Dorn im Auge, da hier definitiv
-              auf Komfort verzichtet werden muss.
-            </p>
+            <p>In Sachen Komfort konnte das EVO S uns aufgrund der niedrigen Sitzhöhe und der unpraktischen Tragegriffe
+              nicht überzeugen. Der Trennmechanismus funktioniert dagegen einwandfrei und auch die Entleerung der Behälter
+              ist komplikationslos, solange man diese nicht direkt nach einem Toilettengang durchführt.</p>
 
-            <p>
-              Vergleichsweise gibt es eine mobile Campingtoilette von TROBOLO
-              <nuxt-link
-                to="/trobolo-wandago/"
-                title="Campingtoilette TROBOLO WandaGO im Test"
-                >(Testbericht zur WandaGO)</nuxt-link
-              >, welche sehr ähnliche Eckdaten besitzt, sich aber aufstellen
-              lässt. Dadurch hat die WandaGO eine normale Sitzhöhe und liegt
-              preislich 51,00 Euro unter dem Preis der Trelino Evo S.
-            </p>
+            <p>Wer seine Trenntoilette nur selten nutzt und eher geringe Ansprüche hat, kann beim EVO S durchaus
+              zuschlagen. Für das, was das Trelino EVO S bietet, ist der Preis mit 300 € jedoch relativ hoch angesetzt.
+              Außerdem ist die Sitzhöhe sehr niedrig, dessen sollte man sich bewusst sein, wenn man sich für das EVO S
+              entscheidet. </p>
 
-            <p>
-              Dennoch finden wir dieses Produkt gelungen, da Größe, Gewicht und
-              Mobilität schwer zu übertreffen sind.
-            </p>
+            <p>Alternativen können die Trelino Modelle EVO M oder L sein. Diese Modelle sind größer, so dass man
+              einerseits höher sitzt, gleichzeitig jedoch auch mehr Platz für den Transport benötigt. Für die
+              Toilettenfächer von Vans, wie beispielsweise dem VW California, sind die größeren Trelino Modelle nicht
+              geeignet. Preislich fallen diese Modelle mit 400 € bzw. 500 € sogar noch teurer aus.</p>
+
+            <p>Eine vergleichsweise günstige Alternative ist das <nuxt-link to="/trobolo-wandago/"
+                title="TROBOLO WandaGO">TROBOLO WandaGO</nuxt-link>, <strong>das nur 250 € kostet, insgesamt qualitativ
+                hochwertiger wirkt und dank verstellbarer Sitzhöhe den größten Komfort bietet.</strong></p>
+
+            <ImageGallery :images="product.localImages" />
 
             <div class="row gy-2 gx-4 mb-5 mt-5">
               <div class="col-sm-6">
@@ -180,25 +147,15 @@
                 </p>
               </div>
             </div>
-            <a
-              class="btn btn-primary py-3 px-5"
-              target="_blank"
-              rel="nofollow noopener"
-              href="https://www.trelino.com/de/products/trelino%C2%AE-evo-s"
-              >Bestellen</a
-            >
+            <a class="btn btn-primary py-3 px-5" target="_blank" rel="nofollow noopener"
+              href="https://www.trelino.com/de/products/trelino%C2%AE-evo-s">Bestellen</a>
           </div>
           <div class="col-lg-4 fadeInUp">
             <ProductCard :product="product" />
             <div class="mt-5">
-              <a
-                class="btn btn-primary py-3 px-5"
-                target="_blank"
-                rel="nofollow noopener"
-                href="https://www.trelino.com/de/products/trelino%C2%AE-evo-s"
-                style="display: block; width: 100%"
-                >Trelino Online Shop</a
-              >
+              <a class="btn btn-primary py-3 px-5" target="_blank" rel="nofollow noopener"
+                href="https://www.trelino.com/de/products/trelino%C2%AE-evo-s" style="display: block; width: 100%">Trelino
+                Online Shop</a>
             </div>
           </div>
         </div>
