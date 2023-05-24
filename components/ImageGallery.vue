@@ -4,7 +4,7 @@
             <div class="row g-5">
                 <div class="col-lg-6 col-md-6 col-xs-6" v-for="(image, index) in images" :key="index">
                     <div class="card productImage" @click="openModal(image)">
-                        <nuxt-img :src="image" class="card-img-top imageFit" alt="Trelino EVO S" />
+                        <nuxt-img preset="default" :src="image" class="card-img-top imageFit" alt="Trelino EVO S" />
                     </div>
                 </div>
             </div>
@@ -19,7 +19,8 @@
                         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                     </div>
                     <div class="modal-body">
-                        <nuxt-img v-if="selectedImage" :src="selectedImage" alt="Selected Image" class="img-fluid" />
+                        <nuxt-img preset="default" v-if="selectedImage" :src="selectedImage" alt="Selected Image"
+                            class="img-fluid" />
                     </div>
                 </div>
             </div>
