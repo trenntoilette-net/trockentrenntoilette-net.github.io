@@ -1,11 +1,9 @@
 <template>
     <div class="container-xxl py-5">
-        <div class="container">
-            <div class="row g-5">
-                <div class="col-lg-6 col-md-6 col-xs-6" v-for="(image, index) in images" :key="index">
-                    <div class="card productImage" @click="openModal(image)">
-                        <nuxt-img preset="default" :src="image" class="card-img-top imageFit" alt="Trelino EVO S" />
-                    </div>
+        <div class="row g-5">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" v-for="(image, index) in images" :key="index">
+                <div class="card productImage" @click="openModal(image)">
+                    <nuxt-img preset="default" :src="image" class="card-img-top imageFit" alt="Trelino EVO S" />
                 </div>
             </div>
         </div>
