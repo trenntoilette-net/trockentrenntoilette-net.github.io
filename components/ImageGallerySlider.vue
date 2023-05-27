@@ -2,7 +2,7 @@
     <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000">
         <div class="carousel-inner">
             <div class="carousel-item" v-for="(image, index) in images" :key="index" :class="{ active: index === 0 }">
-                <nuxt-img preset="default" :src="image" class="d-block w-100" alt="Trelino EVO S" />
+                <nuxt-img preset="default" :src="image" class="d-block w-100" :alt="alt" />
             </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
@@ -22,7 +22,12 @@ export default {
     props: {
         images: {
             type: Array,
-            required: true
+            required: true,
+        },
+        alt: {
+            type: String,
+            required: true,
+            default: '',
         }
     }
 }

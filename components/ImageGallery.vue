@@ -3,7 +3,7 @@
         <div class="row g-5">
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" v-for="(image, index) in images" :key="index">
                 <div class="card productImage" @click="openModal(image)">
-                    <nuxt-img preset="default" :src="image" class="card-img-top imageFit" alt="Trelino EVO S" />
+                    <nuxt-img preset="default" :src="image" class="card-img-top imageFit" :alt="alt" />
                 </div>
             </div>
         </div>
@@ -33,7 +33,12 @@ export default {
     props: {
         images: {
             type: Array,
-            required: true
+            required: true,
+        },
+        alt: {
+            type: String,
+            required: true,
+            default: '',
         }
     },
     data() {

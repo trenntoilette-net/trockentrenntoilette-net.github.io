@@ -16,7 +16,7 @@
               hat und ob sich eine Anschaffung für Sie lohnt.
             </p>
 
-            <ImageGallerySlider :images="product.localImages" />
+            <ImageGallerySlider :images="product.localImages" alt="Trelino EVO S Campingtoilette" />
 
 
             <h5 class="mb-3 mt-5">Komfort</h5>
@@ -113,7 +113,7 @@
                 title="TROBOLO WandaGO">TROBOLO WandaGO</nuxt-link>, <strong>das nur 250 € kostet, insgesamt qualitativ
                 hochwertiger wirkt und dank verstellbarer Sitzhöhe den größten Komfort bietet.</strong></p>
 
-            <ImageGallery :images="product.localImages" />
+            <ImageGallery :images="product.localImages" alt="Trelino EVO S Campingtoilette" />
 
             <div class="row gy-2 gx-4 mb-5 mt-5">
               <div class="col-sm-6">

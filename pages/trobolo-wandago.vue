@@ -1,10 +1,8 @@
 <template>
   <div>
-    <ProductHeader
-      productName="TROBOLO® WandaGO"
+    <ProductHeader productName="TROBOLO® WandaGO"
       textContent="Die TROBOLO WandaGo Campingtoilette ist eine kompakte und ultraleichte Toilette für unterwegs. Sie eignet sich hervorragend für den Einsatz im Wohnmobil, Van, Camper oder im Outdoor-Bereich. Sie ist robust und wasserfest."
-      productImage="/assets/images/campingtoiletten/campingtoilette-trobolo-wandago.webp"
-    ></ProductHeader>
+      productImage="/assets/images/campingtoiletten/campingtoilette-trobolo-wandago.webp"></ProductHeader>
 
     <!-- About Start -->
     <div class="container-xxl py-5" id="testbericht">
@@ -20,6 +18,8 @@
               Toilette für Camping und weitere Outdoor-Aktivitäten zu sein. Es
               wird also spannend!
             </p>
+
+            <ImageGallerySlider :images="product.localImages" alt="TROBOLO WandaGo Campingtoilette" />
 
             <h5 class="mb-3 mt-5">Komfort</h5>
 
@@ -160,13 +160,14 @@
             </p>
 
             <p>
-              <ul>
-                <li>Das TROBOLO SafeShell System, welches den Urinkanister vor Gerüchen und Auslaufen schützt</li>
-                <li>Die Stapelfunktion, die eine Sitzhöhe von 490 mm ermöglicht</li>
-                <li>Das geringe Gewicht von gerade einmal 4,7 kg</li>
-              </ul>
+            <ul>
+              <li>Das TROBOLO SafeShell System, welches den Urinkanister vor Gerüchen und Auslaufen schützt</li>
+              <li>Die Stapelfunktion, die eine Sitzhöhe von 490 mm ermöglicht</li>
+              <li>Das geringe Gewicht von gerade einmal 4,7 kg</li>
+            </ul>
             </p>
 
+            <ImageGallery :images="product.localImages" alt="TROBOLO WandaGO Campingtoilette" />
 
             <div class="row gy-2 gx-4 mb-5 mt-5">
               <div class="col-sm-6">
@@ -200,25 +201,14 @@
                 </p>
               </div>
             </div>
-            <a
-              class="btn btn-primary py-3 px-5"
-              target="_blank"
-              rel="nofollow noopener"
-              :href="product.shopLink"
-              >Bestellen</a
-            >
+            <a class="btn btn-primary py-3 px-5" target="_blank" rel="nofollow noopener"
+              :href="product.shopLink">Bestellen</a>
           </div>
           <div class="col-lg-4 fadeInUp">
             <ProductCard :product="product" />
             <div class="mt-5">
-              <a
-                class="btn btn-primary py-3 px-5"
-                target="_blank"
-                rel="nofollow noopener"
-                :href="product.shopLink"
-                style="display: block; width: 100%"
-                >TROBOLO Online Shop</a
-              >
+              <a class="btn btn-primary py-3 px-5" target="_blank" rel="nofollow noopener" :href="product.shopLink"
+                style="display: block; width: 100%">TROBOLO Online Shop</a>
             </div>
           </div>
         </div>
@@ -245,6 +235,7 @@ export default {
     ],
   },
   asyncData: () => {
+    console.log(products.find((p) => p.name === "TROBOLO WandaGO"))
     return {
       product: products.find((item) => item.name === "TROBOLO WandaGO"),
     };
