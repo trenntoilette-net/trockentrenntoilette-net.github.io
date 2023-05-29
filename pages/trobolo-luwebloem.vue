@@ -1,10 +1,8 @@
 <template>
   <div>
-    <ProductHeader
-      productName="TROBOLO® LuweBlœm"
+    <ProductHeader productName="TROBOLO® LuweBlœm"
       textContent="Die TROBOLO LuweBlœm ist eine Trockentrenntoilette mit einem optionalem Abluftsystem. Sie ist für den Einsatz im Haus oder Tiny House entwickelt worden."
-      productImage="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-luwebloem.webp"
-    ></ProductHeader>
+      productImage="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-luwebloem.webp"></ProductHeader>
 
     <!-- About Start -->
     <div class="container-xxl py-5" id="testbericht">
@@ -13,122 +11,83 @@
           <div class="col-lg-8 fadeInUp" style="min-height: 400px">
             <h2 class="mb-4">Testbericht</h2>
             <p class="mb-4">
-              Die LuweBlœm Trockentrenntoilette von
-              <a
-                href="/hersteller/trobolo/"
-                title="Alle Trockentrenntoiletten von TROBOLO"
-                >TROBOLO</a
-              >
-              ist eine autarke Toilette welche den Komfort einer herkömmlichen
-              Toilette bietet und im Haus oder Tiny House eingesetzt werden
-              kann.
+              Die LuweBlœm Trockentrenntoilette von <nuxt-link to="/hersteller/trobolo/"
+                title="Alle Trockentrenntoiletten von TROBOLO">TROBOLO</nuxt-link> ist eine autarke Toilette aus Holz, die
+              ohne Wasser und Chemie im Haus oder Tiny House genutzt werden kann. Dabei verspricht das LuweBlœm ebenso
+              komfortabel zu sein, wie eine herkömmliche Toilette. In unserem Testbericht erfahren Sie, welche Vor- und
+              Nachteile die Trenntoilette wirklich aufweist.
             </p>
 
             <h5 class="mb-3 mt-5">Komfort</h5>
 
-            <p>
-              TROBOLO's Trockentrenntoiletten zeichnen sich vor allem aufgrund
-              ihres Komfort aus. Die LuweBlœm sticht an dieser Stelle jedoch
-              heraus, da sie aufgrund ihrer Größe noch mehr Komfort bietet als
-              wie zB. die ähnlich aussehende Trockentrenntoilette TeraBloem. Es
-              müssen keine Abstriche beim Komfort gemacht werden. Die LuweBlœm
-              hat eine Tiefe von 600 mm, eine Breite von 400 mm und bietet somit
-              ausreichend Platz und Sitzkomfort. Das Sitzgefühl ist hervorragend
-              und aufgrund des Holzes gerade am Anfang wärmer als eine sich kalt
-              anfühlende Keramiktoilette.
-            </p>
+            <p>Das TROBOLO LuweBlœm ist eine recht große Trenntoilette, auf der man bequem sitzen und sein Geschäft
+              verrichten kann. Die Trennung der Ausscheidungen geht dabei völlig automatisch vonstatten. Die Nutzung der
+              Trenntoilette ist also äußerst komfortabel. Das Gewicht ist mit 22 kg recht hoch, so dass es eher schwer zu
+              transportieren ist. Wer jedoch nach einer Toilette sucht, die an einem festen Ort platziert und nur dort
+              genutzt werden soll, erhält mit dem LuweBlœm eine komfortable, robuste Lösung, die für Personen von bis zu
+              220 kg geeignet ist. </p>
 
             <h5 class="mb-3 mt-5">Eckdaten</h5>
 
             <p>
-              Die Trockentrenntoilette hat ein Gewicht von 22 kg, ist 497 mm
-              hoch, 600 mm tief und hat eine Breite von 400 mm. Die Traglast der
-              LuweBlœm beträgt 220 kg und wiegt somit 2 kg mehr als die
-              <a href="/trobolo-terabloem/">TeraBloem von TROBOLO</a>. Die
-              Trockentrenntoilette ist für's Haus, das Tiny House, aber auch für
-              den Garten entwickelt worden. Sie hat somit eine vielfältige
-              Einsatzmöglichkeit. Die LuweBlœm funktioniert über ein Trennsystem
-              bei dem die Feststoffe und der Urin voneinder getrennt werden und
-              in unterschiedliche Behälter fallen.
+              Die Trockentrenntoilette ist 497 mm hoch, 600 mm tief und hat eine Breite von 400 mm. Damit ist das LuweBlœm
+              deutlich größer als beispielsweise das vergleichbare <nuxt-link to="/trobolo-terabloem/"
+                title="TROBOLO TeraBlœm"> TeraBlœm von TROBOLO</nuxt-link>. Das LuweBlœm ist mit einem 22 Liter
+              Feststoffbehälter sowie einem 10 Liter Flüssigkeitsbehälter ausgestattet. Die maximale Anzahl der Nutzungen
+              ist mit bis zu 40 Nutzungen bei den Feststoffen und 50 Nutzungen bei den Flüssigkeiten angegeben. Wie häufig
+              entleert werden muss, hängt zudem davon ab, ob man das LuweBlœm mit Einstreu oder Abluftsystem nutzt.
             </p>
 
             <h5 class="mb-3 mt-5">
               Funktionsweise, Material und Geruchsentwicklung
             </h5>
 
-            <p>
-              Die TROBOLO LuweBlœm funktioniert über ein Trennsystem bei dem die
-              Feststoffe und der Urin voneinder getrennt werden und in
-              unterschiedliche Behälter fallen. Durch die Trennung dessen wird
-              die unangenehme Geruchsentwicklung unterbunden, da erst Gerüche
-              entstehen sobald sich die Feststoffe mit dem Urin vermischen.
-              Sofern nötig, wie zB. in wärmeren Regionen, kann Einstreu
-              verwendet werden um die Geruchsentwicklung nochmals zu verhindern.
-              Ebenfalls gibt es für die LuweBlœm ein optionales Abluftsystem.
-            </p>
+            <p>Beim TROBOLO LuweBlœm werden feste und flüssige Ausscheidungen beim Toilettengang durch ein integriertes
+              Trennsystem getrennt. Dies legt den Grundstein zur geruchlosen Toilettennutzung, da die richtig unangenehmen
+              Gerüche nur entstehen, wenn Kot und Urin sich vermischen. Um das LuweBlœm komplett geruchlos zu nutzen,
+              sollte man entweder Einstreu oder ein elektrisches Abluftsystem nutzen. Den höchsten Komfort hat man
+              eindeutig dann, wenn man sich für das elektrische Abluftsystem entscheidet. Wer seine Trenntoilette nur
+              sporadisch nutzt, kann sich aber auch für die Option mit Einstreu entscheiden.</p>
 
-            <p>
-              Die LuweBlœm ist eine autarke Trockentrenntoilette und
-              funktioniert komplett ohne Wasser oder Chemie. Die Ausscheidungen
-              können bei Bedarf kompostiert werden. Die Entleerung ist einfach
-              und erfordert nur wenige Handgriffe. Der Aufbau der Trenntoilette
-              ist so konzipiert, das die Reinigung oder Entleerung hygienisch
-              erfolgen kann.
-            </p>
+            <p>Die festen und flüssigen Ausscheidungen können natürlich auch getrennt entnommen und entsorgt werden. Wer
+              möchte, kann die festen Ausscheidungen sogar kompostieren und später als Dünger für Zierpflanzen einsetzen.
+              Alternativ können die Ausscheidungen aber auch über den Hausmüll entsorgt werden. Den Urin kann man
+              gesammelt über eine reguläre Toilette abführen. Der gesamte Entleerungs- und Entsorgungsprozess ist
+              hygienisch und man kommt zu keinem Zeitpunkt mit den Ausscheidungen in Berührung.</p>
 
-            <p>
-              Das Material der LuweBlœm ist aus 18 mm dickem
-              Erlen-Mehrschichtholz. Die Trockentrenntoilette, welche sich ideal
-              für den Innenbereich eignet, wird per Handarbeit gefertigt. Das
-              Trennsystem selbst ist aus recyclebarem Kunststoff. Die LuweBlœm
-              hat eine wasserabweisende Oberfläche und könnte gegebenenfalls
-              auch für den Außenbereich wie im Garten benutzt werden. Das Holz
-              ist mit einem natürlichem Holzöl imprägniert, somit entfallen
-              weitere Oberflächenbehandlungen.
-            </p>
+            <p>Das LuweBlœm besteht aus sehr robustem 18 mm dickem Erlen-Mehrschichtholz, während der Trenneinsatz und die
+              Behälter aus recyclebarem Polypropylen bestehen. </p>
 
             <h5 class="mb-3 mt-5">Nachhaltigkeit</h5>
 
-            <p>
-              Das 18 mm dicke Erlen-Mehrschichtholz ist aus FSC-zertifizierter
-              Holzwirtschaft und ist dadurch umweltfreundlicher als die
-              Mitbewerber Produkte von TROBOLO. Aufgrund des entfallen von
-              Wasser oder Chemie ist die LuweBlœm umweltfreundlich und
-              nachhaltig. Wer eine größtmögliche Wertschöpfungskette wünscht,
-              kann die Abfälle kompostieren und diesen nährstoffreichen Dünger
-              der Natur zurückführen.
-            </p>
+            <p>Das TROBOLO LuweBlœm wird in Handarbeit aus 18 mm dickem Erlen-Mehrschichtholz aus FSC-zertifizierter
+              Holzwirtschaft gefertigt und ist dadurch besonders umweltfreundlich. Da bei der Nutzung weder Wasser noch
+              Chemie zum Einsatz kommen, werden zudem Ressourcen geschont. Wer es besonders nachhaltig möchte, kann die
+              Ausscheidungen sogar kompostieren und produziert so Naturdünger statt Abfall.</p>
 
             <h5 class="mb-3 mt-5">Zubehör</h5>
 
-            <p>
-              Als optionales Zubehör bietet TROBOLO ein natürliches oder
-              elektrisches Abluftsystem. Dieser besitzt einen flexiblen USB
-              Anschluss und kann per 12V, 24V oder 230V betrieben werden.
-            </p>
+            <p>Als optionales Zubehör bietet TROBOLO ein natürliches oder elektrisches Abluftsystem. Dieser besitzt einen
+              flexiblen USB Anschluss und kann per 12V, 24V oder 230V betrieben werden.</p>
+
+            <p>Zudem werden Inlays benötigt, die in den Feststoffbehälter eingelegt werden müssen, um die festen
+              Ausscheidungen aufzufangen. Bei den Inlays kann man zwischen kompostierbaren Inlays und Inlays aus
+              recyceltem Kunststoff wählen. Außerdem gibt es Einstreu, welche nur benötigt wird, wenn kein elektrisches
+              Abluftsystem eingesetzt wird.</p>
 
             <h5 class="mb-3 mt-5">Fazit</h5>
 
-            <p>
-              Die TROBOLO LuweBlœm ist eine massive Trockentrenntoilette für den
-              Innenbereich. Sie wird zusammengebaut geliefert, per Handarbeit
-              gefertigt und verwendet exzellente Materialen die aus nachhaltiger
-              Holzwirtschaft stammen. Die LuweBlœm zeichnet sich durch ihren
-              sehr guten Sitzkomfort aus. Sie ist etwas schwerer und größer als
-              die weiteren Produkte von TROBOLO, ist aber auch weniger für den
-              mobilen Einsatz gedacht. Wer eine langlebige
-              <a href="/innenbereich/"
-                >Trockentrenntoilette für den Innenbereich</a
-              >
-              wie im Haus oder Tiny House sucht, ist mit der LuweBlœm bestens
-              bedient.
-            </p>
+            <p>Das TROBOLO LuweBlœm ist eine robuste, große Trenntoilette, die sich ideal zur regelmäßigen Nutzung im
+              Haus, Gartenhaus oder Tiny House eignet. Da weder Wasser noch Strom benötigt werden, kann die Trenntoilette
+              auch in Räumen genutzt werden, in denen keine Anschlüsse an die Kanalisation oder das Stromnetz vorhanden
+              sind.</p>
 
-            <p>
-              Aufgrund des hervorragenden Sitzkomforts, der Einfachheit der
-              Entleerung sowie der Hygiene, vergeben wir der LuweBlœm von
-              TROBOLO eine Bestnote.
-            </p>
+            <p>Die Nutzung ist recht komfortabel. Beispielsweise sitzt man beim Toilettengang gemütlich und kann die
+              komplette Entleerung und Entsorgung selbst durchführen. Weniger komfortabel wird es, wenn man die
+              Trenntoilette häufig transportieren möchte. Hierfür ist das 22 kg schwere LuweBlœm nicht ausgelegt. Wer aber
+              einfach nur eine zuverlässige, langlebige <nuxt-link to="/innenbereich/"
+                title="Trockentrenntoiletten für den Innenbereich">Trockentrenntoilette für den Innenbereich</nuxt-link>
+              wie im Haus oder Tiny House sucht, ist mit dem LuweBlœm bestens bedient.</p>
 
             <div class="row gy-2 gx-4 mb-5 mt-5">
               <div class="col-sm-6">
@@ -162,25 +121,14 @@
                 </p>
               </div>
             </div>
-            <a
-              class="btn btn-primary py-3 px-5"
-              target="_blank"
-              rel="nofollow noopener"
-              :href="product.shopLink"
-              >Bestellen</a
-            >
+            <a class="btn btn-primary py-3 px-5" target="_blank" rel="nofollow noopener"
+              :href="product.shopLink">Bestellen</a>
           </div>
           <div class="col-lg-4 fadeInUp">
             <ProductCard :product="product" />
             <div class="mt-5">
-              <a
-                class="btn btn-primary py-3 px-5"
-                target="_blank"
-                rel="nofollow noopener"
-                :href="product.shopLink"
-                style="display: block; width: 100%"
-                >TROBOLO Online Shop</a
-              >
+              <a class="btn btn-primary py-3 px-5" target="_blank" rel="nofollow noopener" :href="product.shopLink"
+                style="display: block; width: 100%">TROBOLO Online Shop</a>
             </div>
           </div>
         </div>
