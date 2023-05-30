@@ -11,11 +11,7 @@
       </div>
       <div class="container">
         <div class="row">
-          <div
-            v-for="product in products"
-            :key="product"
-            class="col-lg-4 fadeInUp"
-          >
+          <div v-for="product in products" :key="product" class="col-lg-4 fadeInUp">
             <ProductItem :product="product" class="mt-5" />
           </div>
         </div>
@@ -49,12 +45,8 @@
               Gartentoilette ankommt. Sie nehmen für dich verschiedenste
               Produkte genauer unter die Lupe und prüfen vollkommen
               unvoreingenommen deren Stärken und Schwächen. Bekannte Marken wie
-              <nuxt-link to="/hersteller/trobolo/" title="TROBOLO"
-                >TROBOLO</nuxt-link
-              >,
-              <nuxt-link to="/hersteller/kildwick/" title="Kildwick"
-                >Kildwick</nuxt-link
-              >, MeineTrenntoilette und
+              <nuxt-link to="/hersteller/trobolo/" title="TROBOLO">TROBOLO</nuxt-link>,
+              <nuxt-link to="/hersteller/kildwick/" title="Kildwick">Kildwick</nuxt-link>, MeineTrenntoilette und
               <nuxt-link to="/hersteller/trelino/">Trelino</nuxt-link> werden zu
               speziellen Kriterien bewertet. Neben Komfort, Geruchsbildung oder
               Entsorgung, achten die Profis auf Nachhaltigkeit, Funktionalität
@@ -111,7 +103,7 @@ export default {
   asyncData() {
     let category = "Gartentoilette";
     return {
-      products: products.filter((item) => item.category === category),
+      products: products.filter((item) => item.category === category && item.published),
     };
   },
 };

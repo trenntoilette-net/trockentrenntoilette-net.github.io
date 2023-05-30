@@ -1,10 +1,8 @@
 <template>
   <div>
-    <ProductHeader
-      productName="TROBOLO® TeraBlœm"
+    <ProductHeader productName="TROBOLO® TeraBlœm"
       textContent="Die TeraBlœm ist eine Trockentrenntoilette aus dem Hause TROBOLO's. Sie ist eine aus 15mm Erlen Mehrschichtholz handgefertigte Trockentrenntoilette für den Innenbereich."
-      productImage="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp"
-    ></ProductHeader>
+      productImage="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp"></ProductHeader>
 
     <!-- About Start -->
     <div class="container-xxl py-5" id="testbericht">
@@ -138,25 +136,15 @@
                 </p>
               </div>
             </div>
-            <a
-              class="btn btn-primary py-3 px-5"
-              target="_blank"
-              rel="nofollow noopener"
-              href="https://trobolo.com/de/produkte/terabloem/"
-              >Bestellen</a
-            >
+            <a class="btn btn-primary py-3 px-5" target="_blank" rel="nofollow noopener"
+              href="https://trobolo.com/de/produkte/terabloem/">Bestellen</a>
           </div>
           <div class="col-lg-4 fadeInUp">
             <ProductCard :product="product" />
             <div class="mt-5">
-              <a
-                class="btn btn-primary py-3 px-5"
-                target="_blank"
-                rel="nofollow noopener"
-                href="https://trobolo.com/de/produkte/terabloem/"
-                style="display: block; width: 100%"
-                >TROBOLO Online Shop</a
-              >
+              <a class="btn btn-primary py-3 px-5" target="_blank" rel="nofollow noopener"
+                href="https://trobolo.com/de/produkte/terabloem/" style="display: block; width: 100%">TROBOLO Online
+                Shop</a>
             </div>
           </div>
         </div>
@@ -180,6 +168,11 @@ export default {
         content:
           "Trockentrenntoilette TROBOLO TeraBlœm im Test. Vorteile und Nachteile. Kriterien: Geruchtsentwicklung, Komfort, Hygiene, Entlerrung und Preis.",
       },
+      {
+        hid: 'robots',
+        name: 'robots',
+        content: 'index, follow'
+      }
     ],
   },
   asyncData: () => {
