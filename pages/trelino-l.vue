@@ -1,10 +1,9 @@
 <template>
   <div>
-    <ProductHeader
-      productName="Trelino Timber L mit HPL Veredelung"
+    <ProductHeader productName="Trelino Timber L mit HPL Veredelung"
       textContent="Die Trelino Timber L ist eine Trockentoilette aus dem Hause Trelino. Sie ist aus Birkenholz angefertigt und mit robustem HPL veredelt."
-      productImage="/assets/images/trockentrenntoiletten/trockentrenntoilette-trelino-l-hpl-veredelung.webp"
-    ></ProductHeader>
+      productImage="/assets/images/trockentrenntoiletten/trockentrenntoilette-trelino-l-hpl-veredelung.webp">
+    </ProductHeader>
 
     <!-- About Start -->
     <div class="container-xxl py-5" id="testbericht">
@@ -24,11 +23,8 @@
             <p>
               Die Trelino Timber L hat einen ausgezeichneten Sitzkomfort und
               steht, wie auch bei der
-              <NuxtLink
-                to="/trobolo-terabloem/"
-                title="TROBOLO TeraBlœm im Test"
-                >TROBOLO TeraBlœm</NuxtLink
-              >, einer herkömmlichen Toilette aus Keramik nichts nach. Die
+              <NuxtLink to="/trobolo-terabloem/" title="TROBOLO TeraBlœm im Test">TROBOLO TeraBlœm</NuxtLink>, einer
+              herkömmlichen Toilette aus Keramik nichts nach. Die
               Trockentrenntoilette ist sehr kompakt, hat aber eine normale
               Toilettensitz-Größe. Durch das HPL veredelte Birkenholz hatten wir
               stehts ein sehr gutes Sitzgefühl.
@@ -150,25 +146,15 @@
                 </p>
               </div>
             </div>
-            <a
-              class="btn btn-primary py-3 px-5"
-              target="_blank"
-              rel="nofollow noopener"
-              href="https://www.trelino.com/de/products/trelino-l-wood-hpl-composting-toilet"
-              >Bestellen</a
-            >
+            <a class="btn btn-primary py-3 px-5" target="_blank" rel="nofollow noopener"
+              href="https://www.trelino.com/de/products/trelino-l-wood-hpl-composting-toilet">Bestellen</a>
           </div>
           <div class="col-lg-4 fadeInUp">
             <ProductCard :product="product" />
             <div class="mt-5">
-              <a
-                class="btn btn-primary py-3 px-5"
-                target="_blank"
-                rel="nofollow noopener"
+              <a class="btn btn-primary py-3 px-5" target="_blank" rel="nofollow noopener"
                 href="https://www.trelino.com/de/products/trelino-l-wood-hpl-composting-toilet"
-                style="display: block; width: 100%"
-                >Trelino Online Shop</a
-              >
+                style="display: block; width: 100%">Trelino Online Shop</a>
             </div>
           </div>
         </div>
@@ -181,6 +167,10 @@
 <script>
 import products from "~/assets/products.json";
 
+const product = products.find(
+  (item) => item.name === "Trelino Timber L mit HPL Veredelung"
+);
+
 export default {
   name: "TrelinoLMitHplVeredelung",
   head: {
@@ -192,6 +182,11 @@ export default {
         content:
           "Trockentrenntoilette Trelino Timber L mit HPL Veredelung im Test. Vorteile und Nachteile. Kriterien: Geruchtsentwicklung, Komfort, Hygiene, Entlerrung und Preis.",
       },
+      {
+        hid: "robots",
+        name: "robots",
+        content: product.robots
+      }
     ],
   },
   asyncData: () => {

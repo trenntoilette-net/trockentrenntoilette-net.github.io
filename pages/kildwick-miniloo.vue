@@ -1,10 +1,8 @@
 <template>
   <div>
-    <ProductHeader
-      productName="Campingtoilette Kildwick MiniLoo im Test"
+    <ProductHeader productName="Campingtoilette Kildwick MiniLoo im Test"
       textContent="Die MiniLoo Campingtoilette von Kildwick ist eine Trockentrenntoilette für den mobilen Einsatz. Sie kommt als Bausatz, hat ein geringes Gewicht und ist aufgrund der kompakten Größe sehr platzsparend."
-      productImage="/assets/images/trockentrenntoiletten/trockentrenntoilette-kildwick-miniloo.webp"
-    ></ProductHeader>
+      productImage="/assets/images/trockentrenntoiletten/trockentrenntoilette-kildwick-miniloo.webp"></ProductHeader>
 
     <!-- About Start -->
     <div class="container-xxl py-5" id="testbericht">
@@ -14,9 +12,7 @@
             <h2 class="mb-4">Testbericht</h2>
             <p class="mb-4">
               Die Trockentrenntoilette MiniLoo von
-              <NuxtLink to="/hersteller/kildwick/" title="Kildwick"
-                >Kildwick</NuxtLink
-              >
+              <NuxtLink to="/hersteller/kildwick/" title="Kildwick">Kildwick</NuxtLink>
               ist für den Einsatz als Campingtoilette entwickelt worden. Sie
               wird als vorgefertiger Bausatz geliefert, lässt sich rasch
               zusammenbauen und ist ein idealer Reisebegleiter für Menschen die
@@ -28,11 +24,8 @@
             <p>
               Da die Maße der Campingtoilette sehr klein ist, muss im Vergleich
               wie zB. zur
-              <NuxtLink
-                to="/trelino-l/"
-                title="Trelino Timber L mit HPL Veredelung im Test"
-                >Trelino Timber L mit HPL Veredelung</NuxtLink
-              >, ein kleiner Abstrich bezüglich des Komforts gemacht werden.
+              <NuxtLink to="/trelino-l/" title="Trelino Timber L mit HPL Veredelung im Test">Trelino Timber L mit HPL
+                Veredelung</NuxtLink>, ein kleiner Abstrich bezüglich des Komforts gemacht werden.
               Dies bedeutet jedoch nicht, das die Funktionalität nicht gegeben
               ist, im Gegenteil, denn die Campingtoilette von Kildwick erwies
               sich als äußerst Funktional, bei ausreichendem Komfort.
@@ -132,11 +125,7 @@
             <p>
               Aufgrund der kompakten Größe und des geringen Gewichts vergeben
               wir der Kildwick MiniLoo eine Bestnote in der Kategorie
-              <NuxtLink
-                to="/campingtoilette/"
-                title="Alle Campingtoiletten im Überblick"
-                >Campingtoiletten</NuxtLink
-              >.
+              <NuxtLink to="/campingtoilette/" title="Alle Campingtoiletten im Überblick">Campingtoiletten</NuxtLink>.
             </p>
 
             <div class="row gy-2 gx-4 mb-5 mt-5">
@@ -171,25 +160,15 @@
                 </p>
               </div>
             </div>
-            <a
-              class="btn btn-primary py-3 px-5"
-              target="_blank"
-              rel="nofollow noopener"
-              href="https://www.kildwick.com/Kildwick-Bausatz-Campingtoilette-Komposttoilette-MiniLoo"
-              >Bestellen</a
-            >
+            <a class="btn btn-primary py-3 px-5" target="_blank" rel="nofollow noopener"
+              href="https://www.kildwick.com/Kildwick-Bausatz-Campingtoilette-Komposttoilette-MiniLoo">Bestellen</a>
           </div>
           <div class="col-lg-4 fadeInUp">
             <ProductCard :product="product" />
             <div class="mt-5">
-              <a
-                class="btn btn-primary py-3 px-5"
-                target="_blank"
-                rel="nofollow noopener"
+              <a class="btn btn-primary py-3 px-5" target="_blank" rel="nofollow noopener"
                 href="https://www.kildwick.com/Kildwick-Bausatz-Campingtoilette-Komposttoilette-MiniLoo"
-                style="display: block; width: 100%"
-                >Kildwick Online Shop</a
-              >
+                style="display: block; width: 100%">Kildwick Online Shop</a>
             </div>
           </div>
         </div>
@@ -202,6 +181,8 @@
 <script>
 import products from "~/assets/products.json";
 
+const product = products.find((item) => item.name === "Kildwick MiniLoo");
+
 export default {
   name: "Kildwick MiniLoo",
   head: {
@@ -213,6 +194,11 @@ export default {
         content:
           "Die MiniLoo Campingtoilette von Kildwick ist eine sehr kompakte Trockentrenntoilette, welche als vorgefertiger Bausatz geliefert wird. Lesen Sie unseren Testbericht.",
       },
+      {
+        hid: "robots",
+        name: "robots",
+        content: product.robots,
+      }
     ],
   },
   asyncData: () => {

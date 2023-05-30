@@ -168,6 +168,8 @@
 <script>
 import products from "~/assets/products.json";
 
+const product = products.find((item) => item.name === "Trelino EVO S");
+
 export default {
   name: "TrelinoEvoS",
   head: {
@@ -179,6 +181,11 @@ export default {
         content:
           "Die Trelino Evo S ist eine mobile Trenntoilette, welche sich für den Einsatz im Van, im Boot, im PKW oder beim Camping eignet. Wir haben die Trenntoilette getestet und verraten dir, ob sie sich lohnt.",
       },
+      {
+        hid: "robots",
+        name: "robots",
+        content: product.robots
+      }
     ],
   },
   asyncData: () => {

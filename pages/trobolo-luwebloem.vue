@@ -143,7 +143,6 @@ import products from "~/assets/products.json";
 
 const product = products.find((item) => item.name === "TROBOLO LuweBlœm");
 
-
 export default {
   name: "LuweBlœm",
   head: {

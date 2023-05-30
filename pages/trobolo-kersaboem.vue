@@ -1,10 +1,8 @@
 <template>
   <div>
-    <ProductHeader
-      productName="TROBOLO KersaBœm Gartentoilette im Test"
+    <ProductHeader productName="TROBOLO KersaBœm Gartentoilette im Test"
       textContent="Die Gartentoilette KersaBœm von TROBOLO ist eine autarke Trockentrenntoilette für den Außenbereich. Sie wird als vorgefertigter Bausatz geliefert und kommt ohne Wasser und Chemie aus."
-      productImage="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-kersaboem.webp"
-    ></ProductHeader>
+      productImage="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-kersaboem.webp"></ProductHeader>
 
     <!-- About Start -->
     <div class="container-xxl py-5" id="testbericht">
@@ -95,11 +93,8 @@
 
             <p>
               TROBOLO verwendet, wie auch bei der
-              <NuxtLink
-                to="/trobolo-terabloem/"
-                title="TROBOLO TeraBlœm im Test"
-                >TROBOLO TeraBlœm</NuxtLink
-              >, ausschließlich nachhaltige Materialien. Das verwendet Holz ist
+              <NuxtLink to="/trobolo-terabloem/" title="TROBOLO TeraBlœm im Test">TROBOLO TeraBlœm</NuxtLink>,
+              ausschließlich nachhaltige Materialien. Das verwendet Holz ist
               FSC®-zertifiziert. Somit wird nur Holz verwendet, welches aus
               verantwortungsvoller Waldwirtschaft ökologisch, sinnvoll und
               sozial gerecht abgebaut wird. Das von TROBOLO eigens entwickelte
@@ -173,25 +168,15 @@
                 </p>
               </div>
             </div>
-            <a
-              class="btn btn-primary py-3 px-5"
-              target="_blank"
-              rel="nofollow noopener"
-              href="https://trobolo.com/de/produkte/kersaboem/"
-              >Bestellen</a
-            >
+            <a class="btn btn-primary py-3 px-5" target="_blank" rel="nofollow noopener"
+              href="https://trobolo.com/de/produkte/kersaboem/">Bestellen</a>
           </div>
           <div class="col-lg-4 fadeInUp">
             <ProductCard :product="product" />
             <div class="mt-5">
-              <a
-                class="btn btn-primary py-3 px-5"
-                target="_blank"
-                rel="nofollow noopener"
-                href="https://trobolo.com/de/produkte/kersaboem/"
-                style="display: block; width: 100%"
-                >TROBOLO Online Shop</a
-              >
+              <a class="btn btn-primary py-3 px-5" target="_blank" rel="nofollow noopener"
+                href="https://trobolo.com/de/produkte/kersaboem/" style="display: block; width: 100%">TROBOLO Online
+                Shop</a>
             </div>
           </div>
         </div>
@@ -204,6 +189,8 @@
 <script>
 import products from "~/assets/products.json";
 
+const product = products.find((item) => item.name === "TROBOLO KersaBœm");
+
 export default {
   name: "TROBOLO KersaBœm",
   head: {
@@ -215,6 +202,11 @@ export default {
         content:
           "Die Gartentoilette KersaBœm von TROBOLO ist eine autarke Trockentrenntoilette welche als vorgefertigter Bausatz geliefert wird. Lesen Sie unseren Testbericht.",
       },
+      {
+        hid: "robots",
+        name: "robots",
+        content: product.robots
+      }
     ],
   },
   asyncData: () => {

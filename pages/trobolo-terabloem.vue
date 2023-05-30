@@ -157,6 +157,8 @@
 <script>
 import products from "~/assets/products.json";
 
+const product = products.find((item) => item.name === "TROBOLO TeraBlœm");
+
 export default {
   name: "TeraBloem",
   head: {
@@ -171,7 +173,7 @@ export default {
       {
         hid: 'robots',
         name: 'robots',
-        content: 'index, follow'
+        content: product.robots
       }
     ],
   },

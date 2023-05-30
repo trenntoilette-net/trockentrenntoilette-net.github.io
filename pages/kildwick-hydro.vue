@@ -1,10 +1,8 @@
 <template>
   <div>
-    <ProductHeader
-      productName="Kildwick MiniLoo HYDRO"
+    <ProductHeader productName="Kildwick MiniLoo HYDRO"
       textContent="Das Kildwick MiniLoo HYDRO ist eine kompakte, handliche Trockentrenntoilette, die sich mit wenigen Handgriffen schnell zusammensetzen lässt. Besonders interessant: Dank der hochwertigen Verarbeitung und der wasserfesten Bauteile hält diese Trockentrenntoilette Feuchtigkeit problemlos stand. Ob sich die Toilette für dich eignet, erfährst du in diesem Testbericht. "
-      :productImage="product.image"
-    ></ProductHeader>
+      :productImage="product.image"></ProductHeader>
 
     <!-- About Start -->
     <div class="container-xxl py-5" id="testbericht">
@@ -100,11 +98,7 @@
             <p class="mb-4">
               Wer eine preiswerte Alternative zum MiniLoo HYDRO sucht, kann
               einen Blick auf das
-              <NuxtLink
-                to="/trobolo-wandago/"
-                title="TROBOLO WandaGO Campingtoilette"
-                >WandaGO von TROBOLO</NuxtLink
-              >
+              <NuxtLink to="/trobolo-wandago/" title="TROBOLO WandaGO Campingtoilette">WandaGO von TROBOLO</NuxtLink>
               werfen. Diese Campingtoilette ist ebenfalls robust und
               feuchtigkeitstauglich und verfügt außerdem über ein integriertes
               SafeShell System®, das den Flüssgikeitsbehälter vor dem
@@ -143,25 +137,14 @@
                 </p>
               </div>
             </div>
-            <a
-              class="btn btn-primary py-3 px-5"
-              target="_blank"
-              rel="nofollow noopener"
-              :href="product.shopLink"
-              >Bestellen</a
-            >
+            <a class="btn btn-primary py-3 px-5" target="_blank" rel="nofollow noopener"
+              :href="product.shopLink">Bestellen</a>
           </div>
           <div class="col-lg-4 fadeInUp">
             <ProductCard :product="product" />
             <div class="mt-5">
-              <a
-                class="btn btn-primary py-3 px-5"
-                target="_blank"
-                rel="nofollow noopener"
-                :href="product.shopLink"
-                style="display: block; width: 100%"
-                >{{ product.brand }} Online Shop</a
-              >
+              <a class="btn btn-primary py-3 px-5" target="_blank" rel="nofollow noopener" :href="product.shopLink"
+                style="display: block; width: 100%">{{ product.brand }} Online Shop</a>
             </div>
           </div>
         </div>
@@ -174,6 +157,8 @@
 <script>
 import products from "~/assets/products.json";
 
+const product = products.find((item) => item.name === "Kildwick MiniLoo HYDRO");
+
 export default {
   name: "KildwickHYDRO",
   head: {
@@ -184,6 +169,11 @@ export default {
         name: "description",
         content:
           "Kildwick HYDRO ist eine Trockentrenntoilette die sich ideal als Nasszelle eignet. Sie kommt als Bausatz geliefert. Erfahre mehr in unserem ausführlichen Test.",
+      },
+      {
+        hid: "robots",
+        name: "robots",
+        content: product.robots
       },
     ],
   },

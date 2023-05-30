@@ -166,6 +166,8 @@
 <script>
 import products from "~/assets/products.json";
 
+const product = products.find((item) => item.name === "Boxio");
+
 export default {
   name: "TrelinoEvoS",
   head: {
@@ -177,6 +179,11 @@ export default {
         content:
           "Die Boxio Campingtoilette ist eine mobile Trockentrenntoilette im Eurobox-Format. Sie ist leicht, kompakt und stapelbar. Der ideale Begleiter fürs Camping.",
       },
+      {
+        hid: "robots",
+        name: "robots",
+        content: product.robots
+      }
     ],
   },
   asyncData: () => {
