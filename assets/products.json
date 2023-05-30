@@ -17,7 +17,8 @@
     "image": "/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp",
     "shopLink": "https://trobolo.com/de/produkte/terabloem/",
     "featured": 1,
-    "winner": 1
+    "winner": 1,
+    "published": 1
   },
   {
     "brand": "TROBOLO",
@@ -36,7 +37,8 @@
     "reviewCount": 299,
     "image": "/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-luwebloem.webp",
     "shopLink": "https://trobolo.com/de/produkte/luwebloem/",
-    "featured": 1
+    "featured": 1,
+    "published": 1
   },
   {
     "brand": "TROBOLO",
@@ -55,7 +57,8 @@
     "reviewCount": 412,
     "image": "/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-kersaboem.webp",
     "shopLink": "https://trobolo.com/de/produkte/kersaboem/",
-    "featured": 1
+    "featured": 1,
+    "published": 1
   },
   {
     "brand": "Kildwick",
@@ -75,7 +78,8 @@
     "image": "/assets/images/trockentrenntoiletten/trockentrenntoilette-kildwick-miniloo.webp",
     "shopLink": "https://www.kildwick.com/Kildwick-Bausatz-Campingtoilette-Komposttoilette-MiniLoo",
     "featured": 0,
-    "winner": 1
+    "winner": 1,
+    "published": 1
   },
   {
     "brand": "Kildwick",
@@ -96,7 +100,8 @@
     "shopLink": "https://www.kildwick.com/de/miniloo-hydro-bausatz-weiss",
     "featured": 1,
     "winner": 0,
-    "image": "/assets/images/campingtoiletten/miniloo-hydro-bausatz-weiss.webp"
+    "image": "/assets/images/campingtoiletten/miniloo-hydro-bausatz-weiss.webp",
+    "published": 1
   },
   {
     "brand": "Trelino",
@@ -116,7 +121,8 @@
     "image": "/assets/images/trockentrenntoiletten/trockentrenntoilette-trelino-l-hpl-veredelung.webp",
     "shopLink": "https://www.trelino.com/de/products/trelino-l-wood-hpl-composting-toilet",
     "featured": 1,
-    "winner": 1
+    "winner": 1,
+    "published": 1
   },
   {
     "brand": "Separett",
@@ -135,7 +141,8 @@
     "reviewCount": 189,
     "image": "/assets/images/trockentrenntoiletten/trockentrenntoilette-separett-tiny.webp",
     "shopLink": "https://separett.com/de/trenntoilette-tiny-mit-urinkanister",
-    "featured": 1
+    "featured": 0,
+    "published": 0
   },
   {
     "brand": "TROBOLO",
@@ -154,7 +161,8 @@
     "reviewCount": 145,
     "image": "/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-kitaboem.webp",
     "shopLink": "https://trobolo.com/de/produkte/kitaboem/",
-    "featured": 1
+    "featured": 0,
+    "published": 0
   },
   {
     "brand": "Trelino",
@@ -173,7 +181,8 @@
     "reviewCount": 199,
     "image": "/assets/images/trockentrenntoiletten/trockentrenntoilette-trelino-trelino-l.webp",
     "shopLink": "https://www.trelino.com/de/products/trelino-l-composting-toilet?variant=42102497542385",
-    "featured": 1
+    "featured": 0,
+    "published": 0
   },
   {
     "brand": "Trelino",
@@ -192,7 +201,8 @@
     "reviewCount": 189,
     "image": "/assets/images/trockentrenntoiletten/trockentrenntoilette-trelino-trelino-m-weiss.webp",
     "shopLink": "https://www.trelino.com/de/collections/composting-toilets/products/trelino%C2%AE-m-composting-toilet-made-of-wood-with-hpl-finish-in-white",
-    "featured": 0
+    "featured": 0,
+    "published": 0
   },
   {
     "brand": "TROBOLO",
@@ -223,7 +233,8 @@
       "/assets/images/campingtoiletten/trobolo-wandago/trobolo-wandago-campingtoilette-7.jpg",
       "/assets/images/campingtoiletten/trobolo-wandago/trobolo-wandago-campingtoilette-8.jpg",
       "/assets/images/campingtoiletten/trobolo-wandago/trobolo-wandago-campingtoilette-9.jpg"
-    ]
+    ],
+    "published": 1
   },
   {
     "brand": "Trelino",
@@ -252,7 +263,8 @@
       "/assets/images/campingtoiletten/trelino-evo-s/trelino-evo-s-6.png",
       "/assets/images/campingtoiletten/trelino-evo-s/trelino-evo-s-7.png",
       "/assets/images/campingtoiletten/trelino-evo-s/trelino-evo-s-8.png"
-    ]
+    ],
+    "published": 1
   },
   {
     "brand": "Boxio",
@@ -271,6 +283,7 @@
     "reviewCount": 43,
     "image": "/assets/images/campingtoiletten/boxio-campingtoilette-eurobox.jpg",
     "shopLink": "https://boxio.de/products/boxio-toilet",
-    "featured": 1
+    "featured": 1,
+    "published": 1
   }
 ]

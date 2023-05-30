@@ -11,11 +11,7 @@
       </div>
       <div class="container">
         <div class="row">
-          <div
-            v-for="product in products"
-            :key="product"
-            class="col-lg-4 fadeInUp"
-          >
+          <div v-for="product in products" :key="product" class="col-lg-4 fadeInUp">
             <ProductItem :product="product" class="mt-5" />
           </div>
         </div>
@@ -44,7 +40,7 @@ export default {
   asyncData() {
     let category = "Innenbereich";
     return {
-      products: products.filter((item) => item.category === category),
+      products: products.filter((item) => item.category === category && item.published),
     };
   },
 };

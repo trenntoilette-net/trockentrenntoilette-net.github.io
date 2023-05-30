@@ -11,11 +11,7 @@
       </div>
       <div class="container">
         <div class="row">
-          <div
-            v-for="product in products"
-            :key="product"
-            class="col-lg-4 fadeInUp"
-          >
+          <div v-for="product in products" :key="product" class="col-lg-4 fadeInUp">
             <ProductItem :product="product" class="mt-5" />
           </div>
         </div>
@@ -39,9 +35,7 @@
             <p class="mb-4">
               Komplett ohne Wasser und Strom kommen dabei die sogenannten
               Campingtoiletten als
-              <nuxt-link to="/" title="Trockentrenntoiletten"
-                >Trockentrenntoiletten</nuxt-link
-              >
+              <nuxt-link to="/" title="Trockentrenntoiletten">Trockentrenntoiletten</nuxt-link>
               aus. Dabei werden die menschlichen Ausscheidungen strikt in
               Feststoffe und flüssige Stoffe getrennt. Das sorgt nicht nur für
               eine Vermeidung der Geruchsbelästigung, sondern liefert einen
@@ -138,7 +132,7 @@ export default {
   asyncData() {
     let category = "Campingtoilette";
     return {
-      products: products.filter((item) => item.category === category),
+      products: products.filter((item) => item.category === category && item.published),
     };
   },
 };
