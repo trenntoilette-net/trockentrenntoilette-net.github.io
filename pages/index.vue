@@ -22,9 +22,7 @@
             </div>
             <h1 class="mb-4">Trockentrenntoiletten</h1>
             <p class="mb-4">
-              Wir sind dein Ratgeber für Trockentrenntoiletten. Wir testen
-              Hersteller, Produkte und liefern dir die Infos die du benötigst,
-              um die passende Trockentrenntoilette zu finden.
+              Wir sind Ihr Ratgeber für Trockentrenntoiletten. Wir testen Hersteller, Produkte und liefern Ihnen die Infos die Sie benötigen, um die passende Trockentrenntoilette zu finden.
             </p>
             <p class="mb-4">
               Unsere Tests beinhalten mehrere Kriterien denen wir gründlich auf
@@ -160,7 +158,7 @@
           <h3 class="mb-5 h2">Hersteller</h3>
         </div>
         <div class="row g-3">
-          <div class="col-lg-7 col-md-6">
+          <div class="col-lg-8 offset-lg-2">
             <div class="row g-3">
               <div class="col-lg-12 col-md-12 zoomIn">
                 <NuxtLink
@@ -238,27 +236,6 @@
                 </NuxtLink>
               </div>
             </div>
-          </div>
-          <div class="col-lg-5 col-md-6 zoomIn" style="min-height: 350px">
-            <button class="position-relative d-block h-100 overflow-hidden">
-              <div class="grayscaleContainer">
-                <img
-                  class="img-fluid grayscale"
-                  src="/assets/images/hersteller/meinetrenntoilette.webp"
-                  alt="MeineTrenntoilette"
-                />
-                <div class="overlay">
-                  <div class="overlayText">Meine Trenntoilette</div>
-                </div>
-              </div>
-              <div
-                class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3"
-                style="margin: 1px"
-              >
-                <div class="m-0 h5">Meine Trenntoilette</div>
-                <!-- <small class="text-primary">Deutschland</small> -->
-              </div>
-            </button>
           </div>
         </div>
       </div>
