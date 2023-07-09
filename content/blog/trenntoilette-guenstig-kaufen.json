@@ -1,0 +1,27 @@
+{
+    "slug": "best-blog-post-ever",
+    "seoTitle": "A clear, concise SEO title goes here. This should contain your primary keyword. If left empty, it will be auto generated from the article title.",
+    "metaDescription": "Here, write a brief summary of the page. This should include your primary keyword and should be enticing to readers. If left empty, it will be auto generated from your content.",
+    "title": "The main title of your blog article goes here.",
+    "subtitle": "This is the subtitle of the blog article",
+    "mainImage": "/assets/images/blog/kompass.jpg",
+    "date": "05.07.2023",
+    "introductionText": "This is the best blog post ever",
+    "content": [
+        {
+            "type": "paragraph",
+            "title": "Subheading for this section",
+            "content": "Here, write a detailed paragraph related to the subheading. Here, write a detailed paragraph related to the subheading. Here, write a detailed paragraph related to the subheading.Here, write a detailed paragraph related to the subheading.Here, write a detailed paragraph related to the subheading.Here, write a detailed paragraph related to the subheading.Here, write a detailed paragraph related to the subheading.Here, write a detailed paragraph related to the subheading.Here, write a detailed paragraph related to the subheading.Here, write a detailed paragraph related to the subheading.Here, write a detailed paragraph related to the subheading.Here, write a detailed paragraph related to the subheading."
+        },
+        {
+            "type": "image",
+            "title": "Caption for the image",
+            "filename": "/assets/images/blog/kompass.jpg"
+        },
+        {
+            "type": "paragraph",
+            "title": "Another subheading for a different section",
+            "content": "Here, write another detailed paragraph related to the new subheading. Here, write a detailed paragraph related to the subheading.Here, write a detailed paragraph related to the subheading.Here, write a detailed paragraph related to the subheading.Here, write a detailed paragraph related to the subheading.Here, write a detailed paragraph related to the subheading.Here, write a detailed paragraph related to the subheading.Here, write a detailed paragraph related to the subheading.Here, write a detailed paragraph related to the subheading.Here, write a detailed paragraph related to the subheading.Here, write a detailed paragraph related to the subheading.Here, write a detailed paragraph related to the subheading.Here, write a detailed paragraph related to the subheading.Here, write a detailed paragraph related to the subheading."
+        }
+    ]
+}

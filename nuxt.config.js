@@ -73,7 +73,7 @@ export default {
   },
 
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: ["@nuxtjs/sitemap", "@nuxtjs/robots"],
+  modules: ["@nuxtjs/sitemap", "@nuxtjs/robots", "@nuxt/content"],
 
   // Sitemap
   sitemap: {
