@@ -1,16 +1,15 @@
 <template>
     <div>
         <div class="card h-100" style="width: 18rem;">
-            <nuxt-link :target="article.isDownloadableFile ? '_blank' : false"
-                :download="article.isDownloadableFile ? '' : false" :to="article.link" :title="article.title">
-                <nuxt-img class="card-img-top blogThumbnails" height="200" width="286" :src="article.image"
+            <nuxt-link :to="article.slug + '/'" :title="article.title">
+                <nuxt-img class="card-img-top blogThumbnails" height="200" width="286" :src="article.mainImage"
                     format="webp" quality="90" :alt="article.title" />
             </nuxt-link>
             <div class="card-body">
                 <p class="card-text">
                     {{ article.date }}
                 </p>
-                <nuxt-link :to="article.link" :title="article.title">
+                <nuxt-link :to="article.slug" :title="article.title">
                     <h5 class="card-title">
                         {{ article.title }}
                     </h5>
@@ -18,11 +17,8 @@
                 <p class="card-text pt-3 pb-3">
                     <small class="text-muted">{{ article.subtitle }}</small>
                 </p>
-                <nuxt-link :target="article.isDownloadableFile ? '_blank' : false"
-                    :download="article.isDownloadableFile ? '' : false" :to="article.link" :title="article.title"
-                    class="btn btn-primary align-items-center d-block">
-                    {{ article.buttonText }}</nuxt-link>
-
+                <nuxt-link :to="article.slug + '/'" :title="article.title"
+                    class="btn btn-primary align-items-center d-block">Beitrag lesen </nuxt-link>
             </div>
         </div>
     </div>

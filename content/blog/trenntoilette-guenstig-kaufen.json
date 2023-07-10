@@ -1,7 +1,7 @@
 {
     "slug": "best-blog-post-ever",
     "seoTitle": "A clear, concise SEO title goes here. This should contain your primary keyword. If left empty, it will be auto generated from the article title.",
-    "metaDescription": "Here, write a brief summary of the page. This should include your primary keyword and should be enticing to readers. If left empty, it will be auto generated from your content.",
+    "metaDescription": "Write a nice meta desc here",
     "title": "The main title of your blog article goes here.",
     "subtitle": "This is the subtitle of the blog article",
     "mainImage": "/assets/images/blog/kompass.jpg",

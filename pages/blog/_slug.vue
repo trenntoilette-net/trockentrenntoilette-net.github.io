@@ -46,6 +46,19 @@ export default {
         const articles = await $content("blog").where({ slug: params.slug }).fetch()
         console.log(articles)
         return { article: articles[0] }
+    },
+    head() {
+        return {
+            title: this.article.seoTitle,
+            meta: [
+                {
+                    hid: 'description',
+                    name: 'description',
+                    content: this.article.metaDescription
+                },
+                // any other meta tags you want
+            ]
+        }
     }
 }
 </script>
