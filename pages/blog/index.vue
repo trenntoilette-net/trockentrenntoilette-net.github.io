@@ -31,7 +31,8 @@ import config from "/assets/data/config.json";
 export default {
   name: "BlogIndex",
   async asyncData({ $content }) {
-    const contentArticles = await $content('blog').fetch()
+    const contentArticles = await $content('blog').where({ publish: true }).fetch()
+    console.log(contentArticles)
 
     return { contentArticles, articles: config.blogArticles, config }
   },

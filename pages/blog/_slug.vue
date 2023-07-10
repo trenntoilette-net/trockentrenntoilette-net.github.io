@@ -15,7 +15,7 @@
                             <template v-for="(item, index) in article.content">
                                 <div v-if="item.type == 'paragraph'" class="pt-3 pb-3">
                                     <h1>{{ item.title }}</h1>
-                                    <p class="mb-4">{{ item.content }}</p>
+                                    <p class="mb-4 pt-3" v-html="item.content"></p>
                                 </div>
                                 <div v-else-if="item.type == 'image'" class="pt-5 pb-5">
                                     <img :src="item.filename" :alt="item.title" class="img-fluid" />
@@ -43,7 +43,7 @@
 export default {
     async asyncData({ params, $content }) {
         console.log(params.slug)
-        const articles = await $content("blog").where({ slug: params.slug }).fetch()
+        const articles = await $content("blog").where({ slug: params.slug, publish: true }).fetch()
         console.log(articles)
         return { article: articles[0] }
     },
@@ -59,6 +59,26 @@ export default {
                 // any other meta tags you want
             ]
         }
+    },
+    jsonld() {
+        if (!this.article.faq) {
+            return {}
+        }
+
+        const faqData = this.article.faq.map(faq => ({
+            "@type": "Question",
+            name: faq.question,
+            acceptedAnswer: {
+                "@type": "Answer",
+                text: faq.answer,
+            },
+        }));
+
+        return {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            mainEntity: faqData,
+        };
     }
 }
 </script>

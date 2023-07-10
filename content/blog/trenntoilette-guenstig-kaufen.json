@@ -1,5 +1,6 @@
 {
     "slug": "best-blog-post-ever",
+    "publish": false,
     "seoTitle": "A clear, concise SEO title goes here. This should contain your primary keyword. If left empty, it will be auto generated from the article title.",
     "metaDescription": "Write a nice meta desc here",
     "title": "The main title of your blog article goes here.",
