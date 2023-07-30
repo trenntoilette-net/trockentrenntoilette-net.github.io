@@ -6,7 +6,7 @@
         <div class="container-xxl py-5" id="article">
             <div class="container">
                 <div class="row g-5">
-                    <div class="col-lg-8 offset-lg-2 fadeInUp" style="min-height: 400px">
+                    <div class="col-lg-12 fadeInUp" style="min-height: 400px">
                         <div class="section-title bg-white text-start text-primary pe-3 text-center">
                             {{ article.date }}
                         </div>
