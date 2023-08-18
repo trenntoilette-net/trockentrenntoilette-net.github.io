@@ -6,9 +6,7 @@
 <script>
 export default {
     async asyncData({ params, $content }) {
-        console.log(params.slug)
         const articles = await $content("articles").where({ slug: params.slug }).fetch()
-        console.log(articles)
         return { article: articles[0] }
     }
 }

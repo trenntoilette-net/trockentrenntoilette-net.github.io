@@ -42,9 +42,7 @@
 <script>
 export default {
     async asyncData({ params, $content }) {
-        console.log(params.slug)
         const articles = await $content("blog").where({ slug: params.slug, publish: true }).fetch()
-        console.log(articles)
         return { article: articles[0] }
     },
     head() {
@@ -56,7 +54,6 @@ export default {
                     name: 'description',
                     content: this.article.metaDescription
                 },
-                // any other meta tags you want
             ]
         }
     },
