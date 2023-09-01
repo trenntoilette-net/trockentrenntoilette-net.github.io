@@ -40,7 +40,23 @@ export default {
         body: true,
       },
       { type: "text/javascript", src: "/assets/js/main.js", body: true },
+      {
+        src: "https://www.googletagmanager.com/gtag/js?id=G-H3346RZ599",
+        async: true,
+      },
+      {
+        innerHTML: `
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-H3346RZ599');
+                `,
+      },
     ],
+    __dangerouslyDisableSanitizersByTagID: {
+      // this is to prevent Nuxt from sanitizing the innerHTML
+      'google-gtag': ['innerHTML'],
+    },
   },
 
   generate: {
